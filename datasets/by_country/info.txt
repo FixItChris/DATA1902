@@ -1,0 +1,5 @@
+from https://worldpopulationreview.com/country-rankings/education-rankings-by-country
+
+from best countries report - "which used a compilation of scores from three equally weighted country
+attributes: having a well-developed public education system, whether people would consider attending 
+university there and if that country provides a top quality education."

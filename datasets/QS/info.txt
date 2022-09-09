@@ -1,0 +1,5 @@
+for 2018-2020:
+https://www.kaggle.com/datasets/divyansh22/qs-world-university-rankings
+
+combined:
+https://www.kaggle.com/code/tsaigau/qs-world-university-rankings-2017-2022-eda/data
