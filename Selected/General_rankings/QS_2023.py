@@ -12,8 +12,8 @@ df_dropped = df.drop(columns=['rank display2', 'location code', 'ar rank', 'er r
 df_dropped['age band'] = df_dropped['age band'].astype(object)
 df_dropped.replace('-', np.NaN, inplace = True)
 df_dropped['score scaled'] = df_dropped['score scaled'].astype(float)
-
-#print(df_dropped.describe())
+df_dropped.to_csv("QS/QS2023_cleaned.csv", index=False)
+print(df_dropped.info())
 
 ## General summary
 '''print(df.columns)
@@ -22,7 +22,10 @@ print(df.info())
 print(df.describe())'''
 
 ## Grouping by country - Comparing overall scores
-df_grouped = df_dropped.dropna().groupby("location")['score scaled']
+df_grouped = df_dropped.dropna().groupby("location")[['ar score', 'er score', 'fsr score', 'cpf score', 'ifr score', 'isr score', 'irn score', 'ger score', 'score scaled']]
+df_country_mean = df_grouped.mean()
+df_country_mean.to_csv("QS/QS2023_bycountry.csv")
+
 #print(df_grouped.describe().sort_values('count', ascending=False)) # No. universities in top 500
 #print(df_grouped.describe().sort_values('mean', ascending=False)) # Sorted by mean
 #print(df_grouped.describe().sort_values('50%', ascending=False)) # Sorted by median

@@ -1,0 +1,1423 @@
+institution,location,size,focus,research,age band,status,ar score,er score,fsr score,cpf score,ifr score,isr score,irn score,ger score,score scaled
+Massachusetts Institute of Technology (MIT) ,United States,M,CO,VH,5.0,B,100.0,100.0,100.0,100.0,100.0,90.0,96.1,100.0,100.0
+University of Cambridge,United Kingdom,L,FC,VH,5.0,A,100.0,100.0,100.0,92.3,100.0,96.3,99.5,100.0,98.8
+Stanford University,United States,L,FC,VH,5.0,B,100.0,100.0,100.0,99.9,99.8,60.3,96.3,100.0,98.5
+University of Oxford,United Kingdom,L,FC,VH,5.0,A,100.0,100.0,100.0,90.0,98.8,98.4,99.9,100.0,98.4
+Harvard University,United States,L,FC,VH,5.0,B,100.0,100.0,99.4,100.0,76.9,66.9,100.0,100.0,97.6
+California Institute of Technology (Caltech),United States,S,CO,VH,5.0,B,96.5,87.1,100.0,100.0,99.8,85.1,73.0,98.8,97.0
+Imperial College London,United Kingdom,L,FC,VH,5.0,A,98.3,99.7,99.5,86.5,100.0,100.0,98.1,88.8,97.0
+UCL,United Kingdom,XL,FC,VH,5.0,A,99.4,98.6,97.6,77.0,99.2,100.0,100.0,90.3,95.0
+ETH Zurich - Swiss Federal Institute of Technology,Switzerland,L,CO,VH,5.0,A,98.6,91.3,74.2,99.2,100.0,98.0,96.2,91.1,93.6
+University of Chicago,United States,L,FC,VH,5.0,B,99.2,92.2,92.9,86.8,81.6,76.0,89.6,98.2,93.2
+National University of Singapore (NUS),Singapore,XL,FC,VH,3.0,A,99.5,94.1,79.8,91.8,100.0,73.5,89.9,99.6,92.7
+Peking University,China (Mainland),XL,FC,VH,5.0,A,99.3,96.5,87.3,96.7,57.1,36.9,77.5,91.4,91.3
+University of Pennsylvania,United States,L,FC,VH,5.0,B,96.5,92.5,99.9,70.9,96.2,66.1,93.3,100.0,90.6
+Tsinghua University,China (Mainland),XL,FC,VH,4.0,A,98.9,97.7,92.8,98.1,16.7,25.7,75.5,87.1,90.1
+The University of Edinburgh,United Kingdom,XL,FC,VH,5.0,A,98.0,97.2,81.1,70.1,98.9,99.5,98.7,54.3,89.5
+EPFL,Switzerland,M,FO,VH,5.0,A,83.7,71.8,91.1,99.4,100.0,100.0,87.3,28.0,89.2
+Princeton University,United States,M,CO,VH,5.0,B,99.9,98.9,72.6,100.0,26.0,62.2,78.5,100.0,89.2
+Yale University,United States,M,FC,VH,5.0,B,99.9,100.0,100.0,51.5,89.2,77.3,92.0,100.0,89.0
+"Nanyang Technological University, Singapore (NTU)",Singapore,L,FC,VH,3.0,A,90.4,76.1,83.2,94.1,100.0,74.1,89.6,84.6,88.4
+Cornell University,United States,L,FC,VH,5.0,B,98.3,91.4,62.2,99.3,63.9,55.3,90.0,99.5,87.2
+The University of Hong Kong,Hong Kong SAR,L,FC,VH,5.0,A,97.4,62.9,84.2,72.6,100.0,98.7,81.1,99.0,87.0
+Columbia University,United States,L,FC,VH,5.0,B,99.7,98.1,100.0,47.2,47.6,94.6,98.9,99.8,86.7
+The University of Tokyo,Japan,L,FC,VH,5.0,A,100.0,99.7,91.9,73.3,10.4,27.8,89.5,97.8,85.3
+Johns Hopkins University,United States,L,FC,VH,5.0,B,87.9,47.2,100.0,87.3,63.6,82.9,97.7,95.3,85.1
+University of Michigan-Ann Arbor,United States,XL,FC,VH,5.0,A,98.5,91.3,88.9,62.5,71.2,33.1,96.3,96.0,84.4
+Université PSL,France,L,CO,VH,1.0,A,74.4,97.0,99.8,84.1,59.7,83.6,99.7,53.9,83.8
+"University of California, Berkeley (UCB)",United States,XL,FC,VH,5.0,A,100.0,100.0,23.9,99.9,93.3,57.7,96.7,99.1,82.7
+The University of Manchester,United Kingdom,XL,FC,VH,5.0,A,95.1,97.7,63.1,59.0,93.4,99.4,98.9,66.4,82.3
+Seoul National University,South Korea,L,FC,VH,4.0,A,98.6,97.8,87.0,70.3,12.2,10.3,79.3,97.7,82.2
+The Australian National University,Australia,L,FC,VH,4.0,A,93.6,70.1,38.0,99.3,100.0,96.0,94.6,59.1,82.1
+McGill University,Canada,XL,FC,VH,5.0,A,93.3,93.6,68.9,59.6,87.6,95.1,95.2,90.0,81.9
+Northwestern University,United States,L,FC,VH,5.0,B,84.4,71.9,98.3,84.2,40.5,38.8,89.0,98.4,81.8
+The University of Melbourne,Australia,XL,FC,VH,5.0,A,98.6,94.9,17.9,95.0,93.1,99.8,97.6,91.1,81.6
+Fudan University,China (Mainland),XL,FC,VH,4.0,A,83.6,93.5,89.3,70.4,89.3,38.7,70.6,65.7,81.5
+University of Toronto,Canada,XL,FC,VH,5.0,A,99.6,98.3,65.6,43.5,95.8,95.7,96.7,94.0,81.5
+Kyoto University,Japan,L,FC,VH,5.0,A,98.6,98.9,94.8,54.2,14.9,22.1,85.5,56.9,81.4
+King's College London,United Kingdom,XL,FC,VH,5.0,A,88.8,83.2,74.5,60.5,98.6,100.0,99.3,56.9,81.2
+The Chinese University of Hong Kong (CUHK),Hong Kong SAR,L,FC,VH,4.0,A,87.3,49.6,60.9,92.9,100.0,90.5,74.9,79.4,80.6
+New York University (NYU),United States,XL,FC,VH,5.0,B,95.9,99.0,98.1,28.9,31.3,94.4,92.0,99.7,80.3
+The Hong Kong University of Science and Technology,Hong Kong SAR,M,CO,VH,3.0,A,82.0,50.1,62.6,98.6,100.0,87.9,56.2,91.2,79.8
+The University of Sydney,Australia,XL,FC,VH,5.0,A,96.2,91.7,15.6,92.1,99.3,100.0,97.3,90.8,79.6
+KAIST - Korea Advanced Institute of Science & Technology,South Korea,M,CO,VH,4.0,A,88.1,85.8,68.9,97.7,23.1,12.3,65.2,63.2,79.3
+Zhejiang University,China (Mainland),XL,FC,VH,4.0,A,72.2,95.3,78.7,88.4,99.1,42.5,80.8,42.3,79.3
+"University of California, Los Angeles (UCLA)",United States,XL,FC,VH,5.0,A,100.0,99.9,37.7,85.9,45.1,27.5,96.3,98.0,78.7
+The University of New South Wales (UNSW Sydney),Australia,XL,FC,VH,4.0,A,89.0,91.1,16.8,97.6,100.0,99.8,98.2,93.0,78.0
+Shanghai Jiao Tong University,China (Mainland),XL,FC,VH,4.0,A,82.7,90.2,57.7,97.1,40.9,38.4,73.9,57.8,77.4
+University of British Columbia,Canada,XL,FC,VH,5.0,A,98.0,95.4,56.5,42.1,89.0,74.9,97.9,75.2,77.0
+Institut Polytechnique de Paris,France,M,CO,VH,1.0,A,45.3,99.4,98.9,94.0,97.0,98.2,94.8,99.8,76.8
+Technical University of Munich,Germany,XL,FO,VH,5.0,A,84.0,96.8,96.4,25.8,70.3,95.0,91.8,37.5,76.4
+Duke University,United States,L,FC,VH,5.0,B,86.1,79.8,100.0,41.2,20.2,55.1,95.5,98.6,74.8
+The University of Queensland,Australia,XL,FC,VH,5.0,A,86.6,75.6,20.2,90.8,100.0,100.0,94.6,41.8,74.8
+Carnegie Mellon University,United States,L,FC,VH,5.0,B,72.1,69.0,58.6,100.0,38.2,97.1,88.7,85.3,74.6
+"University of California, San Diego (UCSD)",United States,XL,FC,VH,4.0,A,90.0,61.6,55.6,77.0,54.9,53.7,96.9,21.2,74.5
+City University of Hong Kong,Hong Kong SAR,M,CO,VH,3.0,A,57.3,29.4,88.6,98.1,100.0,100.0,55.1,57.2,73.6
+Tokyo Institute of Technology (Tokyo Tech),Japan,M,CO,VH,4.0,A,74.1,93.4,81.5,65.9,36.1,37.9,55.8,33.6,72.5
+The London School of Economics and Political Science (LSE),United Kingdom,L,SP,VH,5.0,A,69.0,98.3,37.8,84.6,100.0,100.0,67.6,99.9,72.3
+Monash University,Australia,XL,FC,VH,4.0,A,87.6,80.8,11.2,79.3,100.0,100.0,95.1,56.8,71.6
+University of Amsterdam,Netherlands,XL,FC,VH,5.0,A,82.7,42.3,26.7,97.3,92.3,80.7,97.2,51.4,71.1
+Ludwig-Maximilians-Universität München,Germany,XL,FC,VH,5.0,A,92.6,75.7,56.0,45.5,64.2,38.8,94.7,39.3,70.4
+Sorbonne University,France,XL,FC,VH,1.0,A,90.0,41.7,40.6,86.3,28.3,54.7,99.6,60.9,70.1
+Delft University of Technology,Netherlands,L,CO,VH,5.0,A,71.6,80.2,34.5,84.4,100.0,83.7,95.9,64.0,70.0
+University of Bristol,United Kingdom,L,FC,VH,5.0,A,74.4,84.1,58.3,55.3,90.5,84.9,93.9,59.6,70.0
+Brown University,United States,M,FC,VH,5.0,B,57.6,54.2,80.8,89.9,82.8,49.8,73.6,99.6,69.6
+The University of Warwick,United Kingdom,L,FC,VH,4.0,A,71.8,89.3,43.1,63.1,98.1,99.2,93.6,62.0,69.1
+Ruprecht-Karls-Universität Heidelberg,Germany,L,FC,VH,5.0,A,78.7,40.3,99.8,41.1,51.3,47.2,95.2,22.8,69.0
+The Hong Kong Polytechnic University,Hong Kong SAR,L,CO,VH,3.0,A,66.1,37.0,78.4,68.9,100.0,80.7,74.2,49.2,69.0
+Universidad de Buenos Aires (UBA),Argentina,XL,FC,VH,5.0,A,92.3,94.0,76.0,1.8,63.7,68.9,63.0,34.3,68.9
+Osaka University,Japan,L,FC,VH,4.0,A,80.2,85.4,67.4,59.1,25.0,14.4,75.2,21.0,68.2
+Université Paris-Saclay,France,L,CO,VH,1.0,A,57.2,99.2,99.7,49.5,43.7,59.1,97.1,7.8,68.1
+Universiti Malaya (UM),Malaysia,L,FC,VH,4.0,A,79.6,94.9,67.8,39.4,43.6,53.0,91.8,41.9,67.9
+Pohang University of Science And Technology (POSTECH),South Korea,S,FO,VH,3.0,B,47.4,69.4,100.0,98.0,34.7,2.9,30.9,54.8,67.7
+University of Texas at Austin,United States,XL,FC,VH,5.0,A,93.7,85.2,9.8,90.9,7.6,10.8,90.9,71.1,67.4
+Yonsei University,South Korea,L,FC,VH,4.0,B,75.5,95.5,88.6,28.4,19.4,51.3,63.5,68.8,67.0
+Korea University,South Korea,L,FC,VH,4.0,B,79.3,93.9,86.1,29.5,14.7,32.9,63.1,71.8,66.9
+Lomonosov Moscow State University,Russia,XL,FC,VH,5.0,A,80.5,77.0,99.8,5.3,19.2,91.9,87.5,91.2,66.8
+KU Leuven,Belgium,XL,FC,VH,5.0,A,83.8,53.0,7.7,92.7,91.9,43.3,99.1,44.8,66.0
+National Taiwan University (NTU),Taiwan,XL,FC,VH,4.0,A,92.3,92.6,33.4,49.7,19.0,32.6,75.0,96.7,65.7
+University of Southampton,United Kingdom,L,FC,VH,5.0,A,50.7,56.6,63.3,82.7,96.1,93.8,96.7,42.8,65.0
+Tohoku University,Japan,L,FC,VH,5.0,A,71.8,78.1,98.6,34.2,14.1,16.4,66.8,18.7,64.9
+University of Washington,United States,XL,FC,VH,5.0,A,84.8,48.6,10.8,100.0,32.5,36.0,97.6,84.1,64.7
+University of Glasgow,United Kingdom,XL,FC,VH,5.0,A,75.1,75.1,50.5,34.7,95.5,98.9,94.7,29.4,64.6
+University of Copenhagen,Denmark,XL,FC,VH,5.0,A,72.8,36.6,100.0,26.0,91.3,24.5,99.1,58.2,64.1
+University of Wisconsin-Madison,United States,XL,FC,VH,5.0,A,82.4,48.1,70.6,41.9,37.7,23.8,93.2,84.6,63.7
+University of Zurich,Switzerland,L,FC,VH,5.0,A,58.0,39.2,93.3,49.3,100.0,55.5,93.5,77.8,63.7
+University of Illinois at Urbana-Champaign,United States,XL,FC,VH,5.0,A,85.6,60.9,9.5,88.7,20.3,46.4,92.2,70.0,63.6
+University of Leeds,United Kingdom,XL,FC,VH,5.0,A,70.2,78.4,41.6,47.8,86.3,86.5,97.8,42.9,62.8
+The University of Auckland,New Zealand,L,FC,VH,5.0,A,81.5,48.3,22.4,54.1,99.9,92.4,87.2,79.2,62.7
+Georgia Institute of Technology,United States,L,CO,VH,5.0,A,67.7,77.0,11.1,95.5,62.9,54.8,78.5,63.5,62.3
+KTH Royal Institute of Technology ,Sweden,L,CO,VH,5.0,A,45.8,58.2,70.0,76.4,97.1,70.2,89.9,81.4,62.1
+The University of Western Australia,Australia,L,FC,VH,5.0,A,55.6,49.9,21.8,98.9,100.0,99.9,98.2,65.0,61.7
+University of Birmingham,United Kingdom,XL,FC,VH,5.0,A,66.0,74.7,44.1,45.9,91.0,87.4,95.1,37.6,61.1
+Durham University,United Kingdom,L,FC,VH,5.0,A,57.9,89.2,31.0,65.7,97.2,87.2,89.1,43.6,60.9
+Pennsylvania State University,United States,XL,FC,VH,5.0,A,76.7,69.8,32.6,67.7,25.3,31.0,96.8,44.8,60.8
+University of Science and Technology of China,China (Mainland),L,CO,VH,4.0,A,51.6,12.4,86.6,99.9,18.7,5.7,67.0,37.6,60.7
+Lund University,Sweden,XL,FC,VH,5.0,A,68.8,50.9,51.3,41.4,95.8,76.6,97.6,64.9,60.1
+The University of Sheffield,United Kingdom,L,FC,VH,5.0,A,58.7,53.5,59.4,46.9,85.3,97.8,94.7,33.7,59.5
+University of St Andrews,United Kingdom,M,FC,VH,5.0,A,46.2,67.6,61.1,58.9,98.8,99.7,83.4,44.1,59.5
+"Trinity College Dublin, The University of Dublin",Ireland,L,FC,VH,5.0,A,67.9,48.2,25.7,60.2,99.8,93.3,87.3,97.9,59.1
+Sungkyunkwan University(SKKU),South Korea,L,FC,VH,5.0,B,60.2,72.7,83.9,37.8,18.9,38.7,58.8,33.9,58.9
+Rice University,United States,M,FC,VH,5.0,B,38.8,26.1,69.5,86.7,90.0,92.6,57.2,70.7,58.8
+University of Oslo,Norway,L,FC,VH,5.0,A,54.9,14.5,83.8,62.7,86.2,27.5,97.9,65.7,58.7
+"University of California, Davis",United States,XL,FC,VH,5.0,A,64.8,51.0,27.1,68.7,84.7,70.2,90.2,25.0,58.2
+"University of North Carolina, Chapel Hill",United States,XL,FC,VH,5.0,A,65.5,44.7,80.4,46.6,27.2,10.0,90.0,67.4,58.2
+Technical University of Denmark,Denmark,M,FO,VH,5.0,A,30.9,23.4,100.0,70.8,100.0,77.2,91.2,68.3,58.0
+Universidad Nacional Autónoma de México (UNAM),Mexico,XL,FC,VH,5.0,A,96.0,95.1,43.2,2.9,9.3,2.6,91.3,61.5,58.0
+King Abdulaziz University (KAU),Saudi Arabia,XL,FC,VH,4.0,A,48.4,70.7,66.3,50.6,99.0,54.3,93.4,10.5,57.8
+University of Helsinki,Finland,L,CO,VH,5.0,A,65.3,44.6,66.5,49.8,67.9,5.8,95.2,62.5,57.8
+Boston University,United States,L,FC,VH,5.0,B,62.3,57.2,40.4,61.6,33.7,83.3,86.9,80.5,57.2
+The University of Adelaide,Australia,L,FC,VH,5.0,A,52.3,35.2,17.2,94.5,99.8,99.8,93.1,40.2,57.0
+University of Alberta,Canada,XL,FC,VH,5.0,A,55.1,48.9,51.5,53.9,95.3,76.9,96.1,41.0,56.9
+École Normale Supérieure de Lyon,France,S,CO,VH,5.0,A,31.8,12.6,94.3,96.4,66.0,17.4,70.1,44.3,56.6
+Nagoya University,Japan,L,FC,VH,4.0,A,59.8,54.3,90.6,33.9,15.8,20.0,66.5,35.1,56.3
+Utrecht University,Netherlands,XL,FC,VH,5.0,A,65.8,26.6,35.1,79.6,58.3,23.1,94.7,42.5,56.3
+University of Nottingham,United Kingdom,XL,FC,VH,5.0,A,59.0,75.3,36.9,45.2,90.3,76.7,98.1,32.5,56.2
+Universidade de São Paulo,Brazil,XL,FC,VH,4.0,A,91.8,69.9,17.4,40.6,7.6,2.7,94.7,78.9,56.1
+Aalto University,Finland,L,FO,VH,2.0,A,44.5,45.8,44.4,89.3,94.9,35.6,90.3,79.8,55.9
+Université de Montréal ,Canada,XL,FC,VH,5.0,A,57.4,47.2,76.2,27.6,89.5,53.7,86.0,19.3,55.9
+Freie Universitaet Berlin,Germany,L,FC,VH,4.0,A,80.7,44.9,4.0,63.5,63.0,42.0,91.9,33.3,55.8
+Washington University in St. Louis,United States,L,FC,VH,5.0,B,40.1,15.3,99.9,55.6,82.4,55.1,84.9,71.0,55.8
+University of Bern,Switzerland,M,FO,VH,5.0,A,30.3,35.5,64.9,98.3,100.0,41.9,95.3,18.4,55.7
+Pontificia Universidad Católica de Chile (UC),Chile,L,FC,VH,5.0,B,91.8,98.1,22.3,12.5,17.9,3.9,82.7,90.4,54.9
+Newcastle University,United Kingdom,L,FC,VH,4.0,A,46.2,83.8,39.1,58.9,84.8,75.6,96.9,14.9,54.8
+Universiti Putra Malaysia (UPM),Malaysia,L,FC,VH,3.0,A,56.8,59.2,75.4,19.5,44.2,92.7,85.0,6.2,54.7
+Wageningen University & Research,Netherlands,L,FO,VH,5.0,A,42.8,17.0,97.4,48.2,50.5,76.4,96.9,18.8,54.6
+Chalmers University of Technology,Sweden,M,CO,VH,5.0,B,27.9,60.7,60.5,81.6,100.0,72.4,84.1,22.5,54.5
+Queen Mary University of London,United Kingdom,L,FC,VH,5.0,A,48.9,36.2,42.8,62.6,99.7,99.5,93.7,13.8,54.5
+University of Geneva,Switzerland,L,FC,VH,5.0,A,46.5,20.0,44.8,74.0,100.0,96.7,92.8,45.9,54.5
+Uppsala University,Sweden,L,FC,VH,5.0,A,63.6,27.4,43.4,43.4,95.3,74.7,97.1,48.5,54.3
+Purdue University,United States,XL,FC,VH,5.0,A,62.7,73.1,11.7,70.9,51.7,48.4,92.2,63.8,54.2
+Universiti Kebangsaan Malaysia (UKM),Malaysia,L,FC,VH,4.0,A,57.9,62.0,93.1,9.4,42.8,38.7,76.5,5.6,54.2
+Humboldt-Universität zu Berlin,Germany,XL,FC,VH,5.0,A,90.1,55.6,8.7,29.5,58.1,33.9,91.4,26.0,54.1
+Leiden University,Netherlands,XL,FC,VH,5.0,A,68.1,23.4,22.2,65.8,85.1,47.2,94.7,30.0,54.1
+Nanjing University,China (Mainland),XL,FC,VH,5.0,A,57.7,17.7,32.3,96.1,54.0,8.2,74.9,29.6,53.9
+University of Southern California,United States,XL,FC,VH,5.0,B,54.6,59.1,28.4,71.7,36.1,77.4,89.2,94.8,53.7
+Kyushu University,Japan,L,FC,VH,5.0,A,56.6,65.0,84.9,26.8,15.1,20.7,66.1,22.4,53.5
+University of Basel,Switzerland,M,FC,VH,5.0,A,28.0,26.8,53.8,95.7,100.0,84.1,90.1,52.7,53.3
+University of Technology Sydney,Australia,L,CO,VH,3.0,A,41.8,66.1,9.6,90.4,94.6,97.6,89.5,39.9,53.2
+Eindhoven University of Technology,Netherlands,M,FO,VH,4.0,A,28.9,72.8,50.5,78.2,100.0,56.9,72.3,45.1,52.7
+Politecnico di Milano,Italy,XL,FO,VH,5.0,A,67.8,76.8,5.4,53.5,57.5,54.3,87.8,39.7,52.4
+The Ohio State University,United States,XL,FC,VH,5.0,A,61.1,62.2,51.1,34.6,63.0,16.2,96.5,41.9,52.0
+Hokkaido University,Japan,L,FC,VH,5.0,A,55.6,60.7,77.8,30.0,18.3,17.2,72.8,16.7,51.9
+"KIT, Karlsruhe Institute of Technology",Germany,L,CO,VH,4.0,A,44.7,67.7,33.3,72.0,68.6,50.6,89.6,54.3,51.9
+Ghent University,Belgium,XL,FC,VH,5.0,A,54.0,30.1,83.2,26.9,72.5,21.4,99.1,24.8,51.6
+Universiti Sains Malaysia (USM),Malaysia,L,FC,VH,4.0,A,59.7,66.6,65.2,13.4,25.4,75.3,79.6,6.0,51.6
+University of Groningen,Netherlands,XL,FC,VH,5.0,A,51.6,21.6,54.4,42.2,93.4,86.9,96.3,20.9,51.4
+Lancaster University,United Kingdom,L,FC,VH,4.0,A,39.6,30.0,31.5,82.2,93.3,94.5,88.9,28.3,51.2
+RWTH Aachen University,Germany,XL,FC,VH,5.0,A,49.5,88.7,5.4,73.3,48.3,81.1,84.1,30.8,51.1
+University of Rochester,United States,M,FC,VH,5.0,B,23.8,20.1,99.3,55.0,74.9,95.1,75.1,46.5,51.1
+"University of California, Santa Barbara (UCSB)",United States,L,CO,VH,5.0,A,55.9,24.0,10.6,97.2,57.8,28.4,78.4,15.6,50.9
+Al-Farabi Kazakh National University,Kazakhstan,L,FC,HI,4.0,A,49.1,76.9,98.3,1.3,30.5,34.6,35.3,12.3,50.8
+University of Vienna,Austria,XL,FC,VH,5.0,A,69.4,55.3,24.2,14.1,98.9,89.2,96.6,73.0,50.6
+McMaster University,Canada,L,FC,VH,5.0,A,39.9,50.2,84.7,21.3,99.3,59.2,79.8,42.9,50.4
+Stockholm University,Sweden,L,CO,VH,4.0,A,54.5,17.7,29.2,62.5,82.0,77.1,97.3,69.3,50.1
+University of Waterloo,Canada,XL,CO,VH,4.0,A,40.2,77.6,7.0,82.5,79.0,82.0,83.6,87.7,50.0
+Emory University,United States,L,FC,VH,5.0,B,25.2,15.7,99.1,68.7,50.1,31.1,87.7,44.5,49.5
+Indian Institute of Science,India,S,SP,VH,5.0,A,37.6,22.9,56.3,100.0,11.7,1.9,46.0,14.8,49.5
+Hanyang University,South Korea,L,FC,VH,4.0,B,45.0,79.1,83.2,17.6,18.8,43.8,68.0,33.9,49.4
+Technische Universität Berlin (TU Berlin),Germany,L,CO,VH,5.0,A,55.1,64.9,48.5,23.6,46.1,75.0,83.2,31.6,49.3
+Michigan State University,United States,XL,FC,VH,5.0,A,60.5,61.4,12.9,58.9,62.1,16.9,93.2,53.6,48.9
+King Fahd University of Petroleum & Minerals,Saudi Arabia,M,FC,VH,4.0,A,30.3,24.9,88.5,50.9,100.0,21.8,70.2,66.7,48.8
+Aarhus University,Denmark,L,FC,VH,4.0,A,55.6,33.5,32.4,55.2,87.9,16.3,95.4,33.5,48.6
+University of York,United Kingdom,L,FC,VH,4.0,A,43.3,36.1,45.0,48.6,88.1,82.1,88.9,23.7,48.4
+The University of Exeter,United Kingdom,L,FC,VH,4.0,A,41.1,56.1,31.5,55.3,92.3,77.7,94.8,15.9,48.2
+Texas A&M University,United States,XL,FC,VH,5.0,A,61.5,65.0,5.0,67.8,24.8,14.7,91.1,36.3,47.9
+"University of Maryland, College Park",United States,XL,FC,VH,5.0,A,51.2,35.6,37.1,71.1,23.8,14.9,92.6,61.4,47.9
+Cardiff University,United Kingdom,L,FC,VH,5.0,A,46.0,47.7,40.3,41.8,84.1,74.7,91.4,19.5,47.8
+Alma Mater Studiorum - University of Bologna,Italy,XL,FC,VH,5.0,A,78.5,43.1,3.5,49.7,7.8,10.8,95.1,40.7,47.5
+Universidad de Chile,Chile,XL,FC,VH,5.0,A,80.0,92.0,12.5,13.9,9.4,5.6,77.4,42.6,47.5
+Eberhard Karls Universität Tübingen,Germany,L,FC,VH,5.0,A,44.7,21.0,96.7,14.9,67.0,26.1,96.5,16.6,47.2
+Tecnológico de Monterrey,Mexico,XL,FC,HI,4.0,B,48.8,92.8,72.9,2.2,52.9,8.6,65.1,85.6,47.1
+Sapienza University of Rome,Italy,XL,FC,VH,5.0,A,78.0,36.6,4.5,50.2,3.4,11.4,98.0,55.8,46.8
+Indian Institute of Technology Bombay (IITB),India,L,CO,VH,4.0,A,53.3,86.5,25.8,55.1,3.9,1.6,58.0,76.7,46.7
+Western University,Canada,L,FC,VH,5.0,A,30.6,60.5,4.6,96.9,99.8,57.2,86.0,81.0,46.7
+Ecole des Ponts ParisTech,France,S,FO,VH,5.0,A,8.4,55.3,97.4,56.7,36.3,95.0,43.8,90.4,46.5
+Indian Institute of Technology Delhi (IITD),India,M,CO,VH,4.0,A,49.0,79.2,27.7,65.2,2.6,1.7,42.2,84.8,46.5
+Case Western Reserve University,United States,M,FC,VH,4.0,B,18.3,20.2,89.1,65.8,47.8,64.6,72.5,40.9,46.2
+National Tsing Hua University,Taiwan,L,CO,VH,4.0,A,51.3,69.0,34.4,47.7,17.7,19.1,35.8,5.5,45.9
+Universitat Autònoma de Barcelona,Spain,XL,FC,VH,4.0,A,62.2,28.9,11.8,66.9,20.7,20.2,94.1,20.0,45.8
+Technische Universität Wien,Austria,M,FO,VH,5.0,A,30.9,50.3,12.3,86.6,79.7,86.7,76.7,29.5,45.7
+University of Bath,United Kingdom,L,CO,VH,4.0,A,34.4,68.9,19.9,59.1,97.4,83.6,78.2,41.0,45.7
+Khalifa University of Science and Technology,United Arab Emirates,S,SP,VH,2.0,A,16.6,15.2,91.7,51.9,100.0,69.7,72.8,15.8,45.6
+University College Dublin,Ireland,L,FC,VH,5.0,A,48.7,46.8,22.5,43.0,98.7,63.1,87.6,64.4,45.6
+University of Pittsburgh,United States,L,FC,VH,5.0,A,39.9,16.3,96.3,37.4,7.9,13.8,90.3,44.0,45.6
+Universitat de Barcelona,Spain,XL,FC,VH,5.0,A,71.9,28.1,13.6,44.5,14.6,26.5,96.9,53.5,45.5
+University of Gothenburg,Sweden,L,FC,VH,4.0,A,37.4,20.1,66.1,34.4,86.9,74.4,94.9,48.7,45.4
+University of Minnesota Twin Cities,United States,XL,FC,VH,5.0,A,60.1,28.2,38.2,49.2,7.1,10.1,97.6,54.5,45.4
+University of Wollongong,Australia,L,FC,VH,3.0,A,29.4,34.1,20.9,88.0,93.9,70.1,91.4,24.2,45.4
+University of Florida,United States,XL,FC,VH,5.0,A,48.5,47.0,71.4,26.4,17.5,11.3,98.0,54.0,45.3
+Albert-Ludwigs-Universitaet Freiburg,Germany,L,FC,VH,5.0,A,47.4,18.6,36.5,57.3,67.6,41.0,89.0,19.3,45.2
+RMIT University,Australia,XL,CO,VH,3.0,A,36.6,55.5,6.7,66.0,100.0,93.4,85.8,41.0,44.6
+University of Liverpool,United Kingdom,L,FC,VH,5.0,A,42.7,34.3,41.5,33.7,87.5,88.5,98.1,38.9,44.6
+"The University of Newcastle, Australia (UON)",Australia,M,FC,VH,4.0,A,29.1,25.7,34.1,86.7,99.9,17.6,78.6,45.1,44.5
+Curtin University,Australia,L,CO,VH,3.0,A,30.5,41.2,13.9,89.4,100.0,44.0,93.7,20.1,44.4
+Wuhan University,China (Mainland),XL,FC,VH,4.0,A,38.8,56.6,13.8,88.1,42.4,7.2,72.8,32.7,44.3
+Macquarie University,Australia,L,FC,VH,4.0,A,30.9,48.9,13.6,74.6,93.0,88.9,88.3,53.9,44.2
+Université catholique de Louvain (UCLouvain),Belgium,L,FC,VH,5.0,B,49.7,43.0,5.4,61.7,89.4,38.4,89.6,49.1,44.2
+Keio University,Japan,XL,FC,VH,5.0,B,50.3,91.9,60.3,6.6,10.6,12.4,46.0,83.7,44.1
+Ulsan National Institute of Science and Technology (UNIST),South Korea,S,FO,VH,2.0,A,11.8,7.4,79.8,99.9,38.3,12.0,31.7,14.9,44.1
+Vanderbilt University,United States,L,FC,VH,5.0,B,25.9,22.2,100.0,38.5,38.7,30.0,83.0,56.1,43.9
+Technische Universität Dresden,Germany,XL,FC,VH,5.0,A,37.4,37.0,89.1,14.9,42.9,36.0,94.2,9.9,43.6
+Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,L,FC,VH,5.0,A,51.3,16.9,68.1,15.1,51.9,32.1,92.4,22.8,43.3
+National Yang Ming Chiao Tung University,Taiwan,L,FC,VH,1.0,A,34.8,74.6,50.3,46.2,23.8,22.3,42.8,51.3,43.2
+Universiti Teknologi Malaysia ,Malaysia,L,CO,VH,3.0,A,44.5,55.9,46.3,28.6,12.0,77.2,82.9,13.1,43.0
+University of Lausanne,Switzerland,L,FO,VH,5.0,A,30.6,16.8,43.5,61.0,99.9,59.1,82.0,53.4,43.0
+Dartmouth College,United States,M,FC,VH,5.0,B,19.2,25.9,65.2,86.7,5.7,32.8,53.7,96.7,42.8
+Waseda University,Japan,XL,CO,VH,5.0,B,58.7,96.5,27.2,4.4,28.4,35.2,63.5,72.2,42.8
+University of Bergen,Norway,M,FC,VH,3.0,A,33.8,8.1,76.0,41.1,86.6,8.0,87.9,21.7,42.7
+Erasmus University Rotterdam ,Netherlands,XL,FO,VH,5.0,A,35.6,47.0,28.3,54.9,83.2,53.2,87.1,56.1,42.6
+Qatar University,Qatar,M,FC,VH,3.0,A,24.4,33.2,61.1,36.9,100.0,94.8,90.1,1.1,42.6
+Universidade Estadual de Campinas (Unicamp),Brazil,L,FC,VH,4.0,A,68.7,32.7,11.6,43.2,8.1,3.2,84.1,13.4,42.5
+Universite libre de Bruxelles,Belgium,L,FC,VH,5.0,A,34.3,50.4,4.1,67.8,96.6,86.3,82.2,49.6,42.5
+Tongji University,China (Mainland),XL,FC,VH,4.0,A,33.2,10.0,26.6,87.5,66.2,35.8,71.0,25.9,42.4
+University of Twente,Netherlands,L,FO,VH,4.0,A,20.2,36.3,37.0,67.9,98.8,90.7,82.5,9.2,42.4
+Vrije Universiteit Amsterdam,Netherlands,XL,FC,VH,5.0,A,39.7,12.6,30.0,70.0,64.6,33.5,89.8,19.0,42.3
+Universidad Autónoma de Madrid,Spain,L,FC,VH,4.0,A,59.0,55.5,37.3,20.8,9.0,14.7,89.3,23.0,42.2
+University of Göttingen,Germany,L,FC,VH,5.0,A,49.3,21.5,64.1,18.7,48.4,23.6,92.7,15.4,42.2
+Harbin Institute of Technology,China (Mainland),L,FO,VH,4.0,A,26.6,8.9,50.5,96.5,9.5,7.8,64.7,15.4,42.0
+University of Otago,New Zealand,L,FC,VH,5.0,A,47.1,34.3,12.5,51.4,100.0,34.5,77.0,49.3,42.0
+Arizona State University,United States,XL,CO,VH,5.0,A,46.7,40.2,8.2,59.9,67.7,37.1,90.2,33.4,41.8
+Universidad de los Andes,Colombia,L,FC,HI,4.0,B,62.9,95.0,19.5,6.1,30.5,1.8,56.9,66.1,41.6
+University of Aberdeen,United Kingdom,L,FC,VH,5.0,A,28.3,36.0,33.5,50.6,94.8,97.6,87.4,19.0,41.6
+Queensland University of Technology (QUT),Australia,XL,CO,VH,3.0,A,39.5,40.0,7.7,65.1,97.5,41.4,90.0,22.1,41.5
+The Hebrew University of Jerusalem,Israel,L,FC,VH,5.0,A,34.8,23.8,78.8,28.7,63.7,7.1,74.6,89.3,41.5
+Chulalongkorn University,Thailand,XL,FC,HI,5.0,A,65.1,63.8,34.6,6.2,9.6,2.8,75.1,93.6,41.4
+National Cheng Kung University (NCKU),Taiwan,L,FC,VH,4.0,A,47.2,71.9,40.7,22.2,27.8,22.9,51.4,17.9,41.4
+Complutense University of Madrid,Spain,XL,FC,VH,4.0,A,69.2,57.4,22.3,10.2,5.7,15.1,96.4,67.0,41.2
+Southern University of Science and Technology,China (Mainland),M,FO,VH,2.0,A,7.8,1.7,97.7,80.9,38.2,1.7,56.9,4.2,41.2
+Universität Hamburg,Germany,L,FC,VH,5.0,A,50.8,19.8,16.0,58.9,43.3,21.1,93.2,34.4,40.7
+University of Reading,United Kingdom,L,CO,VH,5.0,A,33.2,29.1,20.9,55.0,93.3,83.9,90.4,29.6,40.4
+Bauman Moscow State Technical University,Russia,L,CO,VH,5.0,A,27.2,50.2,100.0,1.4,37.3,41.2,8.6,16.5,40.3
+Gadjah Mada University,Indonesia,XL,FC,HI,4.0,A,49.1,55.1,62.3,1.6,39.2,2.0,28.8,36.2,40.2
+Radboud University ,Netherlands,L,FC,VH,4.0,A,29.9,13.5,27.6,82.4,69.8,19.4,90.9,6.5,40.0
+Queen's University Belfast,United Kingdom,L,FC,VH,5.0,A,31.7,27.6,34.5,37.3,99.3,99.0,95.1,11.4,39.9
+Universitat Pompeu Fabra (Barcelona),Spain,L,FO,VH,3.0,A,30.8,26.2,9.9,91.5,67.3,22.2,78.4,51.4,39.9
+Bandung Institute of Technology (ITB),Indonesia,L,CO,VH,5.0,A,43.7,54.3,62.2,2.3,66.6,3.1,21.5,41.6,39.5
+"University of California, Irvine",United States,XL,FC,VH,4.0,A,39.7,18.4,12.9,59.9,72.0,69.1,85.8,11.6,39.5
+King Saud University,Saudi Arabia,XL,FC,VH,4.0,A,34.5,13.1,60.8,29.3,98.6,23.3,93.4,83.4,39.4
+University of Cape Town,South Africa,L,FC,VH,5.0,A,43.6,50.7,15.7,44.6,62.1,30.1,95.5,92.8,39.4
+University of Ottawa,Canada,XL,FC,VH,5.0,A,25.9,38.8,4.4,80.3,90.5,70.8,90.7,10.8,39.4
+University of Sussex,United Kingdom,L,FC,VH,4.0,A,23.9,6.8,16.2,80.5,96.9,92.5,85.9,38.0,39.2
+USI - Università della Svizzera italiana,Switzerland,S,FO,VH,3.0,A,5.3,4.6,85.0,47.2,100.0,100.0,38.5,61.7,39.2
+University of Calgary,Canada,XL,FC,VH,4.0,A,36.1,50.5,21.2,41.9,80.6,54.2,85.2,35.3,39.0
+Universidad Nacional de Colombia,Colombia,XL,FC,HI,5.0,A,67.5,93.4,6.1,3.6,7.2,1.5,58.6,36.3,38.9
+Università di Padova,Italy,XL,FC,VH,5.0,A,56.2,30.4,9.3,51.9,11.5,7.1,93.4,10.5,38.9
+University of Notre Dame,United States,L,CO,VH,5.0,B,26.6,44.2,61.5,47.3,23.5,15.2,74.8,74.8,38.9
+Queen's University at Kingston,Canada,L,FC,VH,5.0,A,38.6,69.0,6.1,49.6,70.3,33.2,77.6,74.1,38.8
+Yeshiva University,United States,S,FC,VH,5.0,B,2.6,3.7,85.5,98.5,,8.9,42.2,24.1,38.8
+Universitas Indonesia,Indonesia,XL,FC,VH,4.0,A,47.5,62.4,44.9,1.9,72.7,4.7,40.3,35.8,38.7
+Université Paris Cité,France,XL,FO,VH,1.0,A,34.7,6.8,11.9,91.5,21.0,43.5,99.4,2.5,38.7
+Indian Institute of Technology Madras (IITM),India,M,CO,VH,4.0,A,38.0,58.3,27.6,58.3,2.8,1.4,41.4,76.1,38.6
+Vrije Universiteit Brussel (VUB),Belgium,L,FC,VH,4.0,A,22.7,16.1,76.2,23.8,92.1,60.5,90.8,52.0,38.5
+American University of Beirut (AUB),Lebanon,M,FC,VH,5.0,B,27.2,40.7,62.1,20.0,74.9,61.8,73.8,99.0,38.4
+University of Massachusetts Amherst,United States,L,CO,VH,5.0,A,40.7,16.8,13.7,65.3,65.2,22.6,81.1,50.9,38.3
+University of Navarra,Spain,L,FC,HI,4.0,B,29.4,66.4,59.7,15.1,22.4,71.8,74.6,28.8,38.3
+University of Virginia,United States,L,FC,VH,5.0,A,35.2,37.5,60.7,36.5,6.7,10.9,84.9,81.5,38.3
+Loughborough University,United Kingdom,L,CO,VH,4.0,A,29.9,65.9,22.2,37.7,84.3,63.7,88.2,25.6,38.1
+Mahidol University,Thailand,L,FC,VH,4.0,A,40.5,42.7,79.3,5.2,5.7,4.4,59.2,8.3,38.1
+Universiti Brunei Darussalam (UBD),Brunei,S,CO,VH,3.0,A,19.1,9.8,96.5,8.5,100.0,65.4,36.4,1.0,38.1
+Sciences Po ,France,M,SP,VH,5.0,A,18.7,31.9,93.6,3.3,56.8,98.6,26.3,92.6,38.0
+Novosibirsk State University,Russia,M,CO,VH,4.0,A,27.3,15.9,94.0,15.7,7.3,58.0,52.3,24.9,37.9
+Tel Aviv University,Israel,L,FC,VH,4.0,A,32.7,19.2,4.2,99.7,34.0,5.5,81.9,90.7,37.9
+Beijing Normal University ,China (Mainland),L,CO,VH,5.0,A,36.3,6.4,27.7,76.4,7.9,25.3,69.8,17.5,37.8
+The University of Arizona,United States,XL,FC,VH,5.0,A,39.6,22.4,67.6,21.5,20.5,13.5,97.0,40.7,37.8
+Indian Institute of Technology Kanpur (IITK),India,M,CO,VH,4.0,A,32.6,49.3,17.4,79.0,2.3,1.2,25.9,73.8,37.6
+Tomsk State University,Russia,M,CO,VH,5.0,A,22.9,11.2,99.6,6.3,25.1,93.1,68.6,4.1,37.6
+Deakin University,Australia,XL,FC,VH,3.0,A,27.6,30.7,4.7,66.8,97.8,80.5,85.3,28.8,37.5
+Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia,M,FO,VH,4.0,A,19.7,22.5,97.9,16.0,32.7,51.0,43.1,45.6,37.3
+Rutgers University–New Brunswick,United States,XL,CO,VH,5.0,A,37.6,35.6,51.3,26.3,22.4,36.5,90.8,15.5,37.3
+Sun Yat-sen University,China (Mainland),XL,FC,VH,4.0,A,34.4,32.5,52.6,46.0,2.9,5.0,75.7,17.7,37.3
+Indian Institute of Technology Kharagpur (IIT-KGP),India,M,FO,VH,4.0,A,30.2,48.3,13.0,86.4,3.7,1.1,52.4,65.6,37.2
+Kyung Hee University,South Korea,L,FC,VH,4.0,B,24.9,39.0,85.7,13.3,15.3,52.4,63.1,10.2,37.2
+National University of Ireland Galway,Ireland,L,FC,HI,5.0,A,26.4,31.6,70.7,13.5,91.3,37.9,75.7,39.3,37.2
+Saint Petersburg State University,Russia,L,FC,VH,5.0,A,41.8,28.8,68.5,6.1,5.9,44.2,80.7,78.9,37.2
+University of Porto,Portugal,XL,FC,VH,5.0,A,40.7,23.8,12.8,71.4,7.4,21.3,96.9,55.4,37.1
+Technical University of Darmstadt,Germany,L,FO,VH,5.0,A,20.8,38.8,6.1,81.4,63.6,76.5,82.2,37.5,36.9
+Victoria University of Wellington,New Zealand,L,CO,VH,4.0,A,44.8,30.1,10.5,30.9,99.4,50.2,69.7,63.6,36.9
+L.N. Gumilyov Eurasian National University (ENU),Kazakhstan,L,FO,VH,3.0,A,25.1,37.8,98.8,1.4,48.8,7.0,14.3,11.4,36.8
+Maastricht University ,Netherlands,L,FO,VH,3.0,A,21.8,22.1,14.9,63.1,98.9,100.0,80.8,68.3,36.7
+University of Leicester,United Kingdom,L,FC,VH,5.0,A,22.2,14.9,44.6,42.7,82.9,88.7,85.7,15.5,36.6
+University of Antwerp,Belgium,L,FC,VH,2.0,A,22.7,12.6,55.2,44.8,85.3,34.2,93.4,49.9,36.5
+Georgetown University,United States,L,FC,VH,5.0,B,31.2,44.6,55.4,27.3,10.5,41.7,57.9,96.0,36.3
+Heriot-Watt University,United Kingdom,M,CO,VH,4.0,A,14.9,29.6,21.3,65.8,100.0,94.9,64.3,31.9,36.3
+Hong Kong Baptist University,Hong Kong SAR,M,CO,VH,3.0,A,17.0,12.8,50.9,39.6,98.0,100.0,30.4,26.9,36.3
+Graz University of Technology,Austria,M,FO,VH,5.0,A,13.5,7.6,99.1,15.7,75.6,61.2,59.7,40.7,36.1
+Taylor's University,Malaysia,S,FO,VH,2.0,C,21.5,80.0,55.1,6.6,42.4,97.5,34.9,28.0,36.1
+UCSI University,Malaysia,M,CO,HI,2.0,C,20.5,54.9,67.1,2.8,72.5,92.7,21.4,74.3,36.1
+University of Canterbury | Te Whare Wānanga o Waitaha,New Zealand,L,CO,VH,4.0,A,38.9,39.6,11.3,33.2,98.5,52.7,67.6,54.0,36.2
+University of Warsaw ,Poland,XL,CO,VH,5.0,A,48.9,63.3,38.4,7.1,8.6,9.3,78.0,59.3,36.1
+Belarusian State University,Belarus,L,FO,VH,5.0,A,24.2,39.7,96.8,1.3,3.4,48.2,46.2,29.9,36.0
+Charles University,Czech Republic,XL,FC,VH,5.0,A,45.3,34.9,41.3,10.7,23.9,51.6,96.0,41.5,36.0
+Gwangju Institute of Science and Technology (GIST),South Korea,S,FO,VH,3.0,A,14.5,6.6,39.2,100.0,22.1,8.8,34.5,13.7,36.0
+University of Turku,Finland,L,FC,VH,5.0,A,28.8,32.1,60.3,36.3,27.3,4.9,88.4,28.3,35.8
+Massey University,New Zealand,M,CO,VH,4.0,A,29.3,19.1,37.4,22.6,98.3,99.7,84.1,32.5,35.7
+Jagiellonian University,Poland,XL,FC,VH,5.0,A,38.0,55.1,62.6,6.6,5.0,11.9,82.8,33.0,35.6
+University of Tasmania,Australia,M,CO,VH,5.0,A,16.5,7.5,14.5,85.4,61.9,99.4,85.5,23.1,35.6
+RUDN University,Russia,L,FC,HI,4.0,A,19.7,33.9,92.7,1.8,9.7,93.0,79.1,8.7,35.5
+Swinburne University of Technology,Australia,L,CO,VH,3.0,A,13.0,16.4,12.2,87.0,97.8,72.2,76.6,18.1,35.4
+United Arab Emirates University,United Arab Emirates,M,FC,HI,3.0,A,26.3,36.6,59.4,11.5,100.0,38.2,70.8,86.8,35.4
+University of Miami,United States,L,FC,VH,4.0,B,22.7,32.1,70.8,20.8,66.9,25.3,81.7,50.3,35.4
+University of Tartu,Estonia,M,FC,VH,5.0,A,25.8,10.7,88.9,14.3,40.0,24.2,88.0,79.6,35.4
+Griffith University,Australia,XL,FC,VH,4.0,A,26.1,16.6,7.6,71.7,99.9,40.5,90.0,27.0,35.2
+Université Paris 1 Panthéon-Sorbonne ,France,XL,FO,VH,5.0,A,64.0,35.7,4.7,3.4,35.5,49.9,73.4,32.2,35.2
+Xi’an Jiaotong University,China (Mainland),XL,FC,VH,4.0,A,21.8,50.7,22.2,80.7,6.7,4.3,74.4,29.0,35.1
+University College Cork,Ireland,L,FC,VH,5.0,A,29.0,38.1,36.7,25.9,94.6,42.6,76.3,32.8,35.0
+University of Macau,Macau SAR,M,FO,VH,3.0,A,9.5,9.8,16.4,84.0,100.0,98.2,49.2,73.8,34.9
+University of Surrey,United Kingdom,L,CO,VH,4.0,A,20.4,28.1,21.5,49.6,97.7,89.7,82.1,21.0,34.7
+Huazhong University of Science and Technology,China (Mainland),XL,FC,VH,4.0,A,21.3,40.2,10.5,96.0,6.2,4.9,75.0,20.5,34.6
+Tianjin University,China (Mainland),L,CO,VH,4.0,A,18.3,4.3,31.2,92.0,16.3,19.6,69.5,30.6,34.4
+Dalhousie University,Canada,L,FC,VH,5.0,A,18.5,21.2,14.2,63.8,100.0,80.5,81.7,18.4,34.3
+HSE University,Russia,XL,FO,VH,3.0,A,26.9,32.6,92.6,1.9,7.8,17.2,70.6,25.5,34.3
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,S,FO,VH,4.0,A,9.2,11.3,99.2,11.8,52.9,89.1,42.7,31.7,34.3
+Universität Innsbruck,Austria,L,FC,HI,5.0,A,19.8,5.3,65.7,12.8,100.0,99.9,81.0,47.4,34.3
+North Carolina State University,United States,XL,CO,VH,5.0,A,29.2,23.0,11.3,68.3,63.7,16.0,79.0,31.3,34.1
+Tufts University,United States,M,FC,VH,5.0,B,18.3,7.2,65.7,48.2,30.1,32.9,77.9,83.1,34.1
+University of Tsukuba,Japan,L,FC,VH,3.0,A,33.9,17.5,63.5,19.2,15.0,26.5,61.0,13.0,34.1
+La Trobe University,Australia,L,CO,VH,4.0,A,20.8,20.9,6.4,61.9,94.5,99.4,81.1,11.4,33.9
+Université Grenoble Alpes,France,XL,FC,VH,1.0,A,43.3,12.5,8.3,51.1,25.7,37.8,97.4,13.3,33.8
+University of Colorado Boulder,United States,XL,CO,VH,5.0,A,37.0,13.5,41.8,36.8,30.2,5.8,89.6,47.2,33.8
+University of Illinois at Chicago (UIC),United States,L,FC,VH,5.0,A,42.0,31.9,35.6,26.4,10.1,15.4,89.8,41.6,33.8
+Linköping University,Sweden,L,CO,VH,3.0,A,19.8,25.6,32.5,55.0,74.7,36.2,89.0,22.3,33.7
+Universidad Carlos III de Madrid (UC3M),Spain,L,FO,VH,3.0,A,31.0,48.4,57.1,5.3,46.4,29.5,65.0,11.7,33.7
+Kazan (Volga region) Federal University,Russia,L,FC,VH,5.0,A,20.8,7.6,91.4,3.2,11.1,93.1,80.7,12.9,33.4
+Pontificia Universidad Católica Argentina,Argentina,L,FC,MD,4.0,B,20.4,43.3,99.8,1.1,2.3,7.4,8.5,26.1,33.3
+University of Milan,Italy,XL,FC,VH,4.0,A,49.8,15.0,5.4,48.5,9.0,7.1,88.4,16.5,33.2
+Politecnico di Torino,Italy,XL,FO,VH,5.0,A,36.6,47.3,2.5,54.0,3.3,41.8,71.3,15.5,33.1
+University of Strathclyde,United Kingdom,L,CO,VH,4.0,A,25.9,41.8,18.8,33.4,93.1,65.8,80.0,25.5,33.1
+National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,M,FO,VH,3.0,A,25.6,37.6,52.6,25.1,26.6,39.9,34.4,50.8,33.0
+Goethe-University Frankfurt am Main,Germany,XL,FC,VH,5.0,A,45.4,28.6,26.4,15.6,37.9,27.5,93.7,7.6,32.9
+Simon Fraser University,Canada,L,CO,VH,4.0,A,24.9,21.2,5.4,52.5,93.8,88.3,75.6,24.9,32.9
+Aalborg University,Denmark,L,FC,VH,3.0,A,19.8,28.1,34.2,47.8,73.2,30.0,90.3,24.3,32.5
+University of Waikato,New Zealand,M,CO,VH,4.0,A,18.4,13.0,12.0,58.2,99.1,88.7,56.8,54.2,32.3
+National Taiwan Normal University,Taiwan,M,CO,VH,4.0,A,32.7,18.6,68.3,6.3,14.8,28.1,25.2,17.2,32.2
+Universidade Federal do Rio de Janeiro,Brazil,XL,FC,VH,5.0,A,58.1,25.3,19.3,8.9,9.2,1.6,77.0,52.2,32.1
+National University of Sciences And Technology (NUST) Islamabad,Pakistan,L,CO,VH,3.0,A,18.2,67.7,77.0,9.6,3.0,5.7,55.5,14.6,32.0
+University of Cologne,Germany,XL,FC,VH,5.0,A,36.7,31.0,24.8,25.6,44.6,33.0,89.7,27.5,31.9
+University of Lisbon ,Portugal,XL,FC,VH,5.0,A,42.5,20.5,12.3,38.2,10.0,41.9,95.1,55.4,31.9
+Ural Federal University - UrFU,Russia,L,CO,VH,5.0,A,21.6,14.0,96.1,2.1,5.5,36.6,77.2,7.2,31.9
+Hiroshima University,Japan,L,FC,VH,4.0,A,22.4,13.0,87.2,10.3,20.1,17.0,57.2,4.9,31.8
+Indiana University Bloomington,United States,XL,FC,VH,5.0,A,36.6,26.3,28.4,29.4,43.3,11.8,87.1,63.8,31.7
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,XL,FC,VH,5.0,A,23.3,13.1,2.6,85.8,33.7,28.8,91.5,12.0,31.6
+Universiti Teknologi Brunei,Brunei,S,FO,VH,3.0,A,12.0,7.0,95.1,7.6,99.0,8.6,11.7,1.0,31.6
+University of East Anglia (UEA),United Kingdom,L,FC,VH,4.0,A,18.6,10.8,21.5,59.7,77.7,54.7,89.5,12.3,31.5
+"Birkbeck, University of London",United Kingdom,M,FO,VH,5.0,A,11.2,3.2,13.1,70.1,97.5,98.1,50.5,8.6,31.4
+Universitat Politècnica de Catalunya · BarcelonaTech (UPC),Spain,L,CO,VH,4.0,A,32.5,25.8,45.1,24.7,12.7,21.8,89.2,18.9,31.4
+MGIMO University,Russia,M,SP,VH,4.0,A,12.5,24.6,100.0,1.4,15.8,52.4,1.5,93.9,31.3
+Ewha Womans University,South Korea,L,FC,HI,4.0,B,23.4,22.2,79.4,9.1,8.3,27.3,33.2,15.8,31.2
+IE University,Spain,M,FO,HI,2.0,C,6.7,47.6,66.6,2.6,92.9,100.0,6.0,67.9,31.1
+University of Jyväskylä,Finland,M,CO,VH,4.0,A,16.9,15.4,83.6,19.3,39.1,3.1,79.0,6.3,31.1
+University of Southern Denmark (SDU),Denmark,L,CO,VH,4.0,A,19.3,20.6,35.2,44.5,82.4,22.7,82.5,21.1,31.1
+Johannes Kepler University Linz,Austria,M,CO,VH,4.0,A,11.4,11.0,79.5,20.0,84.2,22.4,62.7,21.1,31.0
+University of Connecticut,United States,L,FC,VH,5.0,A,15.5,10.7,11.5,82.8,69.0,24.4,86.9,35.5,31.0
+Norwegian University of Science And Technology,Norway,XL,FC,VH,5.0,A,33.9,27.0,25.5,25.1,76.6,11.4,95.8,47.9,30.9
+Universität Jena,Germany,L,FC,VH,5.0,A,18.4,3.3,99.9,9.2,,24.0,87.7,8.1,30.9
+ University of Dundee,United Kingdom,L,FC,HI,4.0,A,18.9,15.0,35.5,30.1,99.0,69.8,57.9,11.8,30.8
+Beijing Institute of Technology,China (Mainland),L,FO,VH,4.0,A,20.7,15.0,37.7,64.3,3.4,4.7,63.4,14.5,30.7
+"City, University of London",United Kingdom,L,CO,VH,5.0,A,20.6,18.7,8.6,44.3,97.3,99.5,67.6,42.3,30.7
+Universität Stuttgart,Germany,L,CO,VH,5.0,A,24.1,24.2,5.7,65.8,36.7,47.3,80.9,28.3,30.7
+"University of Chemistry and Technology, Prague",Czech Republic,S,FO,VH,4.0,A,6.5,7.9,99.7,13.0,28.3,61.2,35.2,44.1,30.6
+ITMO University,Russia,M,FO,VH,5.0,A,11.9,15.5,96.2,7.3,23.1,42.8,61.7,4.2,30.5
+University of Victoria (UVic),Canada,L,CO,VH,4.0,A,17.1,9.8,3.6,71.9,91.2,58.2,63.8,10.4,30.5
+Universiti Teknologi PETRONAS (UTP),Malaysia,S,SP,VH,3.0,B,16.4,29.8,31.8,46.0,85.2,18.4,65.5,10.6,30.4
+George Washington University,United States,L,FC,VH,5.0,B,27.2,29.0,31.3,32.6,39.2,32.1,86.1,66.6,30.3
+Kobe University,Japan,L,FC,VH,4.0,A,27.3,35.9,64.1,9.3,8.6,9.2,45.1,12.9,30.2
+Pontificia Universidad Católica del Perú,Peru,L,FO,VH,5.0,B,43.8,63.2,27.7,1.8,4.3,1.5,34.5,48.9,30.2
+Quaid-i-Azam University,Pakistan,M,CO,VH,4.0,A,15.4,38.4,2.6,95.8,3.8,2.6,59.2,16.6,30.2
+University of South Australia,Australia,L,CO,VH,3.0,A,21.7,12.7,20.8,38.2,99.9,65.2,76.0,19.1,30.2
+Virginia Polytechnic Institute and State University,United States,XL,FC,VH,5.0,A,28.5,25.6,20.0,38.5,68.4,18.5,84.1,28.5,30.2
+Lincoln University ,New Zealand,S,CO,VH,3.0,A,7.5,5.9,43.7,39.1,100.0,95.5,20.8,93.6,30.1
+Airlangga University,Indonesia,L,FC,HI,4.0,A,30.8,60.9,48.3,1.3,26.0,3.0,14.5,10.0,29.9
+American University of Sharjah,United Arab Emirates,S,CO,VH,3.0,B,18.7,35.8,26.2,17.3,100.0,100.0,30.2,79.3,29.9
+Indian Institute of Technology Roorkee (IITR),India,M,FO,VH,5.0,A,16.0,23.9,9.6,94.5,1.1,2.5,35.6,18.4,29.9
+Umea University,Sweden,L,FC,VH,4.0,A,20.0,11.5,77.1,17.0,25.7,10.6,82.4,6.2,29.9
+Universidade Nova de Lisboa,Portugal,L,FC,VH,3.0,A,28.7,20.5,25.0,35.0,23.6,60.8,88.4,22.1,29.9
+University of Kansas,United States,L,FC,VH,5.0,A,14.9,16.1,80.5,11.2,68.9,8.2,80.9,23.1,29.9
+"University of California, Santa Cruz",United States,L,CO,VH,4.0,A,18.6,5.0,8.0,81.4,63.5,13.4,60.5,15.4,29.8
+University of Kent,United Kingdom,L,CO,VH,4.0,A,18.2,6.4,16.6,50.7,96.7,68.4,69.5,32.7,29.8
+University Ulm,Germany,M,FO,VH,4.0,A,7.6,3.2,80.6,34.4,42.7,23.0,60.7,7.5,29.8
+Czech Technical University in Prague,Czech Republic,L,SP,VH,5.0,A,19.9,33.2,68.9,4.9,23.7,47.3,75.0,8.7,29.7
+Nankai University,China (Mainland),XL,FC,VH,4.0,A,21.2,5.0,28.7,70.5,11.0,3.7,39.1,24.2,29.7
+Sharif University of Technology,"Iran, Islamic Republic of",M,FO,VH,4.0,A,11.6,31.8,7.7,98.3,8.0,1.3,52.3,82.0,29.6
+University of Hawaiʻi at Mānoa,United States,L,FC,VH,5.0,A,15.6,14.3,45.4,46.1,55.4,14.2,84.8,10.2,29.6
+Peter the Great St. Petersburg Polytechnic University,Russia,L,FO,VH,5.0,A,15.0,10.4,81.4,3.7,16.4,89.3,45.4,18.7,29.5
+Pontificia Universidad Javeriana,Colombia,L,FC,HI,5.0,B,41.0,82.4,20.1,1.8,4.9,1.9,27.6,37.2,29.5
+Indian Institute of Technology Guwahati (IITG),India,M,CO,VH,3.0,A,15.1,16.9,9.5,96.3,3.4,1.3,36.6,23.5,29.3
+Sultan Qaboos University,Oman,M,FC,HI,3.0,A,15.0,16.9,67.3,14.3,100.0,3.7,86.8,63.4,29.3
+Taipei Medical University (TMU),Taiwan,M,SP,VH,2.0,B,9.7,17.0,92.3,17.0,18.1,16.1,24.0,26.5,29.3
+Westfälische Wilhelms-Universität Münster ,Germany,L,FC,VH,5.0,A,33.1,22.2,46.3,13.6,29.1,5.3,83.1,19.3,29.3
+Lappeenranta-Lahti University of Technology LUT,Finland,S,SP,VH,4.0,A,7.0,18.1,13.5,96.8,35.4,11.3,55.2,11.3,29.2
+Northeastern University,United States,L,CO,VH,5.0,B,20.5,12.5,17.8,37.1,76.0,95.8,75.6,46.2,29.2
+Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan,S,FO,VH,3.0,A,5.2,8.2,86.4,44.1,,,23.4,91.2,29.1
+Universidad de Palermo (UP),Argentina,S,FO,MD,3.0,B,9.7,9.9,87.8,1.1,29.4,96.7,4.0,11.8,29.1
+Chung-Ang University (CAU),South Korea,L,FC,VH,4.0,B,16.7,35.3,72.4,8.6,13.9,34.7,33.0,12.8,29.0
+Tokyo Medical and Dental University (TMDU),Japan,S,FO,VH,4.0,A,10.6,4.8,100.0,15.8,3.2,16.6,24.7,6.4,29.0
+University of Oulu,Finland,M,FC,VH,4.0,A,15.6,22.6,30.0,55.6,56.8,7.5,84.4,24.6,29.0
+University of Utah,United States,L,FC,VH,5.0,A,16.5,7.6,62.5,38.0,18.9,9.2,82.2,15.2,29.0
+Indian Institute of Technology Indore (IIT Indore),India,S,FO,VH,2.0,A,4.7,4.3,42.1,88.7,2.5,,23.8,37.2,28.7
+Shandong University,China (Mainland),XL,FC,VH,4.0,A,13.8,32.8,19.2,76.4,9.8,3.8,59.4,17.7,28.7
+National Research Tomsk Polytechnic University,Russia,M,FO,VH,5.0,A,9.4,7.8,91.9,5.3,8.9,80.6,78.0,4.5,28.6
+Tilburg University,Netherlands,L,FO,VH,4.0,A,14.8,30.7,10.6,50.1,95.3,52.0,51.9,10.6,28.6
+Universitat Politècnica de València,Spain,L,CO,VH,4.0,A,26.0,10.2,60.3,17.6,4.8,20.8,84.6,13.9,28.4
+Vilnius University ,Lithuania,L,FC,HI,5.0,A,20.0,27.5,79.8,3.1,10.4,9.1,74.3,52.4,28.4
+Colegio de México,Mexico,S,FO,HI,4.0,A,14.9,3.9,100.0,1.5,10.1,19.8,1.7,99.6,28.3
+Royal Holloway University of London,United Kingdom,M,CO,VH,5.0,A,16.8,7.5,15.8,42.5,94.3,86.9,64.7,11.5,28.3
+University of Pisa,Italy,XL,FC,VH,5.0,A,40.6,14.7,7.0,41.7,6.6,4.6,90.8,12.1,28.2
+Satbayev University,Kazakhstan,M,FO,VH,4.0,A,18.7,28.9,79.7,1.3,22.8,4.1,12.0,13.7,28.1
+Sichuan University,China (Mainland),XL,FC,VH,3.0,A,18.2,4.0,14.6,83.5,5.9,5.8,69.2,18.6,28.0
+South China University of Technology,China (Mainland),XL,CO,VH,3.0,A,10.7,3.5,18.6,93.7,10.5,4.6,65.1,28.9,28.0
+Colorado State University,United States,L,CO,VH,5.0,A,19.1,19.2,63.5,20.8,21.2,5.3,77.9,19.8,27.9
+Technion - Israel Institute of Technology,Israel,L,FC,VH,5.0,A,25.0,24.3,35.4,23.2,67.0,4.6,54.4,49.1,27.9
+HUFS - Hankuk (Korea) University of Foreign Studies ,South Korea,L,CO,HI,3.0,B,11.3,26.0,82.3,1.6,34.0,41.3,13.0,7.8,27.8
+Julius-Maximilians-Universität Würzburg,Germany,L,FC,VH,5.0,A,16.2,4.2,4.6,85.5,43.8,10.6,77.3,2.9,27.8
+Brunel University London,United Kingdom,L,CO,VH,4.0,A,11.1,13.2,9.9,49.4,99.7,98.6,86.7,22.4,27.7
+University of Johannesburg,South Africa,L,CO,VH,2.0,A,15.2,21.5,40.3,18.3,94.3,58.4,88.1,38.9,27.7
+University of the Philippines,Philippines,XL,FC,HI,5.0,A,32.4,47.6,46.8,1.8,2.1,1.3,41.1,46.4,27.7
+Tampere University,Finland,L,FC,VH,1.0,A,23.7,27.7,27.7,37.8,36.3,6.9,84.3,5.8,27.6
+Ruhr-Universität Bochum,Germany,XL,FC,VH,4.0,A,21.4,8.9,2.2,72.6,29.7,28.5,84.8,12.5,27.5
+"Stony Brook University, State University of New York",United States,L,FC,VH,4.0,A,19.3,9.8,31.7,34.7,47.5,60.2,79.1,24.5,27.5
+The American University in Cairo,Egypt,M,CO,HI,5.0,B,28.3,20.2,40.8,4.1,96.1,4.3,21.9,92.5,27.5
+University of Naples - Federico II,Italy,XL,FC,VH,5.0,A,34.2,14.8,4.8,55.4,2.6,1.1,91.3,17.0,27.5
+Johannes Gutenberg Universität Mainz,Germany,XL,FC,VH,5.0,A,21.3,15.6,54.4,17.4,39.3,17.9,92.5,11.2,27.4
+Universität Leipzig,Germany,L,FC,VH,5.0,A,26.0,6.6,66.6,9.9,,17.1,85.9,13.5,27.4
+National Technical University of Athens,Greece,L,FO,VH,5.0,A,18.7,45.7,5.3,67.9,1.4,7.5,68.9,68.0,27.3
+Shanghai University,China (Mainland),XL,CO,VH,3.0,A,21.1,8.5,54.2,22.3,44.3,7.0,56.0,13.0,27.3
+Xiamen University,China (Mainland),XL,FC,VH,4.0,A,23.9,8.8,21.8,59.3,6.1,3.8,61.6,23.7,27.3
+Flinders University,Australia,L,FC,VH,4.0,A,12.1,7.0,6.3,53.5,97.7,93.8,83.7,14.7,27.2
+Swansea University,United Kingdom,L,FC,HI,5.0,A,18.5,33.7,25.9,24.4,72.8,52.8,83.2,7.3,27.2
+University at Buffalo SUNY,United States,L,FC,VH,5.0,A,17.7,10.6,7.2,57.9,76.0,42.7,70.9,35.5,27.2
+National Sun Yat-sen University,Taiwan,M,CO,VH,3.0,A,25.3,24.9,36.7,27.3,20.6,10.6,31.2,7.5,27.1
+"University of Colorado, Denver ",United States,L,FC,VH,5.0,A,7.9,8.2,100.0,11.6,4.0,10.0,75.4,4.6,27.1
+University of Science and Technology Beijing,China (Mainland),L,CO,VH,3.0,A,13.1,3.4,11.8,93.2,3.7,3.4,56.2,4.6,27.1
+University of Witwatersrand,South Africa,L,FC,VH,5.0,A,25.1,38.9,12.3,30.5,80.8,9.1,91.4,89.2,27.1
+Universidad Austral,Argentina,S,FO,HI,3.0,B,17.5,32.7,77.9,1.8,2.7,9.5,3.6,11.5,27.0
+Université Laval,Canada,L,FC,VH,5.0,A,20.0,17.8,32.0,27.6,67.4,33.5,84.6,17.0,26.9
+Far Eastern Federal University,Russia,L,CO,HI,5.0,A,8.4,3.4,93.2,1.9,15.4,63.4,40.5,11.6,26.8
+Université de Strasbourg,France,XL,FC,VH,5.0,A,40.7,6.8,5.1,24.9,37.3,37.4,86.6,11.2,26.8
+National Taipei University of Technology,Taiwan,M,FO,VH,3.0,A,15.2,58.2,28.9,32.2,23.2,24.6,24.3,25.1,26.6
+Università Vita-Salute San Raffaele,Italy,S,SP,VH,3.0,B,3.0,1.4,99.7,22.7,8.7,4.9,35.7,9.5,26.6
+Oxford Brookes University,United Kingdom,L,CO,HI,3.0,A,27.0,41.4,13.0,9.2,67.3,71.9,52.1,32.7,26.5
+University of Coimbra,Portugal,L,FC,VH,5.0,A,30.1,13.8,14.5,38.6,12.3,33.7,86.3,30.9,26.5
+Wake Forest University,United States,M,FC,VH,5.0,B,5.4,7.3,100.0,12.6,6.0,12.9,50.8,43.0,26.5
+Universidade Federal de São Paulo,Brazil,L,FC,VH,4.0,A,11.3,4.8,98.2,6.6,5.6,1.5,45.3,3.1,26.4
+Universität des Saarlandes,Germany,L,FC,VH,4.0,A,10.2,7.5,86.8,9.0,5.5,41.0,80.3,23.6,26.4
+Amirkabir University of Technology,"Iran, Islamic Republic of",M,FO,VH,4.0,A,5.0,23.4,4.9,99.6,15.7,2.4,62.6,39.9,26.3
+Auezov South Kazakhstan University (SKU),Kazakhstan,L,CO,MD,4.0,A,11.8,13.7,90.5,1.0,15.0,21.3,2.7,10.8,26.3
+Beihang University (former BUAA),China (Mainland),L,CO,VH,2.0,A,13.1,4.4,31.0,67.8,8.3,5.5,52.1,13.8,26.3
+Illinois Institute of Technology,United States,M,CO,VH,5.0,B,14.8,8.2,14.7,52.9,23.7,95.0,31.3,22.8,26.3
+SOAS University of London ,United Kingdom,S,SP,VH,5.0,A,17.9,10.2,23.8,16.4,100.0,99.7,17.9,68.6,26.3
+Washington State University,United States,L,FC,VH,5.0,A,25.5,24.4,15.3,36.2,57.4,6.4,78.7,13.3,26.3
+Bogor Agricultural University,Indonesia,L,CO,VH,4.0,A,19.6,28.5,60.7,1.7,54.6,3.3,21.6,11.6,26.2
+Hasselt University ,Belgium,M,FO,VH,3.0,A,4.7,3.8,78.8,16.6,68.6,25.3,74.1,11.7,26.2
+Umm Al-Qura University ,Saudi Arabia,XL,FC,HI,4.0,A,16.9,10.5,59.8,1.9,100.0,19.3,35.1,3.9,26.2
+Universidad de Montevideo (UM),Uruguay,S,FC,LO,3.0,B,16.6,19.8,78.9,1.1,26.1,3.6,1.8,87.6,26.2
+"University of California, Riverside",United States,L,FC,VH,4.0,A,17.8,8.5,8.0,61.8,72.0,9.4,76.0,11.6,26.1
+Stellenbosch University,South Africa,L,FC,VH,5.0,A,24.5,35.7,3.6,51.2,21.5,9.1,86.6,53.8,26.0
+University of Tromsø The Arctic University of Norway,Norway,L,FC,HI,4.0,A,12.4,3.9,73.2,9.3,71.2,8.5,77.1,22.9,26.0
+York University,Canada,XL,CO,VH,4.0,A,22.6,31.3,6.1,28.2,52.0,82.1,60.8,48.7,25.9
+Institut National des Sciences Appliquées de Lyon (INSA),France,M,FO,VH,4.0,A,7.5,31.7,37.8,32.3,29.0,79.0,81.0,28.2,25.7
+Sogang University,South Korea,M,CO,VH,4.0,B,18.1,44.5,51.6,6.3,9.8,36.2,13.8,30.3,25.7
+University of Trento,Italy,L,CO,VH,4.0,A,24.6,9.4,18.0,46.6,31.8,6.1,85.8,7.2,25.7
+University of Florence,Italy,XL,FC,VH,4.0,A,32.5,6.3,5.2,47.4,10.3,17.0,90.4,12.4,25.6
+James Cook University,Australia,M,FC,VH,4.0,A,13.9,10.2,11.9,63.3,55.7,19.5,79.6,7.6,25.5
+Rensselaer Polytechnic Institute,United States,M,CO,VH,5.0,B,8.4,6.5,21.0,70.5,12.2,48.9,41.0,57.3,25.5
+Southeast University,China (Mainland),XL,FC,VH,3.0,A,11.1,6.0,29.5,68.7,10.4,3.9,62.1,5.2,25.5
+Universidad de Belgrano,Argentina,M,CO,MD,4.0,B,9.4,17.4,89.8,1.0,6.4,28.4,,6.5,25.5
+"Essex, University of",United Kingdom,L,CO,VH,4.0,A,16.2,8.0,12.3,28.1,99.7,98.3,71.8,12.8,25.4
+Universidad de Santiago de Chile (USACH),Chile,L,FC,HI,5.0,A,41.0,58.1,8.3,4.9,7.0,2.4,46.6,4.4,25.4
+The National University of Science and Technology MISIS,Russia,M,CO,VH,4.0,A,8.2,9.9,74.2,13.7,12.2,53.4,45.6,7.5,25.3
+Universidad de La Habana,Cuba,L,CO,HI,5.0,A,20.3,25.5,69.4,1.6,1.9,4.5,25.6,55.6,25.3
+University of Alaska Fairbanks,United States,S,CO,VH,,A,3.1,3.7,99.6,16.2,5.6,3.4,44.5,8.3,25.3
+University of Iowa,United States,L,FC,VH,5.0,A,20.7,13.3,48.2,24.4,15.8,5.9,81.3,30.6,25.3
+Dublin City University,Ireland,L,FC,HI,3.0,A,19.1,32.4,31.3,16.4,76.4,16.2,73.5,50.3,25.2
+Tulane University,United States,L,FC,HI,5.0,B,9.5,4.2,86.7,11.4,13.7,10.9,74.9,44.1,25.2
+University of Cyprus (UCY),Cyprus,M,CO,VH,3.0,A,9.0,3.1,5.1,71.7,87.6,27.4,84.2,57.4,25.1
+University of Saskatchewan,Canada,L,FC,VH,5.0,A,12.0,11.7,21.9,42.5,69.9,52.3,83.5,24.9,25.1
+Chang Gung University,Taiwan,M,FO,VH,3.0,B,4.8,4.9,69.4,40.5,4.3,5.2,26.3,8.6,25.0
+University of Turin,Italy,XL,FC,VH,5.0,A,37.5,6.5,3.3,39.8,5.2,6.6,86.5,23.0,25.0
+Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),Saudi Arabia,L,FC,HI,3.0,A,5.8,3.7,81.8,2.0,97.6,9.2,49.6,4.5,24.9
+Koç University,Turkey,M,FC,HI,3.0,B,20.4,36.3,31.2,23.4,30.3,10.6,42.6,24.0,24.9
+Martin-Luther-Universität Halle-Wittenberg,Germany,L,FC,HI,5.0,A,14.6,4.5,83.9,5.7,,10.7,83.6,17.2,24.9
+UNESP,Brazil,XL,FC,VH,3.0,A,37.0,23.5,19.1,16.8,6.1,2.3,74.8,2.8,24.9
+Bond University,Australia,S,FC,HI,3.0,B,4.4,6.3,45.8,16.4,98.3,98.9,15.3,31.1,24.8
+Dongguk University ,South Korea,L,FC,HI,4.0,B,8.5,9.9,85.8,7.6,10.2,21.6,41.8,7.6,24.8
+Iowa State University,United States,L,CO,VH,5.0,A,19.4,13.9,7.9,65.8,6.0,10.3,85.1,31.0,24.8
+Kazakh National Agrarian University KazNAU,Kazakhstan,M,SP,LO,4.0,A,14.7,13.8,73.5,1.1,29.2,19.9,5.8,15.8,24.8
+Universiti Utara Malaysia (UUM),Malaysia,L,SP,VH,3.0,A,19.4,23.3,42.6,6.1,20.3,76.0,23.7,6.5,24.8
+Auckland University of Technology (AUT),New Zealand,L,CO,VH,2.0,A,19.1,14.6,9.5,17.9,100.0,99.9,53.9,10.4,24.7
+University of Klagenfurt,Austria,S,FO,VH,4.0,A,4.3,2.9,56.6,11.4,95.2,84.8,43.4,49.7,24.7
+Ajou University ,South Korea,M,FC,VH,3.0,B,13.3,12.1,70.0,13.5,7.4,16.6,26.5,8.1,24.6
+Universidad Politécnica de Madrid (UPM),Spain,XL,SP,VH,4.0,A,30.8,50.1,17.4,10.8,3.2,27.1,77.8,44.7,24.6
+Aix-Marseille University,France,XL,FC,VH,5.0,A,36.0,3.5,9.1,28.8,20.0,21.8,98.1,9.9,24.5
+Ben-Gurion University of The Negev,Israel,L,FC,VH,4.0,A,14.6,11.7,12.8,53.0,66.2,17.3,68.3,12.7,24.5
+Chiba University,Japan,L,FC,VH,4.0,A,16.0,6.7,71.8,11.1,8.2,6.1,39.3,3.6,24.5
+Justus-Liebig-University Giessen,Germany,L,FC,HI,5.0,A,12.3,8.1,1.8,85.5,10.3,13.9,90.6,8.1,24.5
+The Catholic University of Korea ,South Korea,M,FC,VH,3.0,B,4.7,2.5,98.5,9.8,2.3,6.6,13.9,4.3,24.4
+Universidad ORT Uruguay,Uruguay,S,FO,HI,4.0,B,11.7,16.3,83.2,1.2,20.5,1.9,2.2,70.0,24.4
+University of Granada,Spain,XL,FC,VH,5.0,A,42.1,7.8,6.4,21.7,3.7,17.4,95.6,4.1,24.4
+Brandeis University,United States,M,CO,VH,4.0,B,9.6,3.8,55.7,22.3,19.4,68.5,20.3,55.1,24.3
+Jilin University,China (Mainland),XL,FC,VH,4.0,A,13.5,44.5,42.0,25.8,13.7,2.4,55.5,20.2,24.3
+Central South University,China (Mainland),XL,FC,VH,2.0,A,7.3,2.0,5.5,96.3,8.2,3.9,51.0,11.9,24.2
+"University of Rome ""Tor Vergata""",Italy,L,CO,VH,3.0,A,31.6,12.6,6.8,34.3,9.4,29.4,75.2,14.6,24.2
+ Western Sydney University,Australia,XL,FC,HI,3.0,A,16.5,18.1,4.7,33.9,100.0,56.3,84.6,6.4,
+Bar-Ilan University,Israel,L,FC,VH,4.0,A,8.4,6.5,8.2,77.9,49.4,3.2,58.8,20.3,
+Colorado School of Mines,United States,M,FO,VH,5.0,A,6.9,9.2,24.9,67.7,22.3,11.5,40.7,24.5,
+Kyungpook National University,South Korea,L,FC,VH,4.0,A,14.2,19.2,60.8,14.7,8.1,16.5,54.9,14.1,
+Middle East Technical University,Turkey,L,CO,VH,4.0,A,26.8,52.7,8.5,25.0,10.7,14.7,58.5,30.1,
+Missouri University of Science and Technology,United States,M,CO,VH,5.0,A,3.2,4.3,7.2,79.9,86.9,8.2,35.2,4.2,
+Swarthmore College,United States,S,CO,HI,5.0,B,3.5,1.5,91.8,19.3,2.3,,10.3,99.1,
+Université de Montpellier,France,XL,FO,VH,5.0,A,19.8,5.9,9.4,55.1,23.6,28.6,99.1,5.4,
+University of Aveiro,Portugal,L,CO,VH,3.0,A,13.1,6.3,18.4,68.9,4.8,8.1,92.4,8.0,
+University of St.Gallen (HSG),Switzerland,M,SP,VH,5.0,A,8.8,38.6,6.7,29.3,100.0,85.2,8.0,98.5,
+University of Stirling,United Kingdom,M,CO,VH,4.0,A,10.8,12.1,13.5,41.2,70.0,77.8,59.5,23.2,
+University of Tehran,"Iran, Islamic Republic of",XL,CO,VH,4.0,A,22.6,27.5,4.2,55.8,2.0,2.0,80.2,28.5,
+Yokohama City University,Japan,M,FO,VH,4.0,A,3.5,2.7,99.2,10.3,4.1,2.7,14.9,5.6,
+Abai Kazakh National Pedagogical University,Kazakhstan,L,CO,MD,4.0,A,19.4,17.1,60.1,1.1,37.7,3.2,3.2,13.7,
+Florida State University,United States,XL,FC,VH,5.0,A,26.7,37.1,8.2,33.1,15.0,4.2,72.8,22.3,
+"Goldsmiths, University of London",United Kingdom,M,FO,VH,5.0,A,16.2,7.5,18.3,17.4,87.3,96.6,30.6,20.1,
+Universidad de Alcalá,Spain,L,FC,HI,3.0,A,9.2,5.2,70.0,5.0,21.8,70.8,63.1,8.0,
+Universidad de Costa Rica,Costa Rica,L,CO,HI,4.0,A,31.2,44.7,32.6,1.8,,,33.5,51.7,
+Università Cattolica del Sacro Cuore,Italy,L,FO,VH,5.0,B,22.4,31.6,47.6,6.7,5.9,8.0,62.6,20.1,
+University of Bayreuth,Germany,M,CO,VH,3.0,A,9.9,16.8,42.8,28.9,51.5,23.9,75.4,27.7,
+University of Canberra ,Australia,M,CO,VH,3.0,A,12.9,8.8,3.1,43.6,94.4,70.1,55.5,7.4,
+"University of Missouri, Columbia",United States,L,FC,VH,5.0,A,15.4,15.2,43.5,20.1,59.2,4.0,71.4,39.4,
+Altai State University,Russia,M,FO,VH,3.0,A,7.7,5.1,81.3,1.4,7.5,58.7,12.4,4.6,
+Beijing University of Chemical Technology,China (Mainland),L,CO,VH,4.0,A,4.6,1.5,20.2,86.9,,,29.7,4.7,
+Christian-Albrechts-University zu Kiel,Germany,L,FC,VH,5.0,A,18.8,10.3,49.4,22.8,,10.3,94.3,7.2,
+Poznan University of Life Sciences,Poland,M,FO,VH,5.0,A,5.4,3.0,99.6,3.5,,1.6,40.6,6.6,
+The New School,United States,M,FO,VH,5.0,B,15.6,7.4,53.8,2.6,3.9,94.9,10.9,15.3,
+Université de Liège,Belgium,L,FC,VH,5.0,A,18.0,25.0,15.9,27.1,47.9,49.5,85.9,15.2,
+University of Bordeaux,France,XL,FO,VH,5.0,A,30.8,5.5,19.6,20.2,27.3,21.4,95.2,8.7,
+University of Delhi,India,L,FC,VH,5.0,A,34.2,31.9,4.5,27.2,1.5,1.9,70.8,92.0,
+University of Texas Dallas,United States,L,FC,VH,4.0,A,14.2,17.0,4.0,64.1,14.6,35.9,70.2,4.8,
+Warsaw University of Technology,Poland,L,FO,VH,5.0,A,22.2,58.5,35.1,4.8,2.0,11.5,63.5,17.2,
+Hitotsubashi University,Japan,M,SP,VH,4.0,A,13.9,84.3,30.7,2.4,21.2,21.9,6.4,64.5,
+Inha University,South Korea,L,FC,HI,4.0,B,8.7,13.7,73.4,12.0,8.4,15.4,29.4,17.9,
+Iran University of Science and Technology,"Iran, Islamic Republic of",L,FO,VH,4.0,A,6.7,15.2,2.7,89.7,,1.5,48.7,25.4,
+Sabanci University,Turkey,S,FO,VH,3.0,B,16.2,27.4,37.0,18.1,40.5,17.0,24.3,46.9,
+Saint Joseph University of Beirut (USJ) ,Lebanon,M,FC,HI,5.0,B,9.1,27.1,52.3,2.8,88.8,19.2,19.5,8.4,
+"Universidad Central ""Marta Abreu"" de Las Villas",Cuba,M,CO,MD,4.0,A,6.0,1.4,100.0,1.2,1.1,1.5,13.2,46.8,
+University of Balamand,Lebanon,S,CO,HI,3.0,B,4.5,11.1,88.3,1.9,15.8,22.8,16.3,11.2,
+University of Limerick,Ireland,L,FC,HI,4.0,A,17.1,34.5,12.8,22.3,87.9,23.8,67.9,17.4,
+Canadian University Dubai,United Arab Emirates,S,FO,HI,2.0,C,10.4,19.8,29.1,2.0,100.0,100.0,6.0,67.6,
+China University of Petroleum,China (Mainland),L,CO,VH,3.0,A,3.5,1.3,7.8,95.7,,5.2,18.7,21.1,
+East China Normal University,China (Mainland),L,CO,VH,4.0,A,13.4,3.4,23.9,44.3,37.9,22.3,68.0,12.0,
+Savitribai Phule Pune University,India,S,CO,VH,4.0,A,7.0,5.4,64.6,29.6,1.1,3.1,31.1,39.7,
+Southern Federal University,Russia,L,CO,VH,5.0,A,7.3,4.1,84.7,1.8,3.9,30.8,39.6,3.2,
+Universidad Nacional de La Plata (UNLP),Argentina,XL,FC,HI,5.0,A,36.3,19.7,21.6,2.2,4.0,19.6,40.5,4.8,
+Universidad Panamericana (UP),Mexico,L,FO,HI,4.0,B,7.6,29.3,78.2,1.2,12.2,1.4,10.8,10.4,
+Universität Konstanz,Germany,M,CO,VH,4.0,A,21.7,3.6,29.9,16.2,69.8,16.2,62.6,21.4,
+Universität Mannheim,Germany,M,FO,VH,5.0,A,15.7,40.3,2.3,44.5,30.8,22.8,29.1,44.5,
+University of Madras,India,S,CO,VH,5.0,A,8.0,3.6,,94.2,,,35.6,,
+V. N. Karazin Kharkiv National University,Ukraine,L,FC,HI,5.0,A,12.0,14.6,62.6,1.5,1.3,68.4,26.1,11.5,
+Anna University,India,L,FO,VH,3.0,A,6.8,11.3,5.6,85.2,,1.8,72.5,26.7,
+Cairo University,Egypt,XL,FC,VH,5.0,A,41.6,27.2,9.4,2.6,2.4,5.5,86.8,36.6,
+Concordia University,Canada,XL,CO,VH,3.0,A,14.3,23.2,3.1,24.3,80.8,91.6,74.9,33.5,
+Jeonbuk National University,South Korea,L,FC,VH,4.0,A,14.4,10.3,62.4,10.8,8.7,8.3,40.6,6.2,
+Masaryk University,Czech Republic,L,CO,VH,5.0,A,23.7,25.8,11.5,14.9,31.3,66.9,85.0,23.5,
+National Research Saratov State University,Russia,M,CO,VH,5.0,A,4.0,1.8,94.2,1.9,3.6,16.5,18.9,5.3,
+Northwestern Polytechnical University,China (Mainland),XL,CO,VH,4.0,A,4.7,1.8,50.1,45.1,13.1,4.4,54.6,4.9,
+Sejong University ,South Korea,L,CO,VH,3.0,B,11.8,16.7,17.3,48.2,26.5,26.1,57.7,3.9,
+Universidad de Zaragoza,Spain,L,FC,VH,5.0,A,21.8,4.2,53.9,7.8,4.4,8.1,86.9,10.1,
+University of Eastern Finland,Finland,M,CO,VH,4.0,A,15.1,12.6,40.0,25.2,27.9,6.0,81.7,6.3,
+University of Szeged,Hungary,L,FC,HI,5.0,B,17.7,11.1,48.7,4.7,12.9,53.0,76.5,15.0,
+Almaty Technological University,Kazakhstan,M,FO,HI,4.0,A,4.6,3.4,90.5,1.0,21.0,6.1,4.7,19.4,
+Applied Science University - Bahrain,Bahrain,S,FO,MD,2.0,B,14.2,20.3,34.4,1.5,100.0,40.4,4.3,1.2,
+Aston University,United Kingdom,L,CO,VH,4.0,A,12.0,19.6,12.7,26.2,96.0,48.6,70.7,23.8,
+Bilkent University,Turkey,M,CO,VH,3.0,B,20.2,34.1,16.2,16.5,64.2,8.9,31.7,37.3,
+Boston College,United States,L,CO,VH,5.0,B,21.1,20.4,23.5,24.1,13.3,21.5,40.0,69.9,
+Dalian University of Technology,China (Mainland),XL,CO,VH,4.0,A,8.2,2.3,15.7,71.9,12.5,2.8,61.1,13.2,
+Murdoch University,Australia,M,CO,VH,3.0,A,6.7,7.5,5.8,44.6,86.4,77.1,74.5,19.0,
+Niigata University,Japan,L,FC,HI,4.0,A,4.3,2.8,91.1,5.1,4.8,3.7,26.4,5.6,
+Singapore Management University,Singapore,M,SP,VH,2.0,A,11.2,16.9,13.5,24.2,100.0,60.7,14.3,84.8,
+"Sofia University ""St. Kliment Ohridski""",Bulgaria,L,CO,HI,5.0,A,14.4,21.0,64.3,2.0,3.1,9.9,36.8,54.0,
+Universidad de Sevilla,Spain,XL,FC,VH,5.0,A,37.4,8.9,16.8,9.1,3.9,11.0,93.1,4.2,
+Università degli Studi di Pavia,Italy,L,FC,VH,5.0,A,20.5,5.6,7.1,52.5,7.4,13.0,86.5,19.8,
+University of Electronic Science and Technology of China,China (Mainland),XL,CO,VH,4.0,A,3.7,2.3,9.4,89.0,3.7,2.9,53.6,7.9,
+University of Ulsan ,South Korea,L,FC,VH,3.0,B,5.3,2.6,67.4,27.2,3.1,4.5,33.5,3.9,
+Hallym University ,South Korea,M,FC,VH,3.0,B,2.1,1.5,93.8,6.8,4.7,3.4,17.0,4.6,
+Holy Spirit University of Kaslik ,Lebanon,M,FC,MD,4.0,B,5.2,8.6,57.3,1.8,98.7,37.3,7.1,9.0,
+Nagasaki University,Japan,M,FO,VH,4.0,A,6.4,2.3,83.8,7.0,7.2,5.1,57.1,5.9,
+Universitat de Valencia,Spain,XL,FC,VH,5.0,A,32.0,7.1,12.0,22.7,2.5,17.8,93.4,15.3,
+Université de Fribourg,Switzerland,M,FO,VH,5.0,A,10.4,5.3,5.7,41.5,100.0,47.5,52.3,29.5,
+Université du Québec,Canada,XL,FC,VH,4.0,A,19.5,19.5,1.7,43.8,38.1,14.5,90.2,3.9,
+Indian Institute of Technology Hyderabad,India,S,CO,VH,2.0,A,3.5,2.3,20.1,76.8,1.3,1.5,20.4,19.5,
+Macau University of Science and Technology,Macau SAR,M,CO,VH,2.0,B,3.4,3.5,4.7,43.3,100.0,100.0,21.4,80.4,
+National Central University,Taiwan,M,CO,VH,4.0,A,20.1,25.4,27.2,20.6,15.3,10.2,37.9,16.0,
+Shenzhen University,China (Mainland),XL,CO,VH,3.0,A,7.1,2.2,70.4,17.8,10.7,1.4,65.1,24.9,
+Universität Regensburg,Germany,L,FO,VH,4.0,A,11.1,5.3,70.8,7.8,,10.5,69.1,9.3,
+Université Paul Sabatier Toulouse III,France,L,FO,VH,5.0,A,18.9,3.5,43.1,15.9,6.1,25.5,91.2,4.3,
+University of Delaware,United States,L,CO,VH,5.0,A,10.4,9.6,8.5,58.8,37.2,16.0,61.2,28.8,
+University of Massachusetts Boston,United States,L,FO,VH,5.0,A,12.8,8.6,11.0,61.0,4.6,12.3,71.2,3.1,
+China Agricultural University ,China (Mainland),L,FC,VH,3.0,A,8.5,1.6,21.7,63.9,3.8,1.7,49.2,3.4,
+Hunan University ,China (Mainland),XL,CO,VH,4.0,A,7.0,7.4,12.7,72.2,5.5,2.1,38.6,19.3,
+Lehigh University,United States,M,CO,VH,5.0,B,5.6,5.0,29.8,40.1,50.2,36.0,54.1,73.1,
+Politecnico di Bari,Italy,S,SP,VH,3.0,A,5.6,4.3,11.8,76.2,5.6,8.8,34.5,12.5,
+Sungshin Women's University,South Korea,M,CO,MD,3.0,,3.4,6.3,92.4,1.2,3.4,4.2,5.3,4.3,
+University of Crete,Greece,L,FC,HI,3.0,A,14.9,13.7,3.7,62.4,1.8,4.3,57.0,12.0,
+University of Guelph,Canada,L,CO,VH,4.0,A,13.5,31.5,6.0,41.7,46.3,14.7,68.6,15.7,
+University of Jordan,Jordan,XL,FC,HI,4.0,A,26.9,38.6,17.0,2.9,18.3,28.7,57.8,30.8,
+University of Minho,Portugal,L,FC,VH,3.0,A,16.0,8.7,39.0,17.8,19.1,28.1,82.0,8.3,
+University of Pretoria,South Africa,XL,FC,VH,5.0,A,23.4,47.7,3.4,21.1,31.1,7.4,94.6,56.0,
+Abo Akademi University,Finland,M,CO,VH,5.0,A,8.4,8.4,28.4,37.5,48.9,9.3,65.7,9.1,
+Al Ain University,United Arab Emirates,S,FO,VH,2.0,B,13.5,11.5,11.1,2.8,100.0,100.0,16.9,32.8,
+Bangor University,United Kingdom,M,FC,VH,5.0,A,8.6,4.5,19.5,29.4,54.3,59.4,64.5,12.9,
+Carleton University,Canada,L,CO,VH,4.0,A,9.6,18.3,2.8,45.5,36.2,50.8,58.2,47.0,
+Chiang Mai University,Thailand,XL,FC,HI,4.0,A,31.9,26.1,16.0,3.8,4.2,4.2,61.1,24.6,
+East China University of Science and Technology,China (Mainland),L,CO,VH,4.0,A,6.5,2.5,15.6,66.0,3.3,2.0,42.8,5.5,
+Edith Cowan University ,Australia,L,CO,VH,3.0,A,8.1,9.8,8.5,28.8,64.4,91.7,64.4,7.9,
+Gifu University,Japan,M,FC,VH,4.0,A,4.7,2.1,76.7,7.2,4.7,3.7,22.5,3.8,
+Immanuel Kant Baltic Federal University,Russia,M,CO,HI,4.0,A,6.6,2.2,71.8,1.7,17.2,29.4,29.1,4.0,
+Istanbul Technical University,Turkey,L,FO,VH,5.0,A,21.9,49.1,15.0,10.9,4.8,18.9,66.7,25.0,
+Ivane Javakhishvili Tbilisi State University,Georgia,L,FO,HI,5.0,A,8.0,3.6,78.1,1.2,2.7,3.0,13.4,60.2,
+Jawaharlal Nehru University,India,M,CO,VH,4.0,A,28.2,9.6,16.0,19.7,,2.0,37.6,12.6,
+Kanazawa University,Japan,M,FC,VH,4.0,A,8.1,3.3,66.7,12.6,12.5,7.1,42.3,4.2,
+"Kingston University, London",United Kingdom,L,CO,HI,3.0,A,16.6,12.1,7.4,9.7,73.5,98.7,60.5,18.6,
+Lahore University of Management Sciences (LUMS),Pakistan,S,CO,VH,3.0,B,14.9,67.6,32.1,5.5,9.0,2.1,18.8,92.7,
+Lebanese American University,Lebanon,M,FC,HI,4.0,B,9.9,21.7,32.7,3.5,88.2,37.1,12.5,21.2,
+Lebanese University,Lebanon,XL,FC,MD,4.0,A,19.5,47.8,12.7,2.0,44.9,34.3,49.4,12.2,
+Leibniz University Hannover,Germany,L,CO,VH,5.0,A,21.2,36.4,16.7,10.4,31.4,32.8,72.2,3.0,
+"Lingnan University, Hong Kong",Hong Kong SAR,S,SP,VH,2.0,A,7.3,6.2,18.6,15.6,100.0,86.4,21.8,20.6,
+Management and Science University,Malaysia,M,FO,HI,2.0,C,10.7,14.7,30.6,1.5,68.6,74.5,5.4,9.7,
+Nanjing University of Science and Technology,China (Mainland),L,FO,VH,2.0,A,4.4,2.1,14.3,75.4,,,35.9,3.2,
+National and Kapodistrian University of Athens,Greece,XL,FC,VH,5.0,A,24.9,32.1,2.2,27.6,8.0,15.8,90.6,19.4,
+National Chengchi University,Taiwan,M,CO,HI,4.0,A,18.4,39.2,24.9,2.7,24.1,37.7,9.9,82.8,
+Okayama University,Japan,L,FC,HI,4.0,A,7.8,3.4,67.5,10.0,6.7,6.4,34.4,8.1,
+Oregon State University,United States,L,CO,VH,5.0,A,16.2,7.0,24.0,37.2,13.9,13.8,89.4,16.6,
+Osaka City University,Japan,M,FC,VH,4.0,A,9.4,6.8,71.1,7.7,5.5,4.1,21.4,4.2,
+Pontifícia Universidade Católica do Rio de Janeiro,Brazil,M,CO,VH,4.0,B,31.6,14.3,8.1,12.6,21.0,1.4,31.2,44.9,
+Pusan National University,South Korea,L,FC,VH,4.0,A,20.0,17.7,32.8,13.6,8.2,10.2,41.8,11.3,
+Renmin (People's) University of China,China (Mainland),L,FO,VH,4.0,A,21.7,52.1,18.8,7.6,7.8,6.0,25.9,69.1,
+Samara National Research University (Samara University),Russia,M,FO,VH,4.0,A,4.0,2.3,83.1,2.6,4.1,21.9,18.3,14.8,
+St. Louis University,United States,M,CO,VH,5.0,B,3.5,3.5,73.5,11.3,11.0,6.5,40.3,13.4,
+Sunway University,Malaysia,S,FO,VH,2.0,B,8.4,36.8,47.4,5.1,37.2,25.3,30.1,11.3,
+Technische Universität Braunschweig,Germany,L,CO,VH,5.0,A,9.3,16.0,60.5,7.6,,28.5,76.1,9.4,
+The University of Georgia,United States,XL,FC,VH,5.0,A,21.2,27.2,11.7,31.5,7.5,4.6,88.3,22.0,
+"The University of Tennessee, Knoxville",United States,L,FC,VH,5.0,A,10.8,23.9,13.2,54.3,5.1,2.5,75.4,10.6,
+Ulster University,United Kingdom,L,CO,VH,4.0,A,8.2,10.4,15.2,12.9,99.7,99.3,72.2,10.4,
+Universidad Anáhuac México,Mexico,L,CO,MD,4.0,B,11.8,33.1,55.3,1.1,6.5,3.5,2.4,36.1,
+Universidad de Concepción,Chile,L,FC,HI,5.0,B,26.9,40.5,12.7,7.6,13.1,2.3,66.5,6.8,
+Universidad Pontificia Bolivariana ,Colombia,M,FO,VH,4.0,B,9.0,20.8,64.8,1.7,4.9,2.1,11.1,26.8,
+Universidad Pontificia Comillas,Spain,M,FO,VH,3.0,B,8.5,64.9,41.1,2.5,19.9,5.6,8.8,69.2,
+Universität Bremen,Germany,L,CO,VH,4.0,A,19.7,5.6,19.9,24.4,43.9,21.4,91.1,3.1,
+Universität Potsdam,Germany,L,FO,VH,3.0,A,15.3,2.2,14.8,32.8,52.4,23.8,92.5,3.2,
+Universität Rostock,Germany,L,FC,HI,5.0,A,7.1,3.1,72.8,7.1,,16.0,70.6,10.7,
+Université Claude Bernard Lyon 1,France,XL,FC,VH,5.0,A,17.9,3.6,9.1,46.5,8.8,14.6,93.8,2.6,
+University of Ljubljana,Slovenia,XL,FC,VH,5.0,A,20.0,6.3,43.7,7.2,4.2,10.3,82.5,65.9,
+University of Milano-Bicocca ,Italy,L,FO,VH,2.0,A,19.8,10.2,1.9,52.7,5.7,4.1,77.6,20.6,
+University of Salamanca,Spain,L,FC,HI,5.0,A,26.0,8.8,21.0,7.2,7.0,40.2,68.9,11.0,
+University of Sharjah,United Arab Emirates,L,CO,HI,3.0,B,14.9,15.9,7.0,7.7,100.0,100.0,56.1,7.1,
+University of South Florida,United States,XL,CO,VH,4.0,A,12.7,14.2,7.4,41.3,49.1,20.6,83.0,9.1,
+University Paris 2 Panthéon-Assas,France,L,SP,VH,5.0,A,6.9,6.2,80.9,1.2,,15.9,1.7,12.2,
+Wayne State University,United States,L,FC,VH,5.0,A,8.0,5.0,65.2,14.0,13.3,5.2,74.9,17.8,
+Wesleyan University,United States,S,FO,VH,,B,3.3,2.4,73.0,9.8,12.7,20.4,9.3,98.7,
+Aberystwyth University,United Kingdom,M,CO,VH,5.0,A,9.0,6.9,21.7,25.0,55.3,56.5,66.6,16.5,
+Abu Dhabi University,United Arab Emirates,S,FO,VH,2.0,C,8.6,10.7,10.8,7.9,100.0,99.7,12.2,20.4,
+Ahlia University,Bahrain,S,FO,HI,2.0,B,9.5,5.8,32.8,2.2,99.7,45.4,3.6,1.0,
+Ajman University,United Arab Emirates,M,CO,MD,3.0,C,10.6,24.6,7.4,1.7,100.0,100.0,16.3,9.8,
+Alfaisal University,Saudi Arabia,S,FO,VH,2.0,B,2.9,2.2,29.7,9.8,100.0,91.0,25.2,10.4,
+American University in Dubai,United Arab Emirates,S,FO,HI,3.0,C,8.8,18.8,16.3,2.3,100.0,100.0,5.8,66.8,
+Aristotle University of Thessaloniki,Greece,XL,FC,VH,4.0,A,27.4,28.1,3.5,15.9,1.5,6.8,84.5,14.3,
+Ateneo de Manila University,Philippines,L,FC,MD,5.0,B,17.6,46.9,28.7,1.7,3.4,2.9,21.9,92.9,
+Central Queensland University (CQUniversity Australia),Australia,M,CO,VH,3.0,A,7.0,10.7,18.8,9.8,94.7,97.8,23.0,3.8,
+China University of Geosciences,China (Mainland),L,FO,VH,3.0,A,4.5,1.3,58.8,20.1,1.7,3.3,52.4,2.4,
+Chongqing University,China (Mainland),XL,CO,VH,4.0,A,6.9,3.0,15.6,56.9,9.1,2.2,60.0,10.0,
+Comenius University in Bratislava,Slovakia,L,FO,VH,5.0,A,12.6,2.8,53.8,3.4,3.2,29.3,60.6,49.2,
+Coventry University,United Kingdom,XL,CO,HI,3.0,A,8.7,20.1,14.9,6.6,77.7,99.8,73.0,13.2,
+Drexel University,United States,L,FC,VH,5.0,B,8.4,6.8,25.2,36.6,24.8,22.1,71.3,39.5,
+Gunma University,Japan,M,FO,VH,4.0,A,3.0,1.8,77.1,5.3,5.0,4.1,14.7,7.4,
+Indian Institute of Technology (BHU) Varanasi,India,M,FO,VH,5.0,A,2.8,3.5,4.0,78.2,1.2,1.1,29.2,8.9,
+International Islamic University Malaysia (IIUM),Malaysia,L,FC,HI,3.0,A,21.4,16.7,15.5,3.1,25.7,62.6,44.6,26.0,
+Karaganda State Technical University,Kazakhstan,M,FO,HI,4.0,A,6.5,5.0,75.0,1.0,3.5,11.6,1.0,65.6,
+Karl-Franzens-Universitaet Graz,Austria,L,CO,VH,5.0,A,20.9,7.6,13.5,12.0,48.4,30.6,58.5,12.3,
+Konkuk University ,South Korea,L,FC,HI,4.0,B,7.3,9.9,56.1,10.3,6.5,12.6,40.9,9.3,
+Kumamoto University,Japan,M,FC,VH,4.0,A,6.9,2.5,62.8,11.3,7.4,4.0,39.0,4.0,
+National Chung Hsing University,Taiwan,L,CO,VH,4.0,A,18.6,22.2,27.3,13.0,8.7,8.9,29.6,6.2,
+"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,M,FO,VH,5.0,A,5.8,10.2,66.7,1.3,1.7,22.9,13.7,13.5,
+New Jersey Institute of Technology (NJIT),United States,M,CO,VH,5.0,A,3.5,8.0,16.0,25.3,75.4,78.4,35.5,6.2,
+Northumbria University at Newcastle,United Kingdom,L,CO,VH,4.0,A,9.8,23.1,11.4,14.7,61.4,69.6,79.1,13.8,
+O.P. Jindal Global University,India,M,SP,VH,2.0,B,6.2,21.5,63.0,1.3,22.6,1.3,1.4,16.9,
+Palacký University Olomouc,Czech Republic,L,FO,VH,5.0,A,15.6,11.5,32.6,8.8,35.0,19.2,73.6,7.4,
+Plekhanov Russian University of Economics,Russia,L,SP,VH,5.0,A,10.5,13.6,53.9,2.6,11.9,23.1,20.7,35.4,
+Prince Mohammad Bin Fahd university,Saudi Arabia,S,SP,MD,2.0,B,11.4,14.4,19.4,13.7,100.0,21.8,21.1,14.6,
+S.D. Asfendiyarov Kazakh National Medical University,Kazakhstan,M,SP,LO,2.0,A,5.7,6.2,64.5,1.0,11.3,52.9,8.4,13.1,
+Sechenov University,Russia,L,FO,VH,4.0,A,5.0,3.9,62.6,2.4,10.7,59.7,70.8,5.7,
+Soochow University,China (Mainland),XL,CO,VH,3.0,A,5.1,2.3,16.8,64.0,7.5,2.9,44.4,8.3,
+Taras Shevchenko National University of Kyiv,Ukraine,L,CO,VH,5.0,A,18.6,30.5,35.9,2.4,1.6,5.8,29.9,40.9,
+Thammasat University,Thailand,XL,FC,HI,4.0,A,21.9,37.8,25.3,2.1,12.0,1.8,18.0,81.6,
+Universidad de Antioquia,Colombia,XL,FC,HI,5.0,A,30.1,44.1,4.6,4.4,4.4,1.3,44.6,19.5,
+Universidad Externado de Colombia ,Colombia,L,FO,MD,5.0,B,13.1,52.6,39.3,1.1,9.6,1.7,1.4,18.7,
+Universidad ICESI,Colombia,M,FC,MD,3.0,B,4.8,10.9,71.1,1.7,5.4,2.4,8.5,15.6,
+Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN),Argentina,L,FC,MD,3.0,A,5.4,2.4,81.1,1.4,,,15.0,4.0,
+Universidad Peruana Cayetano Heredia (UPCH),Peru,M,FO,VH,4.0,B,9.9,10.9,66.4,2.9,1.5,3.2,29.3,20.7,
+Universitat Ramon Llull,Spain,L,CO,HI,3.0,B,10.4,47.1,7.1,8.7,94.4,35.6,34.3,10.6,
+Universiti Teknologi MARA - UiTM,Malaysia,XL,FC,VH,2.0,A,26.8,47.4,14.8,2.7,2.0,1.7,57.4,10.8,
+"University of Alabama, Birmingham",United States,L,FC,VH,4.0,A,6.9,4.6,42.8,36.1,,,67.7,4.7,
+University of Debrecen,Hungary,L,FC,HI,5.0,A,17.8,9.4,27.4,3.8,8.4,78.3,57.4,30.7,
+University of Genoa,Italy,L,FC,VH,5.0,A,16.9,3.7,10.3,41.7,5.1,12.1,83.3,4.9,
+University of Huddersfield,United Kingdom,L,CO,VH,3.0,A,10.7,10.4,6.3,25.0,77.4,70.6,75.2,3.8,
+University of Hull,United Kingdom,L,FC,HI,4.0,A,7.5,4.6,16.6,28.9,58.7,50.3,75.6,16.3,
+University of Manitoba,Canada,XL,FC,VH,5.0,A,14.3,19.3,38.9,11.0,,30.0,76.0,27.7,
+University of Nebraska - Lincoln,United States,L,CO,VH,5.0,A,10.5,5.3,19.4,38.4,46.2,11.6,78.7,17.5,
+University of Plymouth,United Kingdom,L,FC,HI,5.0,A,9.0,12.9,12.0,34.9,48.3,33.9,80.8,6.0,
+University of Southern Queensland ,Australia,L,CO,HI,3.0,A,7.9,8.4,4.6,43.0,74.1,40.1,81.4,3.8,
+American University,United States,M,CO,HI,5.0,B,16.3,29.2,32.3,4.8,3.3,17.2,16.2,54.7,
+American University of the Middle East,Kuwait,M,SP,MD,2.0,C,13.1,17.0,17.2,2.9,100.0,24.2,23.0,96.9,
+Boğaziçi University,Turkey,L,CO,HI,5.0,A,21.0,47.1,4.4,14.3,12.3,2.9,39.0,70.6,
+Brno University of Technology,Czech Republic,L,FO,VH,5.0,A,12.3,29.4,20.2,6.3,12.2,68.0,73.9,26.3,
+Charles Darwin University ,Australia,M,CO,VH,2.0,A,5.3,3.4,5.1,31.3,56.4,86.7,43.5,4.1,
+City University of New York,United States,XL,FC,VH,4.0,A,24.4,37.7,10.3,5.7,7.4,5.4,92.1,21.3,
+Eötvös Loránd University,Hungary,L,CO,VH,5.0,A,23.9,15.3,17.1,7.1,5.6,15.3,68.2,43.0,
+Free University of Bozen-Bolzano,Italy,S,FO,VH,3.0,A,4.0,1.6,12.1,39.7,79.8,28.5,53.3,6.6,
+Institut Teknologi Sepuluh Nopember (ITS Surabaya),Indonesia,L,SP,VH,2.0,A,13.0,30.3,30.7,1.8,60.0,2.9,12.2,19.8,
+Jadavpur University,India,L,CO,VH,5.0,A,14.6,4.5,10.9,42.5,,1.1,51.3,22.6,
+Jinan University (China),China (Mainland),XL,FC,VH,4.0,A,3.9,2.0,9.3,34.5,49.4,83.9,52.1,2.3,
+Jouf University,Saudi Arabia,L,FC,MD,2.0,A,5.4,4.8,43.7,1.7,100.0,3.1,25.9,4.8,
+Kagoshima University,Japan,M,FC,HI,4.0,A,5.0,2.4,68.6,4.7,4.5,3.3,30.8,3.4,
+Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,M,FC,MD,3.0,A,11.7,13.4,49.9,1.2,5.8,21.7,4.1,13.8,
+King Khalid University,Saudi Arabia,XL,FC,HI,2.0,A,10.0,2.7,36.5,1.9,100.0,3.4,42.7,8.5,
+"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,L,FO,VH,5.0,A,14.7,26.7,43.6,1.5,1.2,2.8,15.2,15.7,
+Pavol Jozef Šafárik University in Košice,Slovakia,M,FC,HI,4.0,A,3.9,2.6,57.7,4.0,2.2,61.8,34.3,27.8,
+Princess Nourah bint Abdulrahman University,Saudi Arabia,L,CO,HI,4.0,A,14.4,19.3,18.3,1.5,85.5,37.0,39.8,4.1,
+Ritsumeikan University,Japan,XL,CO,HI,5.0,B,13.3,68.6,9.3,3.6,27.0,11.4,28.1,9.1,
+Southern Cross University ,Australia,M,CO,VH,2.0,A,4.1,3.5,3.9,34.8,73.5,88.1,57.3,7.1,
+Stevens Institute of Technology,United States,M,CO,VH,5.0,B,2.5,3.4,5.9,41.4,42.1,86.3,27.5,17.0,
+Tallinn University of Technology (TalTech),Estonia,M,FO,VH,5.0,A,12.7,10.8,25.1,9.4,35.2,37.3,79.7,84.6,
+Tokushima University,Japan,M,FC,VH,4.0,A,4.5,1.5,67.4,8.3,3.0,2.8,20.6,8.7,
+Tokyo Metropolitan University,Japan,M,CO,VH,2.0,A,11.7,5.1,27.7,26.4,6.4,7.6,37.8,6.0,
+Tokyo University of Agriculture and Technology ,Japan,M,FO,VH,4.0,A,11.8,5.6,14.1,41.9,5.6,6.4,46.2,5.1,
+Universidad Católica del Uruguay (UCU),Uruguay,S,CO,MD,3.0,B,11.0,16.1,49.9,1.3,11.8,2.8,6.9,44.5,
+Universidad Central de Venezuela,Venezuela,XL,FC,MD,5.0,A,21.2,46.3,21.4,1.2,,,22.0,15.2,
+Universidad de La Sabana,Colombia,M,FC,MD,3.0,B,17.3,51.4,19.9,1.9,8.5,2.4,7.5,7.6,
+Universidad Iberoamericana IBERO,Mexico,L,FC,MD,4.0,B,17.5,39.9,29.3,1.3,6.6,2.6,7.1,50.0,
+Universidad San Francisco de Quito (USFQ),Ecuador,M,FC,MD,3.0,B,12.5,17.7,32.6,2.2,62.9,2.2,18.5,19.6,
+Universidade Federal de Minas Gerais      ,Brazil,XL,FC,VH,5.0,A,31.0,8.7,11.8,8.6,9.0,2.1,62.8,37.6,
+Universiti Tenaga Nasional (UNITEN),Malaysia,S,SP,VH,3.0,C,6.9,14.8,43.7,11.5,8.1,37.9,44.7,14.8,
+University of Bradford,United Kingdom,M,CO,VH,4.0,A,8.1,6.4,7.9,23.8,53.9,84.3,57.9,23.5,
+University of Cincinnati,United States,XL,FC,VH,5.0,A,12.4,11.0,23.3,26.4,6.6,8.3,80.4,26.1,
+University of Haifa,Israel,L,FO,VH,4.0,A,12.9,9.0,27.5,21.2,15.7,4.4,57.0,17.0,
+University of Kentucky,United States,L,FC,VH,5.0,A,11.6,14.9,21.2,28.4,16.5,4.4,82.2,15.6,
+University of Mons ,Belgium,M,CO,VH,2.0,A,5.8,20.5,3.7,44.3,32.6,38.7,45.3,16.8,
+University of New Brunswick,Canada,M,CO,VH,5.0,A,4.4,12.1,24.9,21.2,64.8,26.9,52.2,16.6,
+University of New Mexico,United States,L,FC,VH,5.0,A,12.7,7.2,32.7,21.6,10.8,4.4,77.7,7.7,
+University of Oklahoma,United States,L,FC,VH,5.0,A,9.5,13.2,16.6,37.1,24.4,5.6,71.0,27.0,
+University of Oregon,United States,L,CO,VH,5.0,A,17.0,11.9,14.3,30.0,8.0,6.3,55.9,30.2,
+University of Pecs,Hungary,L,FC,HI,5.0,A,12.7,8.6,35.6,2.7,9.1,62.5,40.9,16.6,
+University of Portsmouth,United Kingdom,L,CO,VH,3.0,A,7.9,13.3,8.4,17.9,73.7,81.6,79.0,6.5,
+University of South Bohemia,Czech Republic,M,FO,VH,3.0,A,5.2,2.3,71.4,5.0,,,53.2,10.3,
+University of South Carolina,United States,XL,FC,VH,5.0,A,15.4,18.5,11.5,27.4,21.8,4.4,81.0,26.3,
+University of the Basque Country,Spain,XL,CO,VH,3.0,A,18.1,5.5,35.7,12.8,2.7,4.4,91.7,9.7,
+University of Trieste,Italy,L,FC,HI,4.0,A,11.8,3.7,4.5,52.3,6.7,9.7,80.2,5.3,
+University of Vermont,United States,L,FC,HI,5.0,A,3.1,3.4,52.7,20.9,6.1,3.5,48.7,27.7,
+University of Westminster,United Kingdom,L,CO,HI,3.0,A,11.7,8.3,6.3,7.2,78.2,99.9,41.1,29.8,
+Victoria University ,Australia,L,CO,HI,3.0,A,7.3,6.4,2.3,36.3,44.7,77.2,52.8,7.8,
+Vilnius Gediminas Technical University,Lithuania,M,SP,VH,4.0,A,9.6,20.6,36.3,7.7,13.0,28.9,44.2,23.9,
+Virginia Commonwealth University,United States,L,FC,VH,5.0,A,6.9,8.9,45.9,15.4,13.7,3.4,78.0,18.0,
+Zayed University,United Arab Emirates,M,CO,HI,2.0,A,11.8,13.9,25.6,4.8,100.0,2.1,41.0,14.5,
+Beijing University of Technology,China (Mainland),L,CO,VH,4.0,A,7.2,4.2,41.0,22.1,5.5,3.2,25.6,7.4,
+Belarusian National Technical University (BNTU),Belarus,L,SP,MD,5.0,A,10.9,23.6,41.6,1.1,2.4,13.9,4.8,27.2,
+Chonnam National University,South Korea,L,FC,VH,4.0,A,9.4,4.8,41.2,14.3,8.9,13.1,32.2,3.5,
+Chungnam National University,South Korea,L,FC,VH,4.0,A,9.7,9.4,42.5,9.1,7.8,12.9,33.0,7.5,
+Clark University,United States,S,CO,VH,5.0,B,2.8,2.1,29.6,22.0,15.9,59.3,25.3,56.5,
+CY Cergy Paris University,France,M,FO,VH,1.0,A,3.1,2.3,36.8,10.3,46.3,48.3,43.3,3.5,
+Dankook University ,South Korea,L,FC,HI,4.0,B,3.2,3.4,68.6,3.1,4.9,6.4,16.5,3.4,
+Florida International University,United States,XL,FC,HI,4.0,A,14.3,24.2,11.2,16.0,20.9,13.3,90.6,14.5,
+Howard University,United States,M,FC,HI,5.0,B,5.7,9.9,56.7,4.0,1.0,5.0,22.4,34.3,
+Instituto Politécnico Nacional (IPN),Mexico,XL,FO,VH,4.0,A,20.0,50.9,9.2,2.8,2.9,1.2,60.9,9.5,
+Instituto Tecnológico Autónomo de México (ITAM),Mexico,M,FO,HI,4.0,B,14.2,47.4,11.9,2.0,64.1,1.7,5.1,68.7,
+Instituto Tecnológico de Buenos Aires (ITBA),Argentina,S,FO,HI,4.0,B,8.4,24.3,31.9,1.7,43.2,14.8,5.8,36.4,
+Keele University ,United Kingdom,M,FC,VH,4.0,A,6.1,2.9,17.7,24.9,54.7,30.4,59.8,3.3,
+Lanzhou University,China (Mainland),XL,CO,VH,5.0,A,7.3,1.7,24.7,35.3,2.7,1.7,59.9,4.3,
+Lobachevsky University,Russia,L,FO,VH,5.0,A,8.1,4.7,52.8,2.3,2.5,21.5,17.8,5.5,
+"Manipal Academy of Higher Education, Manipal, Karnataka, India",India,L,FC,HI,3.0,B,7.9,8.9,51.9,3.6,1.8,7.6,46.6,10.7,
+Memorial University of Newfoundland,Canada,L,FC,HI,4.0,A,6.2,7.1,11.9,28.1,27.6,62.1,77.0,7.1,
+Michigan Technological University,United States,M,CO,VH,5.0,A,4.6,5.6,28.3,35.2,16.4,10.8,45.3,17.5,
+Middlesex University,United Kingdom,L,CO,HI,3.0,A,5.0,5.0,8.0,16.3,85.2,98.9,56.5,9.7,
+Osaka Prefecture University ,Japan,M,CO,VH,4.0,A,4.9,7.3,52.6,9.8,4.9,3.9,20.4,5.9,
+Paris Lodron University of Salzburg,Austria,M,CO,VH,5.0,A,8.8,1.1,7.7,10.6,92.6,93.1,68.3,19.1,
+Philipps-Universität Marburg ,Germany,L,FC,HI,5.0,A,13.8,4.3,6.9,33.7,18.4,25.1,69.2,6.6,
+Pontificia Universidad Católica de Valparaíso,Chile,L,CO,HI,4.0,B,25.2,25.0,5.7,6.6,12.3,1.6,44.7,4.0,
+Riga Technical University,Latvia,M,CO,VH,5.0,A,11.8,22.4,22.6,3.0,15.9,57.5,30.0,61.0,
+Saint Petersburg Electrotechnical University ETU-LETI,Russia,M,FO,VH,5.0,A,4.1,3.9,53.4,1.8,5.4,51.5,11.0,4.3,
+Shiraz University,"Iran, Islamic Republic of",L,CO,VH,4.0,A,7.3,6.0,5.9,53.4,1.1,1.7,48.8,26.1,
+Syracuse University,United States,L,CO,VH,5.0,B,13.6,15.9,14.6,17.0,5.4,41.4,48.9,51.9,
+Temple University,United States,XL,FC,VH,5.0,A,12.6,9.1,24.7,19.4,4.4,6.1,81.2,22.8,
+Universidad Adolfo Ibáñez,Chile,M,FO,VH,3.0,B,17.0,58.5,4.0,5.2,37.8,4.8,14.1,17.6,
+Universidad Autónoma Chapingo,Mexico,M,FO,HI,5.0,A,3.5,2.5,66.4,1.4,3.1,1.4,2.8,7.3,
+Universidad Católica Andres Bello,Venezuela,M,FO,MD,4.0,B,24.2,49.7,3.3,1.0,1.5,2.5,,28.5,
+Universidad de la República (Udelar),Uruguay,XL,FC,HI,5.0,A,22.8,18.7,22.6,1.7,7.0,2.9,42.1,21.9,
+Universidad de San Andrés - UdeSA,Argentina,S,SP,HI,3.0,B,6.0,21.2,51.0,2.0,8.9,5.0,2.1,76.4,
+Universidad del Rosario,Colombia,M,FO,VH,5.0,B,13.6,52.0,19.2,2.9,12.3,1.6,22.2,37.8,
+Universidade de Santiago de Compostela,Spain,L,CO,VH,5.0,A,22.0,7.3,13.2,19.5,2.0,5.7,82.0,17.8,
+Universidade Federal do Rio Grande Do Sul ,Brazil,XL,FC,VH,5.0,A,28.5,3.9,10.0,11.7,2.5,1.8,73.8,10.5,
+Universitas Padjadjaran,Indonesia,XL,FO,VH,4.0,A,14.6,24.3,33.4,1.3,23.0,1.6,13.7,8.5,
+Universitat Rovira i Virgili,Spain,L,FC,HI,3.0,A,6.3,2.1,17.2,43.1,7.9,23.6,82.4,5.3,
+Université Côte d\'Azur,France,XL,FC,HI,1.0,A,16.0,2.9,5.0,25.9,33.4,42.1,82.7,2.6,
+Université de Lille,France,XL,FO,VH,1.0,A,25.0,3.7,4.8,10.9,18.3,19.3,92.2,4.6,
+Université de Sherbrooke,Canada,L,FC,HI,4.0,A,6.1,11.2,21.6,21.0,57.4,9.4,44.4,10.5,
+Université de Sousse,Tunisia,L,FC,HI,2.0,A,2.8,1.0,71.4,1.6,1.1,2.4,21.4,11.7,
+University Duesseldorf,Germany,XL,FC,HI,4.0,A,12.9,6.6,37.9,8.5,,17.1,66.8,12.9,
+University of Denver,United States,M,CO,VH,5.0,B,4.9,8.1,48.2,12.2,2.6,5.9,19.2,37.2,
+University of Houston,United States,XL,CO,VH,4.0,A,14.4,15.8,4.4,35.2,6.3,9.1,77.2,29.9,
+University of Hyderabad,India,M,FC,HI,3.0,A,11.4,3.1,17.8,38.7,2.1,2.2,29.7,9.7,
+University of Siena,Italy,L,FC,HI,5.0,A,11.9,2.8,8.3,42.2,2.1,17.7,57.5,4.0,
+University of Windsor,Canada,L,CO,VH,5.0,A,2.8,6.3,1.7,57.7,,41.0,53.6,20.1,
+Academician Y.A. Buketov Karaganda University,Kazakhstan,L,FO,HI,4.0,B,11.5,15.1,29.1,1.2,13.8,4.0,2.1,22.7,
+"Adam Mickiewicz University, Poznań",Poland,XL,CO,VH,5.0,A,16.1,6.1,27.2,5.4,7.2,4.9,84.4,7.0,
+AGH University of Science and Technology,Poland,L,CO,VH,5.0,A,8.8,11.8,33.9,7.4,2.3,2.5,64.7,5.4,
+Ain Shams University ,Egypt,XL,FC,HI,4.0,A,20.4,18.6,9.5,1.9,26.8,6.3,72.5,31.8,
+Australian Catholic University,Australia,L,CO,VH,3.0,A,7.0,11.4,5.0,15.0,74.1,49.5,43.2,4.3,
+Bangladesh University of Engineering and Technology,Bangladesh,M,SP,VH,4.0,A,14.1,25.2,21.7,9.5,,1.1,11.7,46.8,
+Beijing Foreign Studies University,China (Mainland),M,SP,HI,4.0,A,5.0,2.1,29.5,1.4,22.4,30.3,3.6,9.2,
+Beijing Jiaotong University,China (Mainland),L,CO,VH,2.0,A,10.0,4.2,17.5,26.0,5.7,11.8,47.4,11.6,
+Beijing University of Chinese Medicine,China (Mainland),M,FC,VH,2.0,A,4.4,1.4,38.0,6.8,,10.1,10.7,2.8,
+Beijing University of Posts and Telecommunications,China (Mainland),L,CO,VH,3.0,A,2.9,2.0,10.9,42.6,5.6,1.9,24.2,13.6,
+Beirut Arab University ,Lebanon,M,FC,MD,4.0,B,9.8,15.9,14.3,2.3,70.1,43.5,17.0,42.6,
+Bournemouth University,United Kingdom,L,CO,HI,3.0,A,5.2,11.1,5.9,21.1,77.8,52.7,65.2,11.4,
+Budapest University of Technology and Economics,Hungary,L,FO,VH,5.0,A,14.6,19.8,17.0,8.8,2.5,19.4,78.7,29.4,
+Ca' Foscari University of Venice ,Italy,L,FO,VH,5.0,A,17.8,17.1,4.7,14.5,32.6,7.9,47.0,8.4,
+Catania University,Italy,L,FC,VH,5.0,A,11.4,3.2,4.6,33.3,1.7,1.5,61.4,4.8,
+Chandigarh University,India,L,FO,HI,2.0,B,8.6,31.8,18.7,1.3,24.6,11.2,12.2,,
+Chang Jung Christian University,Taiwan,M,CO,HI,3.0,B,4.6,2.5,41.8,1.7,6.6,5.3,3.3,7.5,
+Charles Sturt University ,Australia,M,CO,VH,3.0,A,4.1,7.5,6.4,9.6,30.1,93.1,64.5,8.1,
+China University of Mining and Technology,China (Mainland),L,CO,VH,3.0,A,3.0,1.7,6.4,50.2,,,35.6,9.2,
+Clarkson University,United States,S,CO,VH,5.0,B,1.0,3.2,15.9,39.2,49.6,9.2,42.9,19.0,
+Clemson University,United States,L,CO,VH,5.0,A,8.1,16.4,12.5,21.0,2.1,5.1,71.3,12.0,
+College of William and Mary,United States,M,CO,VH,5.0,A,8.0,12.4,30.0,19.0,6.5,7.6,34.0,65.9,
+Cracow University of Technology (Politechnika Krakowska),Poland,L,FO,VH,4.0,A,11.3,25.2,21.4,4.1,2.3,2.2,36.1,6.3,
+Czech University of Life Sciences in Prague,Czech Republic,L,FO,VH,5.0,A,10.1,6.2,8.8,9.3,28.1,52.4,85.1,10.0,
+De La Salle University,Philippines,L,CO,HI,4.0,B,19.1,34.3,11.5,4.1,2.2,3.0,13.2,76.3,
+De Montfort University,United Kingdom,L,CO,HI,5.0,A,4.7,5.2,5.9,6.8,73.4,95.1,63.4,3.6,
+Diponegoro University,Indonesia,XL,FC,HI,4.0,A,15.0,24.2,13.1,1.4,21.1,2.6,13.9,14.2,
+Donghua University,China (Mainland),L,FO,VH,3.0,A,2.8,1.4,29.0,30.2,2.5,3.8,34.7,2.5,
+Duy Tan University,Vietnam,L,CO,VH,3.0,C,8.8,24.7,3.9,19.5,37.6,1.2,81.8,23.3,
+Edinburgh Napier University,United Kingdom,L,CO,HI,3.0,A,4.4,4.0,5.0,9.4,62.7,88.6,42.1,9.5,
+Gdańsk University of Technology,Poland,M,FO,VH,5.0,A,8.5,13.1,37.3,11.1,3.3,5.3,61.8,6.6,
+Georgia State University,United States,XL,CO,VH,4.0,A,12.7,19.7,4.8,26.1,8.5,6.3,51.7,16.6,
+German Jordanian University,Jordan,S,FO,VH,2.0,A,5.8,9.3,24.6,3.8,56.1,17.6,31.9,54.6,
+Gulf University for Science and Technology,Kuwait,S,FO,HI,2.0,C,7.7,7.1,8.4,4.1,100.0,24.9,6.1,100.0,
+Hacettepe University ,Turkey,XL,FC,HI,4.0,A,18.0,18.8,8.6,5.4,3.1,2.7,72.8,15.2,
+Harbin Engineering University,China (Mainland),L,FO,VH,4.0,A,2.9,1.4,19.1,33.7,3.4,2.8,30.0,6.6,
+Indian Institute of Technology Bhubaneswar,India,S,FO,VH,2.0,A,3.5,3.8,16.1,48.6,1.7,1.0,11.6,23.3,
+Indiana University–Purdue University Indianapolis,United States,L,FC,HI,4.0,A,8.3,7.1,20.0,17.7,30.7,5.4,42.8,3.8,
+Instituto Tecnológico de Santo Domingo (INTEC),Dominican Republic,M,FO,MD,4.0,A,3.7,8.7,46.5,1.1,14.7,3.5,7.6,31.0,
+International Christian University,Japan,S,CO,MD,4.0,C,4.3,12.0,16.6,1.7,76.4,14.8,7.0,33.5,
+Islamic University of Madinah,Saudi Arabia,L,FO,MD,4.0,A,3.5,3.5,9.5,1.3,80.7,100.0,8.4,4.6,
+Istanbul University,Turkey,XL,FC,HI,5.0,A,24.6,15.2,3.1,5.4,9.2,17.6,68.3,29.5,
+"ITESO, Universidad Jesuita de Guadalajara",Mexico,M,CO,MD,4.0,B,5.7,7.7,44.1,1.0,2.8,1.6,2.1,8.5,
+Jamia Millia Islamia,India,M,CO,VH,5.0,A,6.3,3.0,40.2,15.4,3.9,2.4,38.7,7.3,
+Jordan University of Science & Technology,Jordan,L,CO,HI,3.0,A,16.6,24.7,15.0,4.4,8.1,20.0,54.1,17.6,
+Kansas State University ,United States,L,CO,VH,5.0,A,9.8,10.5,13.0,22.6,51.5,7.5,73.0,17.9,
+Kasetsart University,Thailand,XL,CO,VH,4.0,A,23.2,25.8,6.9,2.6,6.3,1.3,44.4,18.0,
+Kaunas University of Technology,Lithuania,M,FO,VH,5.0,A,11.1,20.3,31.2,5.9,3.3,12.7,62.2,20.2,
+Kazakh-British Technical University,Kazakhstan,S,FO,HI,2.0,A,11.9,22.4,25.1,1.4,11.5,2.7,7.7,28.8,
+Khon Kaen University,Thailand,XL,FC,HI,4.0,A,15.7,17.4,9.1,4.0,8.4,2.6,39.6,3.7,
+King Faisal University,Saudi Arabia,L,FO,VH,3.0,A,13.2,4.8,10.8,2.2,99.1,2.2,35.4,3.9,
+King Mongkut's University of Technology Thonburi ,Thailand,L,CO,HI,3.0,A,13.0,10.0,14.2,7.2,8.6,2.7,26.1,4.4,
+Kyrgyz-Turkish Manas University,Kyrgyzstan,S,CO,MD,3.0,A,10.7,7.9,15.6,1.6,89.5,29.2,1.2,1.0,
+Liverpool John Moores University,United Kingdom,L,CO,VH,3.0,A,9.4,5.1,9.4,15.1,48.4,32.2,80.4,3.2,
+Lodz University of Technology,Poland,M,CO,VH,4.0,A,5.1,4.1,39.6,8.0,3.4,4.1,59.0,6.5,
+London Metropolitan University,United Kingdom,M,CO,HI,2.0,A,5.3,3.3,5.7,4.0,58.1,99.9,14.0,13.6,
+London South Bank University,United Kingdom,L,CO,HI,3.0,A,3.0,3.1,10.0,5.7,68.3,95.9,19.0,8.6,
+Louisiana State University,United States,XL,CO,VH,5.0,A,10.2,11.0,6.8,20.6,11.1,4.7,66.9,18.3,
+Loyola University Chicago,United States,L,FC,HI,5.0,B,8.0,19.1,22.6,9.8,5.8,4.0,29.5,21.0,
+Lviv Polytechnic National University,Ukraine,L,CO,HI,5.0,A,8.0,11.5,47.7,1.7,1.7,1.8,15.8,13.2,
+Manchester Metropolitan University (MMU),United Kingdom,XL,CO,VH,4.0,A,10.7,12.4,9.9,9.1,42.1,43.0,73.3,18.2,
+Maynooth University,Ireland,M,FO,VH,3.0,A,9.8,10.6,9.0,10.8,87.7,17.6,37.7,8.5,
+Mendel University in Brno,Czech Republic,M,FO,VH,5.0,A,6.4,6.5,42.2,3.6,9.4,39.5,46.0,10.7,
+Nanjing Agricultural University,China (Mainland),L,CO,VH,3.0,A,4.8,1.8,7.9,46.3,,1.6,41.5,2.5,
+Nanjing University of Aeronautics and Astronautics,China (Mainland),XL,FO,VH,3.0,A,3.1,2.7,14.3,39.7,6.3,3.6,47.5,2.4,
+National Chung Cheng University,Taiwan,M,CO,VH,3.0,A,12.5,19.6,21.5,5.7,3.6,5.0,12.3,6.3,
+National Institute of Technology Tiruchirappalli,India,M,FO,VH,4.0,A,2.8,3.3,16.4,43.1,,5.4,33.9,9.5,
+Nicolaus Copernicus University ,Poland,L,FC,HI,4.0,A,7.3,3.0,45.1,4.5,3.6,3.9,71.5,5.2,
+NJSC KIMEP University,Kazakhstan,S,SP,MD,3.0,B,6.2,12.9,22.8,3.0,80.6,16.8,1.8,79.0,
+Northern Borders University,Saudi Arabia,L,FC,MD,2.0,A,7.9,4.3,23.3,1.9,98.2,,11.0,5.3,
+Northwest Agriculture and Forestry University,China (Mainland),XL,CO,VH,2.0,A,3.1,1.1,32.3,21.8,,1.5,38.2,2.4,
+Northwest University (China),China (Mainland),L,CO,VH,5.0,A,3.1,1.3,53.8,12.9,4.2,3.1,24.5,4.0,
+Notre Dame University-Louaize NDU,Lebanon,S,CO,HI,3.0,B,4.5,12.3,31.8,3.6,77.0,24.1,8.2,11.7,
+Nottingham Trent University,United Kingdom,XL,CO,HI,3.0,A,9.7,20.2,9.7,6.5,58.2,50.6,76.8,10.3,
+Novosibirsk State Technical University,Russia,M,FO,VH,4.0,A,6.7,7.0,31.5,1.9,3.1,43.6,11.3,4.2,
+Oklahoma State University ,United States,L,FC,HI,5.0,A,9.3,10.3,11.7,16.1,55.8,7.2,60.0,17.4,
+Perm State National Research University,Russia,M,FO,VH,5.0,A,4.5,1.6,41.7,1.5,2.0,6.6,4.9,9.4,
+Pondicherry University,India,M,CO,VH,3.0,A,3.0,2.1,5.7,42.9,2.9,1.3,17.2,8.4,
+Pontificia Universidad Católica del Ecuador (PUCE),Ecuador,L,FC,MD,4.0,B,14.9,16.3,10.0,1.3,21.7,1.7,20.2,11.2,
+Pontifícia Universidade Católica de São Paulo,Brazil,M,FC,MD,4.0,B,11.4,14.5,31.2,1.2,5.3,1.3,,30.8,
+Poznań University of Technology,Poland,L,FO,VH,5.0,A,6.8,7.0,30.5,6.4,2.3,3.4,54.5,5.1,
+Prince of Songkla University,Thailand,XL,FC,HI,4.0,A,18.2,12.1,17.3,3.1,4.8,2.1,47.9,6.6,
+Princess Sumaya University for Technology,Jordan,S,FO,VH,3.0,B,6.2,12.3,12.3,4.5,55.0,37.8,8.0,89.3,
+Qassim University,Saudi Arabia,XL,FC,MD,2.0,A,4.7,1.9,27.7,1.4,98.2,8.7,33.1,3.8,
+"Queen Margaret University , Edinburgh",United Kingdom,S,FO,VH,2.0,A,3.7,3.7,5.2,15.0,57.2,82.8,6.7,3.2,
+Rhodes University ,South Africa,M,CO,VH,5.0,A,6.7,9.8,16.3,21.5,,38.2,37.1,50.0,
+Riga Stradins University,Latvia,M,FO,HI,4.0,A,6.7,10.2,18.4,2.2,15.2,86.5,13.9,25.7,
+Ritsumeikan Asia Pacific University,Japan,M,SP,LO,2.0,C,3.9,10.4,2.5,2.7,99.4,99.9,5.7,8.1,
+Robert Gordon University,United Kingdom,M,CO,HI,3.0,A,3.1,11.9,5.2,5.1,61.8,69.8,22.4,6.3,
+Russian Presidential Academy of National Economy and Public Administration,Russia,XL,SP,VH,3.0,A,4.6,6.4,50.3,1.2,2.3,3.3,14.9,9.3,
+Russian-Armenian (Slavonic) State University,Armenia,S,CO,MD,3.0,A,5.5,9.2,18.6,1.4,10.0,72.6,6.2,99.6,
+Rutgers University–Newark,United States,M,CO,VH,4.0,A,11.0,7.2,14.4,15.4,28.6,36.1,27.2,56.8,
+Toronto Metropolitan University,Canada,XL,CO,VH,4.0,A,6.6,22.6,1.8,29.0,,4.1,67.8,13.8,
+Saint-Petersburg Mining University,Russia,M,FO,VH,5.0,A,2.8,3.4,46.5,2.0,15.2,19.7,11.2,4.9,
+Shinshu University ,Japan,M,FC,VH,4.0,A,2.8,2.6,35.0,12.5,6.5,3.1,37.6,4.1,
+Shoolini University of Biotechnology and Management Sciences,India,S,CO,HI,2.0,,6.5,19.2,9.3,29.9,13.5,1.9,22.3,16.4,
+Slovak University of Technology in Bratislava,Slovakia,L,FO,VH,4.0,A,9.0,6.3,37.2,3.9,2.3,3.0,50.6,22.0,
+Sophia University ,Japan,L,CO,HI,4.0,B,10.8,20.2,20.0,2.4,36.8,14.3,13.7,11.4,
+South Ural State University (National Research University),Russia,L,CO,VH,4.0,A,7.6,4.4,42.1,2.3,10.8,18.1,64.9,4.8,
+Southern Methodist University,United States,M,CO,VH,5.0,B,4.7,5.4,32.8,9.8,11.4,12.0,37.3,53.0,
+Sumy State University,Ukraine,M,FC,HI,3.0,A,4.7,3.8,45.0,2.1,3.2,64.6,17.9,15.4,
+Széchenyi István University,Hungary,M,FC,MD,2.0,C,6.8,17.9,29.2,1.5,1.7,6.7,6.0,20.7,
+Szent Istvan University,Hungary,M,FO,VH,5.0,A,5.2,4.0,42.8,2.6,1.7,32.2,52.0,18.1,
+Technical University of Kosice,Slovakia,M,FO,VH,4.0,A,6.3,1.3,28.9,4.8,1.8,50.3,39.0,23.1,
+Technical University of Liberec,Czech Republic,M,SP,VH,4.0,A,4.0,2.8,48.3,4.2,17.8,11.3,25.8,14.0,
+Technological University Dublin,Ireland,L,CO,HI,1.0,A,11.4,14.6,12.0,3.4,33.3,45.8,27.6,13.8,
+Tecnológico de Costa Rica -TEC,Costa Rica,M,CO,HI,4.0,A,7.9,36.7,21.5,1.4,7.9,2.4,7.3,83.7,
+Tokyo University of Science,Japan,L,FO,VH,4.0,B,10.8,46.2,11.2,14.5,12.5,3.8,27.7,60.8,
+TU Dortmund University,Germany,L,CO,VH,4.0,A,13.6,8.4,18.2,8.0,22.5,23.0,68.3,5.1,
+Ufa State Aviation Technical University ,Russia,M,FO,VH,3.0,A,3.2,2.0,63.9,1.5,1.2,2.5,5.3,4.1,
+Universidad Autónoma del Estado de Hidalgo (UAEH),Mexico,L,FC,MD,5.0,A,3.8,7.7,52.0,1.4,2.5,1.8,9.6,5.2,
+Universidad Autónoma del Estado de México (UAEMex),Mexico,XL,FC,MD,5.0,A,21.7,11.2,5.2,1.5,2.0,1.1,20.1,4.1,
+Universidad Autónoma Metropolitana (UAM),Mexico,XL,FC,HI,3.0,A,23.0,17.8,5.1,2.7,9.2,1.3,31.8,4.5,
+Universidad de Guadalajara (UDG),Mexico,XL,FC,HI,5.0,A,20.3,11.9,23.3,1.3,2.7,1.1,43.9,4.2,
+Universidad de las Américas Puebla (UDLAP),Mexico,M,FC,MD,4.0,B,7.5,18.4,35.4,1.8,25.9,8.4,9.3,10.7,
+Universidad de Los Andes - (ULA) Mérida,Venezuela,L,FC,MD,5.0,A,14.3,17.7,20.6,1.3,1.4,2.0,13.5,17.0,
+Universidad de los Andes - Chile,Chile,M,FC,HI,3.0,B,13.9,26.8,9.5,3.4,12.9,2.9,14.6,6.8,
+Universidad de Oriente Santiago de Cuba,Cuba,M,FO,MD,4.0,A,11.8,20.8,22.5,1.2,,,7.6,34.0,
+Universidad del Valle,Colombia,XL,FC,MD,4.0,A,18.0,16.9,7.7,2.2,3.0,1.2,19.1,12.7,
+Universidad Diego Portales (UDP),Chile,L,FC,MD,3.0,B,14.6,24.4,9.8,5.1,12.0,2.8,29.6,5.2,
+Universidad EAFIT,Colombia,M,CO,HI,4.0,B,11.9,49.4,4.4,2.5,4.6,1.5,8.5,22.4,
+Universidad Nacional de Córdoba - UNC,Argentina,XL,FO,VH,5.0,A,22.5,13.0,9.4,1.7,1.5,1.6,42.3,5.4,
+Universidad Nacional de Rosario (UNR),Argentina,XL,FC,MD,4.0,A,20.1,9.4,24.6,1.2,,8.0,18.7,4.5,
+Universidad Nacional de San Luis,Argentina,L,CO,MD,3.0,A,4.1,2.0,60.4,1.3,,,12.0,3.9,
+Universidad Nacional Mayor de San Marcos,Peru,XL,FC,MD,5.0,A,20.3,34.0,6.3,1.3,,,15.6,9.5,
+Universidad Simón Bolívar (USB),Venezuela,S,FO,VH,4.0,A,15.6,31.3,9.4,2.7,1.7,1.0,18.3,,
+Universidad Tecnológica Nacional (UTN),Argentina,XL,FO,HI,4.0,A,3.7,27.2,46.8,1.1,,1.7,15.4,4.6,
+Universidad Torcuato Di Tella,Argentina,S,SP,HI,3.0,B,11.3,26.7,17.4,4.7,44.2,19.9,3.7,93.2,
+Universidade Católica Portuguesa - UCP,Portugal,M,FC,HI,3.0,B,13.0,12.9,13.1,5.8,8.7,16.7,35.1,29.7,
+Universidade de Brasília,Brazil,XL,FC,HI,4.0,A,25.0,7.6,10.8,4.3,11.1,2.6,62.1,12.8,
+Universidade Federal de Santa Catarina ,Brazil,XL,FC,VH,4.0,A,19.5,4.9,20.1,6.7,4.2,2.0,54.3,10.1,
+Universidade Federal de São Carlos (UFSCar),Brazil,L,FC,VH,4.0,A,13.2,5.3,17.8,15.9,3.0,1.8,32.1,4.2,
+Universidade Federal do Paraná - UFPR,Brazil,XL,FC,HI,5.0,A,12.9,6.7,23.1,5.0,3.2,1.1,47.7,2.7,
+Universita' degli Studi di Ferrara,Italy,L,FC,HI,5.0,A,5.4,2.6,2.5,42.5,3.6,4.6,83.7,3.5,
+Università degli Studi di Perugia,Italy,L,FC,VH,5.0,A,8.2,2.1,3.9,44.5,7.7,6.6,75.2,7.1,
+Università degli studi Roma Tre,Italy,XL,CO,VH,3.0,A,16.8,6.1,2.3,16.1,10.1,5.1,57.2,6.8,
+Universita' Politecnica delle Marche,Italy,M,FO,VH,4.0,A,5.3,2.5,10.4,50.8,4.8,4.7,80.7,4.2,
+Universitas Brawijaya ,Indonesia,XL,FC,HI,4.0,A,15.0,24.5,9.9,1.3,5.8,1.6,8.5,6.3,
+Universität Duisburg-Essen,Germany,XL,FC,VH,4.0,A,10.9,5.3,10.0,13.0,38.2,44.7,82.9,7.5,
+Université de Lorraine,France,XL,FO,VH,5.0,A,12.7,4.3,6.6,10.7,27.5,33.6,91.7,4.6,
+Université de Nantes,France,XL,CO,VH,5.0,A,10.3,2.9,7.8,18.0,18.6,15.4,87.9,4.2,
+Université de Rennes 1,France,L,FO,VH,5.0,A,15.8,3.4,13.4,20.9,13.9,13.4,88.5,5.2,
+Universiti Malaysia Pahang,Malaysia,M,SP,VH,2.0,A,9.2,8.4,15.5,23.9,29.7,10.7,58.2,9.2,
+Universiti Malaysia Perlis,Malaysia,M,FO,VH,2.0,A,6.3,4.7,31.9,6.6,2.3,5.1,36.6,6.5,
+Universiti Pendidikan Sultan Idris (UPSI),Malaysia,M,FO,VH,3.0,A,10.9,6.5,23.3,2.3,22.6,17.9,11.9,8.3,
+Universiti Tunku Abdul Rahman (UTAR),Malaysia,L,FC,HI,2.0,B,11.4,32.1,10.4,4.6,9.8,3.4,26.0,6.8,
+University at Albany SUNY,United States,L,CO,VH,5.0,A,8.3,7.9,6.0,43.3,6.0,8.0,70.2,12.3,
+University of Alicante,Spain,L,FO,VH,3.0,A,12.7,6.5,22.5,8.4,5.3,15.4,82.6,8.8,
+University of Baghdad,Iraq,XL,FC,HI,4.0,A,9.1,9.5,40.1,1.4,1.8,1.1,30.9,38.7,
+University of Bahrain,Bahrain,L,CO,HI,3.0,A,10.5,8.6,8.0,2.0,90.4,21.7,24.2,1.0,
+University of Bari,Italy,XL,FC,HI,4.0,A,11.9,3.1,4.4,23.6,5.8,2.1,82.0,3.3,
+University of Brescia,Italy,M,FO,VH,3.0,A,3.6,2.0,6.5,46.0,5.1,7.2,58.5,6.1,
+University of Brighton,United Kingdom,L,CO,HI,3.0,A,8.3,5.7,10.8,12.3,57.6,56.5,67.2,8.9,
+University of Calcutta,India,L,CO,VH,5.0,A,14.4,5.9,5.8,20.4,21.6,1.3,38.5,54.1,
+University of Central Florida,United States,XL,FC,VH,4.0,A,14.2,25.7,2.9,26.0,14.7,4.8,77.4,11.8,
+University of Central Lancashire,United Kingdom,L,CO,HI,3.0,A,5.0,4.6,13.0,5.9,36.0,72.6,60.9,3.6,
+University of Dhaka,Bangladesh,XL,FC,MD,5.0,A,19.4,34.2,12.9,2.4,1.8,1.1,27.6,56.3,
+University of Dubai,United Arab Emirates,S,SP,LO,3.0,B,3.8,5.0,11.3,8.5,100.0,78.8,8.1,82.1,
+University of East London,United Kingdom,L,CO,HI,3.0,A,3.5,3.3,4.4,8.0,75.2,99.6,22.6,8.5,
+University of Engineering & Technology (UET) Lahore,Pakistan,L,FO,VH,4.0,A,7.6,42.9,15.4,4.7,1.1,4.3,38.2,34.8,
+UNIVERSITY OF GDANSK,Poland,L,FO,VH,4.0,A,11.3,4.1,29.9,3.9,5.0,2.8,71.8,5.5,
+University of Greenwich,United Kingdom,L,CO,HI,3.0,A,4.0,5.9,5.7,9.7,90.5,99.6,75.0,8.8,
+University of Hartford,United States,M,CO,MD,4.0,B,4.7,14.6,31.8,2.2,22.7,7.6,7.7,16.6,
+University of Hertfordshire,United Kingdom,L,CO,HI,3.0,A,4.1,4.7,8.1,6.3,57.9,97.2,51.4,9.5,
+University of Hohenheim,Germany,M,SP,VH,5.0,A,9.0,4.3,8.4,30.4,28.4,25.4,79.8,5.2,
+University of Hradec Kralove,Czech Republic,M,FO,VH,4.0,A,4.6,1.2,35.2,3.8,29.6,3.1,26.1,19.9,
+University of Idaho,United States,M,CO,VH,,A,3.3,2.1,15.5,38.0,4.5,5.0,46.7,7.6,
+University of Kwazulu-Natal,South Africa,XL,FC,VH,4.0,A,12.5,11.0,6.3,19.8,29.7,2.2,84.4,43.9,
+University of Lincoln,United Kingdom,L,CO,HI,3.0,A,5.6,7.2,11.6,9.0,67.7,21.5,40.4,2.8,
+University of Lodz,Poland,L,CO,VH,4.0,A,11.2,4.0,37.1,3.2,3.1,10.4,59.8,14.5,
+University of Louisville,United States,L,FC,HI,5.0,A,3.1,6.8,20.5,20.5,52.1,3.0,53.7,14.4,
+University of Malta,Malta,M,FC,HI,3.0,A,4.7,3.2,40.8,6.8,16.5,12.5,63.9,91.9,
+University of Maribor,Slovenia,L,FC,HI,3.0,A,6.6,3.7,34.2,7.8,2.1,14.7,57.7,83.5,
+"University of Maryland, Baltimore County",United States,M,FC,HI,4.0,A,10.7,6.7,15.1,20.2,49.0,10.8,42.0,13.6,
+University of Messina (UniME),Italy,L,FC,HI,5.0,A,7.2,1.9,12.0,32.1,1.5,3.2,74.1,3.8,
+University of Mississippi,United States,L,CO,VH,5.0,A,3.7,4.8,42.7,8.8,10.0,3.1,57.0,6.0,
+University of Modena and Reggio Emilia,Italy,L,FC,HI,5.0,A,8.3,3.3,2.3,47.8,4.4,4.2,67.6,12.4,
+University of Murcia,Spain,L,FC,HI,5.0,A,12.2,2.1,31.3,6.1,6.4,8.4,76.2,4.4,
+University of New England Australia,Australia,L,CO,VH,3.0,A,10.1,6.5,1.7,35.7,3.2,4.4,56.5,6.8,
+University of New Hampshire,United States,L,CO,VH,5.0,A,5.5,6.0,10.8,28.5,6.1,4.3,58.3,12.3,
+University of Parma,Italy,L,FC,HI,5.0,A,9.3,2.8,2.8,33.8,2.2,7.1,72.7,9.1,
+University of Patras,Greece,XL,FC,HI,4.0,A,11.7,21.1,2.6,22.8,1.6,5.4,74.8,9.4,
+University of Peshawar,Pakistan,M,FO,VH,4.0,A,5.4,6.8,38.6,15.6,,2.2,42.7,22.5,
+University of Salford,United Kingdom,L,CO,HI,4.0,A,6.6,4.6,8.1,8.4,35.4,59.7,62.4,7.4,
+University of Santo Tomas,Philippines,L,FC,MD,5.0,B,10.8,23.9,15.4,1.2,40.3,8.5,12.1,20.7,
+University of Seoul ,South Korea,M,CO,VH,3.0,A,10.1,8.9,34.0,8.3,3.8,6.3,24.0,4.4,
+University of the Punjab,Pakistan,L,CO,VH,5.0,A,13.5,50.1,5.4,8.1,3.3,1.3,43.7,26.8,
+University of the West of England,United Kingdom,L,CO,VH,3.0,A,9.2,9.9,10.8,10.7,44.4,66.2,64.8,3.5,
+University of Tulsa,United States,S,CO,VH,5.0,B,2.2,3.3,34.7,15.7,5.1,16.5,13.7,40.6,
+University of Tyumen,Russia,M,FO,VH,4.0,A,3.3,2.2,47.2,1.5,5.3,16.8,24.6,6.2,
+University of Wroclaw,Poland,L,CO,VH,4.0,A,15.0,13.7,25.6,4.7,5.1,7.9,51.2,16.4,
+University of Wyoming,United States,M,CO,VH,5.0,A,2.2,1.8,24.0,24.5,8.5,4.5,55.1,10.5,
+University of Zagreb,Croatia,XL,FC,VH,5.0,A,15.8,5.5,28.1,4.3,2.0,1.6,92.6,50.7,
+University of Žilina,Slovakia,M,FO,VH,4.0,A,4.5,1.0,52.7,5.6,2.8,3.0,20.8,29.4,
+Verona University,Italy,L,FC,HI,3.0,A,8.4,5.0,6.1,37.7,5.2,4.6,54.2,5.3,
+Viet Nam National University Ho Chi Minh City (VNU-HCM),Vietnam,XL,CO,HI,3.0,A,20.5,18.5,9.3,1.8,5.3,1.3,43.9,33.6,
+"Vietnam National University, Hanoi ",Vietnam,XL,FO,VH,3.0,A,16.6,14.7,12.1,2.3,4.6,1.3,56.3,22.9,
+Vytautas Magnus University,Lithuania,M,FO,VH,5.0,A,11.6,17.9,14.3,3.5,31.0,35.4,29.6,22.4,
+Worcester Polytechnic Institute,United States,M,CO,VH,5.0,B,3.5,6.6,19.2,26.4,28.9,26.7,36.3,27.3,
+Wroclaw University of Science and Technology (WRUST),Poland,L,FO,VH,5.0,A,11.4,20.4,30.5,5.3,3.0,4.7,66.6,4.6,
+Wuhan University of Technology,China (Mainland),XL,FO,VH,2.0,A,5.4,2.1,13.3,33.3,,2.9,57.9,5.3,
+Yamaguchi University ,Japan,M,FC,HI,4.0,A,3.5,1.6,46.4,5.3,8.4,3.4,25.8,4.2,
+Yerevan State University,Armenia,L,CO,HI,5.0,A,6.2,3.9,41.0,1.7,4.6,3.6,20.6,80.0,
+Yeungnam University ,South Korea,L,FC,HI,4.0,C,4.4,3.5,15.6,22.0,32.8,6.5,28.7,3.5,
+Yokohama National University,Japan,M,CO,VH,4.0,A,10.3,17.1,17.8,9.9,9.8,11.0,36.8,16.6,
+Zhengzhou University,China (Mainland),XL,FC,VH,4.0,A,4.9,17.3,5.2,46.6,,2.7,30.6,4.5,
+Al Quds University The Arab University in Jerusalem,"Palestinian Territory, Occupied",M,FC,MD,3.0,A,3.2,6.3,14.7,1.6,48.3,6.6,21.3,46.8,
+Alexandria University ,Egypt,XL,FC,HI,4.0,A,19.6,10.4,6.2,1.9,2.4,3.4,62.2,4.7,
+Aligarh Muslim University,India,L,CO,VH,5.0,A,8.3,3.5,24.5,9.0,1.2,2.0,38.6,5.6,
+Amity University,India,XL,CO,VH,2.0,B,6.6,6.4,13.5,4.4,3.5,19.7,58.0,9.4,
+Amrita Vishwa Vidyapeetham,India,L,FC,HI,2.0,B,3.3,4.1,27.4,4.7,38.7,1.8,26.1,5.5,
+Ankara Üniversitesi,Turkey,XL,FC,HI,4.0,A,16.6,10.8,10.3,2.7,2.8,6.1,59.3,21.0,
+An-Najah National University,"Palestinian Territory, Occupied",L,FC,MD,4.0,A,4.8,18.0,7.5,2.2,34.7,18.4,26.7,38.1,
+Asia University Taiwan,Taiwan,M,FO,VH,2.0,C,5.4,1.9,3.8,25.2,10.5,3.9,35.6,6.7,
+Assiut University ,Egypt,XL,FC,HI,4.0,A,9.5,5.4,16.3,2.3,18.8,2.7,69.3,5.1,
+Athens University of Economics and Business,Greece,M,FO,VH,5.0,A,6.7,38.0,1.5,19.0,1.8,4.6,9.4,13.9,
+Auburn University,United States,L,CO,VH,4.0,A,6.6,9.1,7.0,22.1,6.8,8.6,58.0,19.9,
+Azerbaijan State University of Economics,Azerbaijan,L,SP,MD,4.0,A,7.7,5.2,19.8,1.1,4.5,2.4,3.1,28.5,
+Babes-Bolyai University,Romania,XL,CO,VH,5.0,A,15.6,11.8,4.4,4.5,12.5,4.3,81.8,28.9,
+Baku State University,Azerbaijan,L,FO,HI,5.0,A,7.4,1.9,29.5,1.3,2.2,1.9,9.0,25.3,
+Banaras Hindu University,India,L,FC,HI,5.0,A,10.3,5.5,14.8,8.6,1.3,1.9,49.1,12.6,
+Baylor University,United States,L,CO,VH,5.0,B,5.6,9.1,14.9,9.4,2.2,4.7,37.1,21.8,
+Belarusian State University of Informatics and Radioelectronics,Belarus,M,SP,MD,4.0,A,6.6,19.4,13.0,1.3,1.2,5.7,6.0,38.7,
+Benemérita Universidad Autónoma de Puebla,Mexico,XL,FC,MD,5.0,A,14.9,7.4,4.3,1.9,3.9,1.3,26.3,3.8,
+Bielefeld University,Germany,L,CO,VH,4.0,A,13.7,3.1,9.2,8.7,22.8,8.6,63.9,4.0,
+Bina Nusantara University (BINUS),Indonesia,L,CO,HI,3.0,C,9.2,11.8,22.2,1.7,17.5,4.3,8.7,29.9,
+Binghamton University SUNY,United States,L,CO,VH,4.0,A,6.3,8.0,5.9,20.6,9.5,10.6,23.1,10.1,
+"Birla Institute of Technology and Science, Pilani",India,L,CO,VH,5.0,B,7.4,16.6,6.8,17.5,1.4,2.5,42.1,57.1,
+Birmingham City University ,United Kingdom,L,CO,HI,3.0,A,5.0,4.3,8.4,3.0,42.2,80.4,28.9,7.9,
+BRAC University,Bangladesh,L,CO,MD,2.0,C,9.1,20.3,16.9,1.7,2.8,2.0,13.1,24.5,
+Brigham Young University,United States,XL,CO,VH,5.0,B,6.8,7.8,4.5,15.6,1.1,3.5,62.5,37.4,
+Brock University,Canada,L,CO,HI,4.0,A,3.2,11.3,2.6,19.3,2.4,20.6,32.9,7.2,
+Canterbury Christ Church University,United Kingdom,L,CO,HI,4.0,A,5.9,1.7,7.8,4.3,34.5,38.9,12.2,4.2,
+CEU Universities,Spain,L,CO,HI,5.0,,3.4,6.3,20.9,2.3,3.4,48.3,,,
+Chungbuk National University,South Korea,L,FC,HI,4.0,A,3.7,2.8,30.5,8.0,7.8,5.8,29.6,3.7,
+COMSATS University Islamabad,Pakistan,XL,CO,VH,2.0,A,9.4,23.6,13.7,9.0,1.7,1.8,80.4,10.6,
+Corvinus University of Budapest,Hungary,M,FO,HI,5.0,B,11.0,17.2,4.7,3.3,8.7,40.0,16.4,16.9,
+CUNY The City College of New York,United States,M,FC,HI,3.0,A,4.5,1.7,12.0,18.6,7.6,7.0,38.4,3.2,
+Doshisha University,Japan,L,CO,HI,5.0,B,8.0,15.7,5.8,2.1,20.8,4.3,12.3,14.8,
+Escuela Politécnica Nacional,Ecuador,M,SP,HI,5.0,A,5.9,9.8,20.6,3.5,8.2,1.8,21.3,19.4,
+Escuela Superior Politécnica del Litoral (ESPOL),Ecuador,M,FO,VH,4.0,A,11.2,15.3,17.6,2.5,14.6,1.6,26.6,16.0,
+Financial University under the Government of the Russian Federation,Russia,L,FO,HI,5.0,A,4.6,6.8,34.3,1.5,2.4,7.6,10.2,35.6,
+Fordham University ,United States,L,CO,HI,5.0,B,6.1,9.7,17.1,6.6,8.5,15.6,34.8,42.9,
+Future University in Egypt,Egypt,M,FO,HI,2.0,B,3.0,23.5,29.3,1.7,3.3,16.3,6.6,9.9,
+Gazi Üniversitesi,Turkey,XL,FC,HI,4.0,A,13.7,10.1,5.1,4.7,1.1,1.9,46.5,14.2,
+George Mason University,United States,L,CO,VH,4.0,A,8.8,7.1,11.9,12.7,9.4,10.0,58.6,18.7,
+Glasgow Caledonian University,United Kingdom,L,FO,HI,3.0,A,4.4,5.0,4.8,7.1,33.0,40.0,36.8,5.4,
+Harper Adams University,United Kingdom,S,CO,HI,2.0,A,4.1,19.8,5.9,11.8,28.8,17.6,11.4,4.0,
+Huazhong Agricultural University,China (Mainland),XL,CO,VH,4.0,A,3.1,1.7,6.9,36.2,4.5,1.8,33.1,5.5,
+Imam Mohammad Ibn Saud Islamic University – IMSIU,Saudi Arabia,XL,FO,HI,4.0,A,7.0,2.5,13.4,1.5,47.3,5.4,31.8,3.7,
+Istanbul Aydin University  ,Turkey,L,CO,MD,2.0,C,3.1,2.9,13.3,1.4,10.5,53.0,4.3,9.8,
+Ivan Franko National University of Lviv,Ukraine,L,CO,HI,5.0,A,2.3,5.8,35.7,1.5,1.4,2.1,20.4,11.5,
+Jeju National University ,South Korea,M,FC,HI,4.0,A,3.2,1.9,26.0,5.1,2.7,6.2,19.2,4.2,
+Jiangnan University,China (Mainland),L,FC,VH,2.0,A,3.3,5.9,14.1,14.4,,,44.9,3.2,
+Kangwon National University ,South Korea,L,FC,HI,2.0,A,4.0,5.0,18.1,10.9,4.4,2.9,27.9,3.5,
+Kazakh Ablai Khan University of International Relations and World Languages,Kazakhstan,M,SP,LO,4.0,A,5.5,6.6,30.8,1.0,7.1,4.3,,19.2,
+Kazan National Research Technological University,Russia,L,FO,HI,5.0,A,3.3,3.5,27.5,1.5,2.0,37.5,5.1,3.8,
+Kent State University,United States,L,CO,VH,5.0,A,6.0,5.0,6.5,18.7,21.4,5.4,52.3,10.3,
+Kharkiv National University of Radio Electronics ,Ukraine,M,FO,VH,4.0,A,2.8,11.2,33.1,1.6,1.5,16.4,11.1,21.2,
+Kookmin University ,South Korea,L,CO,HI,4.0,C,3.5,3.7,27.0,3.7,6.5,26.4,8.5,3.6,
+Kuwait University,Kuwait,L,FC,HI,4.0,A,13.3,7.7,5.7,2.9,25.8,24.1,52.0,62.7,
+Kyoto Institute of Technology,Japan,S,FO,VH,4.0,A,6.0,4.2,19.8,13.5,9.6,4.4,12.3,6.4,
+Kyushu Institute of Technology ,Japan,M,FO,VH,5.0,A,4.2,4.6,12.1,23.7,10.4,5.7,20.7,5.4,
+Leeds Beckett University,United Kingdom,L,CO,HI,3.0,A,4.0,12.4,5.6,6.9,29.1,20.8,19.4,4.5,
+Marquette University,United States,M,CO,VH,5.0,B,3.0,4.4,25.5,8.9,5.5,2.9,21.2,22.5,
+Mendeleev University of Chemical Technology,Russia,M,FO,VH,5.0,A,3.7,3.6,37.5,2.5,1.1,6.4,9.7,16.3,
+Mississippi State University,United States,L,CO,VH,5.0,A,5.5,8.6,8.1,17.1,10.4,3.3,53.2,9.9,
+Multimedia University (MMU),Malaysia,M,SP,VH,3.0,C,7.1,17.4,15.4,5.7,15.6,20.5,26.8,23.1,
+Mustansiriyah University,Iraq,XL,FC,HI,4.0,A,3.2,4.5,36.3,1.2,23.6,5.2,13.0,42.4,
+Mutah University,Jordan,M,FC,MD,3.0,A,5.8,5.1,9.4,1.6,10.7,51.9,7.5,20.3,
+Mykolas Romeris University,Lithuania,S,FO,VH,2.0,A,5.1,9.4,13.6,4.9,8.6,18.1,9.0,93.0,
+Nagoya Institute of Technology (NIT),Japan,M,SP,VH,2.0,A,5.3,2.5,6.5,18.0,6.1,5.0,21.7,13.3,
+Nanjing Normal University,China (Mainland),XL,SP,VH,3.0,A,3.5,1.6,18.1,16.5,,5.1,57.5,5.5,
+National Taiwan Ocean University,Taiwan,M,FO,VH,3.0,A,5.0,2.7,13.4,10.0,4.7,9.2,21.5,6.5,
+National University of Kyiv-Mohyla Academy (NaUKMA),Ukraine,S,FO,HI,5.0,A,4.9,11.1,36.5,1.1,2.4,1.5,4.7,30.5,
+North South University,Bangladesh,L,CO,MD,3.0,B,10.4,37.2,5.2,1.9,14.2,2.6,11.2,26.8,
+North-West University,South Africa,XL,CO,VH,2.0,A,7.0,8.5,6.5,12.6,5.0,2.8,89.3,16.3,
+Ocean University of China,China (Mainland),L,FC,VH,3.0,A,4.1,1.6,10.8,32.5,3.7,2.1,46.9,5.6,
+Odessa I.I. Mechnikov National University,Ukraine,M,FO,HI,5.0,A,4.0,2.0,39.9,1.4,1.8,3.0,8.9,25.5,
+Ohio University,United States,L,FC,HI,5.0,A,8.5,12.1,6.0,15.6,6.1,4.3,44.8,23.6,
+Paul Valéry University Montpellier,France,L,FO,VH,5.0,A,12.1,2.0,3.2,3.3,6.0,37.2,48.9,2.8,
+Rochester Institute of Technology (RIT),United States,L,CO,HI,5.0,B,4.6,6.9,22.8,8.3,5.7,18.2,46.3,26.8,
+Saitama University,Japan,M,CO,VH,4.0,A,3.6,2.1,15.3,20.6,11.3,6.9,28.7,9.4,
+San Diego State University,United States,XL,CO,VH,5.0,A,4.4,3.9,3.2,20.9,5.5,5.5,72.7,28.7,
+Sathyabama Institute of Science and Technology (deemed to be university),India,L,CO,VH,2.0,B,4.0,11.3,27.8,4.1,8.3,5.4,18.7,8.0,
+Seattle University,United States,M,CO,HI,4.0,B,4.6,3.9,33.5,3.3,1.5,12.6,6.9,13.5,
+Seoul National University of Science and Technology,South Korea,M,FO,VH,3.0,A,5.7,3.5,9.5,9.9,11.0,14.0,11.6,6.3,
+Shahid Beheshti University (SBU),"Iran, Islamic Republic of",L,FO,VH,4.0,A,8.5,7.3,4.4,25.8,1.7,1.8,53.5,23.2,
+Shanghai International Studies University,China (Mainland),L,SP,VH,3.0,A,4.3,2.3,19.2,1.5,30.0,31.9,3.3,3.8,
+Sheffield Hallam University,United Kingdom,L,CO,HI,3.0,A,6.1,14.2,9.9,5.4,30.6,20.9,52.7,5.4,
+"Siberian Federal University, SibFU",Russia,M,CO,VH,2.0,A,7.0,3.9,12.9,3.1,47.6,23.2,30.6,4.3,
+Siksha 'O' Anusandhan (Deemed to be University),India,L,FO,VH,3.0,B,2.7,2.5,41.2,4.2,1.7,2.1,6.2,7.9,
+Silesian University of Technology,Poland,L,FO,VH,4.0,A,5.0,3.9,28.4,6.1,2.0,2.5,34.5,21.8,
+Sookmyung Women's University ,South Korea,M,CO,HI,4.0,C,3.6,5.2,21.1,5.0,6.4,1.9,3.7,5.9,
+Taibah University,Saudi Arabia,XL,FC,HI,2.0,A,4.1,1.7,4.6,2.8,99.1,2.5,41.5,3.7,
+Tallinn University ,Estonia,M,FO,VH,2.0,A,8.5,5.3,6.5,8.9,47.6,16.9,30.8,96.3,
+Technical University of Lublin,Poland,M,FO,VH,2.0,A,4.2,1.4,25.8,3.3,,12.5,15.9,6.4,
+Telkom University,Indonesia,L,FO,VH,1.0,C,5.7,7.6,25.2,1.4,15.4,2.4,4.8,29.6,
+Texas Tech University,United States,XL,FC,HI,4.0,A,10.1,14.2,6.3,14.7,15.2,6.0,71.2,18.0,
+Thapar Institute of Engineering & Technology,India,M,FO,VH,4.0,A,2.2,3.2,7.5,39.2,5.2,1.7,33.4,14.3,
+The Herzen State Pedagogical University of Russia,Russia,L,FO,HI,5.0,A,3.5,1.9,27.0,1.2,1.6,41.4,10.6,3.7,
+The Josip Juraj Strossmayer University of Osijek,Croatia,L,CO,HI,3.0,A,3.3,,32.5,2.8,,,44.1,71.4,
+"The National Research University ""Belgorod State University""",Russia,M,FO,VH,5.0,A,3.0,1.3,23.5,2.1,2.6,49.4,9.1,4.3,
+The University of Alabama,United States,XL,CO,VH,5.0,A,8.7,26.6,5.7,13.8,5.8,3.3,44.8,15.4,
+The University of Lahore,Pakistan,XL,FO,HI,2.0,B,8.2,16.0,14.4,2.0,2.9,2.2,25.9,12.6,
+The University of Northampton,United Kingdom,M,CO,HI,2.0,A,3.0,2.8,7.1,3.3,40.0,93.6,8.8,2.4,
+Tokai University,Japan,L,FC,HI,2.0,B,10.1,6.9,15.7,3.3,6.7,3.5,27.6,4.5,
+Tomas Bata University in Zlin,Czech Republic,M,CO,VH,2.0,A,3.7,10.5,12.4,6.5,21.1,18.1,25.5,13.3,
+Ton Duc Thang University,Vietnam,L,FO,VH,3.0,B,5.5,8.5,6.4,16.0,34.7,1.8,91.3,22.7,
+Universidad Andrés Bello,Chile,XL,FC,HI,3.0,B,9.8,15.4,6.0,2.9,8.0,2.2,45.7,4.3,
+Universidad Austral de Chile,Chile,L,FC,HI,4.0,B,15.5,11.6,3.8,6.7,17.5,2.1,55.0,4.0,
+Universidad Autónoma de Aguascalientes,Mexico,L,FC,MD,3.0,A,3.2,1.8,36.7,1.4,,,19.7,4.9,
+Universidad Autónoma de Nuevo León,Mexico,XL,FC,HI,4.0,A,15.2,15.9,2.5,1.8,3.3,1.2,38.0,18.1,
+Universidad de Castilla-La Mancha,Spain,L,FC,HI,3.0,A,8.4,2.0,16.9,9.6,2.2,5.1,59.3,4.7,
+Universidad de Córdoba - Colombia,Colombia,L,CO,MD,4.0,A,16.7,4.0,2.9,1.5,,,5.1,8.7,
+Universidad de Lima,Peru,L,FO,MD,4.0,B,9.9,33.0,4.2,1.1,4.6,2.1,2.1,12.5,
+Universidad de Monterrey (UDEM),Mexico,M,FO,HI,4.0,B,11.5,12.0,12.6,1.5,12.4,1.9,4.9,16.6,
+Universidad de Oviedo,Spain,L,CO,VH,5.0,A,11.3,2.5,11.9,14.0,,,67.9,4.6,
+Universidad de Talca,Chile,M,FO,VH,3.0,A,10.2,9.6,6.7,5.3,24.2,1.5,32.5,4.9,
+Universidad de Valladolid,Spain,L,,,4.0,,9.8,3.4,26.1,5.9,1.4,4.2,,,
+Universidad de Valparaíso (UV),Chile,L,FC,MD,3.0,A,10.0,8.9,8.8,3.6,7.4,1.6,28.3,8.3,
+Universidad del Norte ,Colombia,L,FC,MD,4.0,B,9.3,28.3,12.9,2.5,10.8,1.3,18.2,4.3,
+Universidad del Pacífico,Peru,S,SP,LO,4.0,B,7.1,35.9,4.2,2.7,14.3,1.3,4.0,23.5,
+Universidad Industrial de Santander - UIS,Colombia,L,FC,MD,4.0,A,10.2,26.1,5.4,2.4,5.8,1.3,21.0,15.3,
+Universidad Latinoamericana de Ciencia y Tecnología Costa Rica (ULACIT),Costa Rica,S,CO,,3.0,B,7.1,22.4,15.6,,10.1,8.4,,99.5,
+Universidad Nacional Agraria la Molina,Peru,M,FO,HI,5.0,A,6.1,9.9,18.7,1.5,5.5,2.4,11.3,16.2,
+Universidad Nacional de Cuyo,Argentina,XL,FC,MD,4.0,A,12.2,6.8,19.6,1.7,2.0,16.8,37.9,3.4,
+Universidad Nacional de la Asunción,Paraguay,XL,FC,MD,5.0,A,5.7,10.3,26.0,1.1,6.7,2.0,21.0,29.5,
+Universidad Nacional de Río Cuarto - UNRC,Argentina,L,CO,MD,4.0,A,4.6,1.4,37.4,1.5,,,9.6,3.9,
+"Universidad Nacional, Costa Rica",Costa Rica,L,CO,MD,3.0,A,9.3,21.0,15.1,1.5,11.5,2.8,19.2,62.0,
+Universidad Peruana de Ciencias Aplicadas,Peru,XL,CO,MD,3.0,B,9.2,29.3,4.0,1.1,14.4,2.1,5.3,17.1,
+Universidad Rey Juan Carlos,Spain,XL,CO,HI,3.0,A,7.2,9.3,6.0,4.5,16.0,17.5,51.7,5.4,
+Universidad Técnica Federico Santa María (USM),Chile,L,FO,VH,4.0,B,10.4,38.0,4.7,5.6,11.3,2.2,47.7,8.1,
+Universidad Tecnológica de Panamá (UTP),Panama,L,CO,MD,3.0,A,8.8,20.1,22.3,1.0,2.9,4.7,4.4,1.0,
+Universidade da Coruña ,Spain,L,CO,VH,3.0,A,5.0,5.8,26.0,7.7,2.0,4.8,52.6,5.0,
+Universidade de Vigo,Spain,L,CO,VH,3.0,A,7.8,4.5,10.0,15.6,2.6,4.3,77.3,5.4,
+Universidade do Estado do Rio de Janeiro (UERJ),Brazil,XL,FC,HI,4.0,A,8.7,4.6,16.6,3.2,4.2,1.2,30.9,11.5,
+Universidade Federal de Juiz de Fora- (UFJF),Brazil,L,CO,HI,4.0,A,3.4,2.3,34.2,3.2,,,25.1,4.2,
+Universidade Federal de Pelotas ,Brazil,L,CO,VH,4.0,A,4.5,1.3,29.5,5.5,,1.4,23.3,6.3,
+Universidade Federal de Pernambuco (UFPE) ,Brazil,XL,FC,HI,4.0,A,12.3,2.8,21.7,3.8,1.8,1.3,42.5,6.8,
+Università degli Studi della Tuscia (University of Tuscia),Italy,M,CO,VH,3.0,A,3.0,1.1,6.6,31.2,11.4,5.1,42.2,5.1,
+Università degli Studi di Udine,Italy,L,CO,VH,3.0,A,6.5,3.2,9.7,22.4,5.5,4.3,50.0,4.0,
+Universitas Hasanuddin,Indonesia,XL,FC,HI,4.0,A,10.3,7.0,12.5,1.4,5.6,2.5,14.8,6.9,
+Universitas Sebelas Maret,Indonesia,L,FC,HI,3.0,A,8.8,7.2,12.4,1.5,11.6,1.9,5.4,5.6,
+Universität Siegen,Germany,L,CO,HI,4.0,A,4.1,2.1,11.2,5.5,40.2,20.7,40.2,9.7,
+Université de Poitiers,France,L,CO,VH,5.0,A,8.0,2.5,5.3,7.4,,31.3,67.8,7.8,
+Université de Toulouse II-Le Mirail,France,XL,FO,HI,5.0,A,10.1,2.2,1.3,4.4,30.3,23.5,45.1,5.0,
+Université Lumière Lyon 2,France,L,SP,VH,3.0,A,11.2,2.0,7.4,5.5,29.7,32.7,60.1,5.2,
+Université Toulouse 1 Capitole,France,L,FO,MD,5.0,A,13.2,3.3,1.6,2.5,31.3,54.9,10.0,5.4,
+Universiti Kuala Lumpur (UniKL),Malaysia,L,FC,MD,2.0,C,6.3,5.4,31.6,2.0,7.7,3.7,15.9,7.0,
+Universiti Malaysia Sabah (UMS),Malaysia,L,FC,HI,3.0,A,13.1,9.2,7.5,3.6,12.9,9.1,25.9,6.8,
+Universiti Malaysia Sarawak (UNIMAS),Malaysia,L,FC,MD,3.0,A,11.4,7.8,10.8,3.2,35.7,7.5,15.3,5.9,
+Universiti Malaysia Terengganu (UMT),Malaysia,M,FO,VH,2.0,A,9.1,4.1,13.6,7.2,13.4,6.7,41.5,7.0,
+Universiti Tun Hussein Onn University of Malaysia (UTHM),Malaysia,L,CO,VH,2.0,A,7.8,5.7,9.0,6.6,8.5,6.8,35.8,6.6,
+"University of Agriculture, Faisalabad ",Pakistan,L,CO,VH,4.0,A,5.1,10.2,1.8,34.1,4.1,1.2,45.0,10.9,
+University of Arkansas Fayetteville ,United States,L,FO,VH,5.0,A,6.9,6.0,6.9,12.7,6.3,4.6,61.8,9.7,
+University of Belgrade,Serbia,XL,FC,VH,5.0,A,17.2,6.9,4.2,5.8,3.3,4.9,94.5,64.3,
+University of Bialystok,Poland,M,FO,VH,3.0,A,5.1,3.2,30.3,2.5,,5.8,33.1,6.0,
+University of Bucharest,Romania,XL,FO,VH,5.0,A,14.6,11.4,7.7,4.1,2.8,2.4,66.3,37.8,
+University of Calabria,Italy,L,CO,VH,4.0,A,4.8,1.8,3.5,25.0,8.0,4.2,85.1,3.5,
+University of Derby,United Kingdom,L,CO,HI,3.0,A,3.8,4.6,11.3,4.2,27.9,42.4,39.3,5.3,
+University of Hawaii at Hilo,United States,S,FO,VH,,A,3.1,2.6,19.3,10.5,4.1,3.1,13.8,18.3,
+University of Kufa,Iraq,L,FC,MD,3.0,A,3.6,8.4,33.0,1.3,5.3,1.1,11.8,45.5,
+University of Latvia,Latvia,L,FC,HI,5.0,A,12.5,14.5,4.8,8.2,16.3,7.5,63.7,90.4,
+University of Miskolc ,Hungary,M,CO,HI,5.0,B,5.8,5.3,22.1,2.2,4.8,6.0,22.1,20.7,
+University of Missouri Saint Louis,United States,M,SP,VH,4.0,A,3.8,6.4,15.1,18.7,5.3,4.3,13.9,21.1,
+"University of Missouri, Kansas City",United States,M,CO,VH,4.0,A,4.5,5.4,18.7,14.4,3.9,8.0,24.7,11.6,
+University of Montana Missoula ,United States,M,CO,VH,5.0,A,2.2,2.4,14.8,27.0,1.5,1.9,34.7,10.3,
+University of Mumbai,India,M,FC,VH,5.0,A,8.2,18.1,2.1,20.9,1.8,1.9,18.2,97.6,
+University of Nairobi,Kenya,XL,FC,MD,4.0,A,9.4,14.9,16.7,1.9,,,31.4,80.5,
+University of Naples Parthenope,Italy,M,FO,VH,4.0,A,3.1,1.7,3.8,42.7,2.1,2.1,29.3,4.6,
+University of North Texas,United States,XL,FC,HI,5.0,A,6.9,7.9,3.6,20.8,5.1,9.0,46.2,38.6,
+University of Ostrava,Czech Republic,M,FO,VH,3.0,A,5.0,1.0,21.6,4.4,20.2,13.7,36.7,15.8,
+University of Palermo,Italy,L,CO,VH,5.0,A,9.8,2.3,5.7,27.0,2.6,2.0,73.7,7.0,
+University of Pannonia,Hungary,S,FO,VH,4.0,A,4.3,3.1,25.6,9.8,,10.2,63.0,34.7,
+University of Pardubice,Czech Republic,M,FO,VH,4.0,A,4.4,1.7,35.4,4.3,10.7,7.9,23.3,12.7,
+University of Peradeniya ,Sri Lanka,L,CO,HI,3.0,A,7.2,5.6,19.7,2.0,1.0,1.4,20.5,69.8,
+University of Primorska,Slovenia,M,CO,HI,3.0,A,2.8,1.8,10.9,9.5,28.0,28.8,40.2,98.8,
+University of Regina,Canada,L,CO,HI,3.0,A,3.0,4.2,4.1,20.4,6.9,43.7,40.2,4.9,
+University of Rhode Island ,United States,L,CO,HI,5.0,A,4.8,3.2,8.0,16.2,6.9,3.0,49.1,11.5,
+University of Rijeka,Croatia,L,CO,HI,3.0,A,5.4,2.6,22.2,3.9,2.8,2.0,39.5,71.9,
+University of Salerno,Italy,L,FC,VH,4.0,A,7.5,2.3,4.7,31.9,3.0,1.9,87.0,7.1,
+University of San Diego,United States,M,CO,HI,4.0,B,7.1,6.0,25.2,3.3,3.2,6.7,4.4,52.1,
+University of San Francisco,United States,M,CO,HI,5.0,B,7.4,4.6,16.0,4.6,2.2,21.8,5.9,55.2,
+University of Texas at San Antonio,United States,L,FO,VH,4.0,A,6.3,4.4,4.0,27.5,11.5,2.9,66.7,8.5,
+University of the Pacific,United States,M,CO,HI,5.0,B,2.0,3.8,32.1,3.7,3.8,7.2,11.4,27.9,
+University of the Sunshine Coast ,Australia,L,CO,HI,3.0,A,2.6,2.9,2.2,22.9,3.2,22.1,42.0,2.9,
+University of the Western Cape,South Africa,L,CO,VH,4.0,A,7.9,7.1,4.3,13.2,28.2,4.5,73.3,17.3,
+University of Toledo,United States,L,FC,HI,,A,3.2,6.1,8.4,25.1,8.6,8.5,47.0,9.3,
+University of Warmia and Mazury in Olsztyn,Poland,L,FO,VH,2.0,A,4.4,9.0,21.1,3.3,2.8,2.7,41.7,,
+University of Wisconsin Milwaukee ,United States,L,FO,VH,5.0,A,7.8,4.5,9.9,15.6,8.1,4.4,42.4,8.8,
+University of Wolverhampton,United Kingdom,L,CO,HI,5.0,A,2.9,2.7,9.9,7.9,35.3,71.9,41.1,3.4,
+Utah State University ,United States,L,CO,VH,5.0,A,6.4,3.8,6.8,23.6,,1.7,51.9,9.6,
+Vancouver Island University,Canada,L,FO,,,A,5.2,4.6,29.8,,,,,5.0,
+Vellore Institute of Technology (VIT),India,XL,FO,VH,3.0,B,9.3,9.2,7.8,15.9,15.4,2.5,62.6,18.2,
+Voronezh State University,Russia,L,CO,HI,5.0,A,5.6,2.3,24.5,1.3,4.1,32.7,6.9,3.3,
+Warsaw University of Life Sciences – SGGW (WULS-SGGW),Poland,L,FO,VH,5.0,A,7.3,7.2,21.9,5.4,2.7,8.7,53.8,4.8,
+West Virginia University,United States,L,FC,VH,5.0,A,6.0,7.4,11.9,22.5,6.0,6.1,56.8,18.7,
+Western Michigan University,United States,L,FC,HI,5.0,A,5.7,6.6,11.5,6.2,29.4,10.8,41.5,19.6,
+Xi'an Jiaotong Liverpool University,China (Mainland),L,CO,HI,2.0,B,3.9,2.0,7.2,6.4,99.1,6.6,31.2,2.7,
+Yildiz Technical University,Turkey,L,CO,VH,5.0,A,6.7,15.0,6.7,5.9,4.6,15.3,39.0,4.2,
+ Don State Technical University,Russia,L,CO,HI,4.0,A,3.7,3.6,12.7,1.4,1.6,15.7,12.2,3.4,
+Akdeniz Üniversitesi,Turkey,XL,FC,MD,3.0,A,4.3,3.5,3.8,2.9,1.2,1.1,26.2,3.7,
+Al-Azhar University,Egypt,XL,CO,VH,4.0,A,9.5,5.0,10.5,1.3,1.1,7.9,45.7,9.3,
+Al-Balqa Applied University,Jordan,L,FC,MD,3.0,A,3.8,5.6,5.3,2.3,4.1,2.4,23.3,13.1,
+Alexandru Ioan Cuza University,Romania,L,FO,VH,5.0,A,7.1,7.0,5.2,3.2,4.3,11.0,26.5,8.6,
+Anadolu University,Turkey,L,FO,VH,4.0,A,3.2,4.7,15.5,3.4,2.0,3.5,15.6,9.1,
+Aoyama Gakuin University,Japan,L,CO,MD,4.0,B,5.8,12.9,5.9,2.3,17.8,3.0,10.3,8.8,
+Bahauddin Zakariya University ,Pakistan,XL,CO,HI,3.0,A,4.8,6.3,1.9,9.6,,1.0,29.6,10.8,
+Birzeit university,"Palestinian Territory, Occupied",M,CO,MD,4.0,B,5.1,11.8,5.3,2.5,15.7,4.8,22.1,44.7,
+British University in Egypt,Egypt,M,CO,HI,2.0,C,4.5,3.5,20.7,2.0,2.9,2.9,9.6,7.5,
+California Polytechnic State University,United States,L,CO,HI,,A,3.1,10.8,7.7,3.8,,,27.6,26.0,
+California State University - Los Angeles,United States,L,CO,HI,4.0,A,4.4,2.5,3.8,3.4,5.2,6.8,7.1,5.3,
+Católica de Córdoba,Argentina,M,FC,MD,4.0,C,4.4,2.5,17.9,1.2,4.4,3.6,3.3,7.3,
+Central Michigan University,United States,L,FC,HI,4.0,A,3.3,6.6,7.5,7.6,4.0,2.7,18.9,13.1,
+China University of Political Science and Law,China (Mainland),L,FO,MD,3.0,A,3.9,16.7,11.6,1.1,6.8,2.1,6.0,3.1,
+Chung Yuan Christian University,Taiwan,L,CO,HI,3.0,A,4.4,5.1,4.8,14.2,5.5,9.7,17.4,20.4,
+Cleveland State University,United States,L,CO,HI,4.0,A,3.8,5.1,10.1,5.8,3.3,8.9,16.7,12.3,
+Dokuz Eylül Üniversitesi,Turkey,XL,FC,HI,3.0,A,4.4,5.6,2.7,3.8,3.1,3.1,38.1,5.1,
+EGE UNIVERSITY,Turkey,XL,FC,HI,3.0,A,6.9,9.9,12.3,2.8,1.2,3.4,60.7,3.6,
+Feng Chia University,Taiwan,L,FO,VH,3.0,C,8.2,8.9,4.7,7.4,4.8,9.2,15.6,9.6,
+Florida Atlantic University - Boca Raton,United States,L,FC,HI,4.0,A,4.6,6.4,5.9,10.7,8.9,4.1,44.1,12.0,
+Fu Jen Catholic University,Taiwan,L,FC,MD,4.0,B,6.3,10.3,5.6,7.3,7.3,17.1,9.5,20.2,
+Fundación Universidad De Bogotá-Jorge Tadeo Lozano,Colombia,M,FO,HI,4.0,C,5.2,7.9,9.5,1.9,4.5,1.2,8.1,31.2,
+Gebze Yüksek Teknoloji Enstitüsü (GYTE),Turkey,M,CO,VH,3.0,A,2.7,1.6,13.7,9.3,3.8,2.2,24.1,5.6,
+German University in Cairo,Egypt,L,CO,MD,2.0,B,6.5,7.5,8.0,2.1,15.6,1.2,6.9,27.0,
+Hanoi University of Science and Technology,Vietnam,XL,FO,VH,4.0,A,7.6,6.8,3.3,5.3,3.7,1.2,59.7,25.8,
+Helwan University ,Egypt,XL,CO,HI,3.0,A,6.0,9.1,5.4,1.6,1.3,1.8,36.9,4.8,
+Hohai University,China (Mainland),XL,FO,VH,3.0,A,3.5,1.4,9.1,12.3,,,55.3,4.6,
+Hongik University ,South Korea,L,FO,VH,4.0,C,4.1,5.1,10.0,3.2,19.7,10.8,7.9,9.6,
+Humboldt State University,United States,M,CO,HI,3.0,A,3.6,2.4,8.5,4.9,2.8,1.7,16.2,13.8,
+Illinois State University,United States,L,FO,VH,5.0,A,3.3,4.1,6.6,5.3,5.0,2.8,14.3,14.3,
+Indiana State University,United States,M,CO,HI,4.0,A,5.3,5.8,7.5,3.3,2.3,2.6,4.4,6.7,
+International Islamic University Islamabad (IIU),Pakistan,L,FO,VH,3.0,A,5.8,12.1,3.5,7.3,1.7,6.8,32.3,11.4,
+Irkutsk State University,Russia,L,FO,HI,5.0,A,3.1,1.5,22.9,1.5,2.6,4.4,9.9,9.9,
+Istanbul Bilgi Üniversitesi,Turkey,M,FO,HI,3.0,B,3.5,5.3,16.0,2.1,7.0,24.8,7.0,18.3,
+Izmir Institute of Technology (IZTECH),Turkey,M,CO,HI,3.0,A,5.1,2.3,5.7,10.0,4.4,2.6,13.4,6.1,
+Jamia Hamdard,India,M,CO,HI,3.0,A,3.9,2.7,8.6,11.5,,3.3,11.5,7.8,
+Kindai University (Kinki University),Japan,XL,FC,HI,4.0,C,4.4,5.1,10.7,4.9,12.7,1.8,24.8,2.7,
+King Mongkut\'s Institute of Technology Ladkrabang,Thailand,L,FO,VH,4.0,A,7.4,13.1,5.3,3.0,17.1,1.7,14.9,3.9,
+Kwansei Gakuin University,Japan,L,CO,HI,4.0,B,3.3,7.4,4.2,3.2,29.7,4.1,17.0,8.6,
+Lucian Blaga University of Sibiu,Romania,L,FC,MD,3.0,A,3.1,2.5,7.9,1.7,7.0,3.2,7.4,13.0,
+Makerere University,Uganda,XL,FC,HI,5.0,A,9.4,6.6,3.7,4.6,11.4,9.2,53.1,94.9,
+Mansoura University,Egypt,XL,FC,HI,4.0,A,11.1,5.8,3.5,2.4,2.3,2.9,74.9,6.4,
+Marmara University,Turkey,XL,FO,VH,5.0,A,5.2,5.1,6.3,2.2,3.3,4.0,32.6,20.8,
+Meiji University,Japan,XL,CO,HI,5.0,C,6.4,22.1,5.8,1.8,10.1,6.2,15.7,16.5,
+Miami University,United States,L,CO,HI,5.0,A,3.7,6.0,7.4,10.7,7.1,12.7,34.3,49.2,
+MIREA - Russian Technological University,Russia,L,FO,VH,4.0,A,3.6,3.6,9.7,1.5,1.4,3.8,7.2,6.0,
+Moscow City University,Russia,L,FO,MD,3.0,A,4.1,1.9,8.2,1.1,3.5,4.6,1.7,3.7,
+Moscow Pedagogical State University,Russia,L,FO,HI,5.0,A,6.5,3.1,8.3,1.5,1.2,28.1,6.4,3.3,
+National Dong Hwa University,Taiwan,M,FO,VH,2.0,A,5.0,2.4,8.2,6.8,3.3,10.4,11.1,6.0,
+National Research University Moscow Power Engineering Institute (MPEI),Russia,M,FO,VH,4.0,A,4.0,3.4,11.6,2.0,8.2,40.9,24.7,5.2,
+National Taipei University,Taiwan,M,FO,HI,2.0,A,6.7,4.2,9.3,3.5,2.4,4.2,5.9,15.6,
+National University of Life and Environmental Sciences of Ukraine,Ukraine,L,FO,HI,5.0,A,5.1,4.4,21.9,1.3,1.2,1.7,17.6,12.1,
+Northern Arizona University,United States,L,CO,HI,5.0,A,6.6,6.1,4.9,13.9,3.0,2.6,48.9,5.3,
+Nova Southeastern University,United States,L,CO,HI,4.0,B,2.9,4.7,15.8,3.4,3.1,4.4,23.5,9.0,
+Óbuda University,Hungary,M,FO,VH,2.0,A,3.1,3.6,2.0,7.5,8.7,7.3,27.9,19.1,
+OSMANIA UNIVERSITY,India,M,CO,VH,5.0,A,4.0,3.2,3.8,16.2,,6.6,15.2,7.0,
+Panjab University,India,L,CO,VH,4.0,A,5.5,3.2,5.2,17.0,,1.7,31.7,51.2,
+Pontificia Universidad Catolica Madre y Maestra,Dominican Republic,M,FO,MD,4.0,B,4.6,8.5,12.5,1.2,12.4,21.1,3.5,65.8,
+Pontificia Universidade Católica do Campinas - PUC Campinas,Brazil,M,CO,MD,4.0,C,4.9,4.0,8.1,2.0,2.6,1.0,1.6,4.7,
+Pontifícia Universidade Católica do Paraná,Brazil,M,FC,HI,4.0,B,4.1,3.2,5.0,4.7,1.2,1.6,17.9,4.8,
+Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS),Brazil,L,FC,HI,4.0,B,6.9,4.3,8.8,5.4,2.5,1.6,25.3,3.1,
+Portland State University,United States,L,CO,VH,4.0,A,4.3,3.4,9.8,11.3,1.0,6.0,53.5,6.6,
+Pukyong National University ,South Korea,L,CO,VH,3.0,A,5.0,3.2,8.4,10.2,6.0,8.3,24.7,3.7,
+Rikkyo University,Japan,L,FO,HI,5.0,C,3.3,10.0,13.1,2.8,26.6,6.9,13.3,10.3,
+Russian State Agrarian University - Moscow Timiryazev Agricultural Academy,Russia,M,FO,HI,5.0,A,5.4,3.2,10.0,1.3,2.2,5.7,5.3,8.8,
+Russian State University for the Humanities ,Russia,M,FO,VH,3.0,A,4.5,2.4,22.5,1.3,1.6,4.3,1.2,6.4,
+"Rutgers, The State University of New Jersey, Camden",United States,M,CO,HI,,A,3.8,4.2,16.4,3.9,16.6,3.2,7.5,4.1,
+Saken Seifullin Kazakh Agrotechnical University,Kazakhstan,M,FO,HI,4.0,B,6.5,4.7,17.5,1.2,3.7,1.6,5.4,14.9,
+San Francisco State University,United States,L,CO,HI,5.0,A,4.0,2.5,5.1,5.8,4.0,8.2,31.7,12.1,
+Shanghai Normal University,China (Mainland),L,CO,HI,3.0,A,3.5,1.4,14.0,3.0,,,17.9,2.5,
+Shanghai University of Finance and Economics,China (Mainland),L,FO,HI,4.0,A,4.0,4.0,10.2,3.0,14.3,2.5,18.0,29.2,
+Shibaura Institute of Technology,Japan,M,FO,VH,4.0,B,3.1,2.6,2.6,7.0,22.0,9.1,17.2,4.1,
+Slovak University of Agriculture in Nitra,Slovakia,M,FO,VH,3.0,A,4.6,4.1,18.2,4.4,9.7,3.0,24.1,32.5,
+Soochow University (Taiwan),Taiwan,L,FO,MD,4.0,C,4.3,7.2,4.8,1.9,4.6,4.5,3.4,5.6,
+Soongsil University,South Korea,L,CO,HI,3.0,C,3.3,7.0,9.5,5.3,7.2,15.6,10.6,3.7,
+Southwest University,China (Mainland),XL,CO,VH,2.0,A,3.1,1.6,13.7,12.6,1.4,1.8,47.1,12.6,
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,India,XL,CO,VH,3.0,B,4.9,8.0,11.7,3.2,1.7,2.2,45.8,5.3,
+Stefan cel Mare University of Suceava,Romania,M,CO,HI,3.0,A,3.3,2.2,6.1,3.8,2.2,37.1,16.6,13.9,
+Suez Canal University,Egypt,XL,FC,MD,3.0,A,3.2,2.7,20.6,2.2,1.8,1.6,43.7,5.2,
+Suranaree University of Technology ,Thailand,L,FO,VH,3.0,A,5.7,3.0,3.3,9.0,6.9,2.1,25.9,4.3,
+Tamkang University,Taiwan,L,FO,VH,3.0,C,5.0,5.6,3.7,6.3,7.7,9.0,17.5,24.5,
+Tanta University ,Egypt,XL,FO,VH,4.0,A,5.0,2.3,4.0,2.1,1.6,3.2,62.1,7.3,
+Technical University of Cluj-Napoca,Romania,L,SP,VH,5.0,A,4.5,5.0,7.0,3.5,1.4,2.6,31.0,9.1,
+"The ""Gheorghe Asachi"" Technical University of Iasi",Romania,L,SP,VH,4.0,A,5.3,6.0,2.6,5.7,,5.7,23.4,9.6,
+The Hashemite University,Jordan,L,FC,MD,3.0,A,6.2,9.9,3.8,3.4,13.1,7.9,26.0,15.1,
+"The University of Notre Dame, Australia",Australia,M,FO,VH,3.0,B,3.0,5.5,2.9,7.4,3.2,1.5,18.8,6.5,
+The University of Texas at Arlington,United States,XL,CO,VH,5.0,A,5.7,5.9,4.7,11.8,3.8,15.6,50.4,5.4,
+Toraighyrov University,Kazakhstan,M,FO,HI,4.0,A,5.1,3.7,16.0,1.3,3.3,3.1,1.8,20.0,
+Transilvania University of Brasov,Romania,L,FC,MD,4.0,A,4.5,3.2,6.6,3.1,2.6,2.2,38.2,9.3,
+Tunghai University,Taiwan,L,CO,HI,4.0,C,5.4,7.2,5.7,3.9,11.3,15.1,15.4,9.0,
+Universidad Autónoma de Baja California,Mexico,XL,CO,HI,4.0,A,7.6,5.3,4.7,1.5,3.1,3.1,15.3,4.8,
+Universidad Autónoma de Chile,Chile,XL,FO,HI,3.0,B,5.2,2.6,6.3,2.6,6.4,1.3,32.7,4.7,
+Universidad Autónoma de Querétaro (UAQ),Mexico,L,FC,MD,4.0,A,4.4,3.4,6.7,2.6,6.5,1.7,7.6,4.4,
+Universidad Autónoma de San Luis de Potosí,Mexico,XL,FC,MD,4.0,A,6.2,2.2,6.1,2.5,1.8,1.4,18.6,4.3,
+Universidad Autonoma de Yucatan,Mexico,L,CO,HI,5.0,A,4.7,1.6,5.5,2.4,2.5,1.1,12.1,4.9,
+Universidad Autónoma del Estado de Morelos (UAEM),Mexico,XL,FC,MD,4.0,A,3.6,2.2,11.4,1.6,4.0,1.0,24.4,4.3,
+Universidad Bernardo O'Higgins,Chile,M,FO,HI,3.0,B,3.8,1.4,9.7,2.0,10.1,2.0,8.9,6.9,
+Universidad Católica de Colombia ,Colombia,M,FO,HI,4.0,B,5.5,8.0,4.8,1.5,5.8,1.2,,5.1,
+Universidad Católica de La Santísima Concepción - UCSC,Chile,M,FC,MD,3.0,B,3.5,2.4,9.4,2.5,6.4,1.2,21.2,4.8,
+Universidad Católica del Norte,Chile,M,FC,HI,4.0,B,5.0,4.1,6.7,5.8,15.1,3.1,33.7,4.5,
+Universidad Central de Chile,Chile,L,FO,MD,3.0,C,4.7,4.9,3.9,1.7,2.2,1.5,11.2,4.2,
+Universidad Central del Ecuador,Ecuador,XL,FC,LO,5.0,A,9.3,8.8,11.4,1.2,,,10.3,24.0,
+Universidad de Caldas,Colombia,L,FC,MD,4.0,A,5.5,4.2,2.7,1.7,,,7.8,3.9,
+Universidad de Carabobo,Venezuela,L,FC,LO,5.0,A,4.9,11.1,20.0,1.0,,,3.8,16.3,
+Universidad de Cartagena,Colombia,L,FC,HI,5.0,A,3.9,6.8,3.9,10.3,2.8,1.1,43.7,3.9,
+Universidad de Cuenca,Ecuador,L,FC,MD,5.0,A,5.6,3.6,5.7,2.1,2.9,1.6,15.7,12.2,
+Universidad de Guanajuato,Mexico,XL,CO,HI,4.0,A,7.7,3.4,7.4,3.1,7.1,1.8,22.0,6.8,
+Universidad de La Frontera (UFRO),Chile,M,CO,VH,3.0,A,8.4,5.0,3.5,9.2,8.7,1.3,39.2,4.6,
+Universidad de La Salle,Colombia,M,FO,HI,4.0,B,5.7,6.2,5.6,1.2,3.8,1.5,4.8,10.9,
+Universidad de La Serena,Chile,M,FO,HI,3.0,A,3.2,3.2,3.2,7.3,6.3,1.3,12.7,5.8,
+Universidad de Las Américas (UDLA) Ecuador,Ecuador,L,CO,MD,3.0,B,6.0,8.0,15.9,1.6,,,19.6,18.5,
+Universidad de las Fuerzas Armadas ESPE (Ex - Escuela Politécnica del Ejército),Ecuador,L,CO,HI,5.0,A,4.7,9.5,8.6,1.7,4.6,1.1,13.6,11.2,
+Universidad de Medellín,Colombia,M,SP,MD,4.0,C,6.6,9.2,6.0,2.0,4.1,2.3,10.1,9.5,
+Universidad de Panama,Panama,XL,FO,MD,4.0,B,6.4,12.5,4.0,1.1,4.7,2.5,7.3,1.0,
+Universidad de Piura,Peru,M,FO,MD,4.0,B,5.6,13.2,4.4,1.2,9.7,1.5,3.8,35.4,
+Universidad de Puerto Rico,Puerto Rico,XL,FC,HI,5.0,A,9.2,11.0,9.1,2.5,1.4,1.5,38.5,47.9,
+Universidad de San Carlos de Guatemala - USAC,Guatemala,XL,FC,LO,5.0,A,7.6,12.8,4.3,1.0,,,5.5,24.7,
+Universidad de Santander - UDES,Colombia,L,FO,MD,3.0,C,3.4,3.2,6.1,1.4,22.2,,12.2,3.7,
+Universidad de Sonora,Mexico,XL,CO,MD,4.0,A,4.1,2.1,4.9,1.8,4.1,1.6,8.3,5.6,
+Universidad del Bío-Bío,Chile,L,CO,HI,4.0,A,7.9,4.6,3.2,3.4,10.8,1.4,32.1,4.4,
+Universidad del Cauca,Colombia,L,CO,MD,5.0,A,10.0,4.1,5.7,1.7,25.7,1.1,13.9,3.9,
+Universidad del Desarrollo (UDD),Chile,L,CO,MD,3.0,B,5.9,14.5,12.7,2.3,7.7,2.2,16.3,5.1,
+Universidad del Magdalena,Colombia,L,CO,MD,4.0,A,4.5,7.2,2.8,1.4,5.9,1.1,5.1,3.8,
+Universidad del Salvador,Argentina,L,FO,MD,4.0,B,4.1,9.7,15.0,1.1,5.9,8.4,1.6,9.9,
+Universidad del Valle de Mexico (UVM),Mexico,XL,FO,MD,4.0,C,2.9,17.3,6.1,1.0,1.2,1.5,2.2,3.9,
+Universidad del Zulia,Venezuela,M,FC,MD,5.0,A,9.1,11.0,3.7,2.8,,,17.0,29.6,
+Universidad La Salle (ULSA),Mexico,M,FC,LO,4.0,C,3.3,16.4,18.4,1.1,3.2,1.6,1.2,7.7,
+Universidad Mayor de San Andrés (UMSA),Bolivia,XL,FC,LO,5.0,A,6.0,3.6,1.0,1.6,8.7,1.1,23.6,1.0,
+Universidad Metropolitana,Venezuela,M,CO,LO,4.0,B,8.3,17.6,5.0,1.1,22.9,1.3,,90.5,
+Universidad Nacional de Mar del Plata,Argentina,L,CO,HI,3.0,A,9.6,3.0,7.3,3.7,,,22.5,5.5,
+Universidad Nacional de Quilmes,Argentina,L,FO,HI,3.0,A,7.0,2.2,3.4,1.9,3.4,2.0,5.0,3.7,
+Universidad Nacional de San Martín (UNSAM),Argentina,L,CO,HI,3.0,A,11.0,3.4,8.2,2.5,3.4,5.3,20.5,3.7,
+Universidad Nacional de Tucumán,Argentina,XL,FC,MD,5.0,A,7.4,2.5,2.9,1.9,,,33.4,3.3,
+Universidad Nacional del Comahue,Argentina,XL,FC,MD,4.0,A,4.1,2.2,23.4,1.4,,,17.5,3.5,
+Universidad Nacional del Litoral,Argentina,XL,CO,HI,5.0,A,11.6,6.0,3.1,2.5,1.6,1.1,15.8,3.4,
+Universidad Nacional del Sur,Argentina,L,FC,HI,4.0,A,5.7,2.5,11.2,2.5,,,17.4,3.9,
+Universidad Popular Autónoma del Estado de Puebla (UPAEP),Mexico,M,FO,MD,3.0,C,4.4,6.5,20.7,1.2,3.0,2.2,1.4,7.4,
+Universidad San Ignacio de Loyola,Peru,L,FO,MD,3.0,B,5.8,12.8,2.0,1.2,3.8,1.6,2.4,10.4,
+Universidad Tecnica Particular De Loja (UPTL),Ecuador,XL,FO,HI,4.0,C,4.3,4.7,1.6,1.7,10.9,1.4,7.9,9.4,
+"Universidad Tecnológica de la Habana José Antonio Echeverría, Cujae",Cuba,M,SP,LO,3.0,A,6.4,1.2,20.2,1.1,3.7,5.1,6.8,37.0,
+Universidad Tecnológica de Pereira,Colombia,L,CO,MD,4.0,A,4.0,8.2,3.6,1.9,1.5,1.0,12.9,3.7,
+Universidad Veracruzana,Mexico,XL,FO,HI,4.0,A,8.7,4.0,8.8,1.4,,,14.0,4.0,
+Universidade do Estado de Santa Catarina,Brazil,L,CO,HI,4.0,A,3.2,1.4,27.6,1.9,,,10.4,3.2,
+Universidade Estadual de Londrina,Brazil,L,FC,HI,4.0,A,2.9,4.6,16.6,3.8,2.0,1.4,14.6,2.9,
+Universidade Federal da Bahia,Brazil,XL,FC,HI,4.0,A,8.2,3.0,9.8,3.2,6.1,1.6,50.1,10.4,
+Universidade Federal da Paraíba,Brazil,XL,CO,HI,4.0,A,3.3,3.0,11.2,3.2,2.9,1.2,28.4,2.7,
+Universidade Federal de Goiás,Brazil,XL,CO,VH,4.0,A,3.2,1.5,7.8,4.4,4.1,1.3,26.7,2.7,
+Universidade Federal de Santa Maria,Brazil,L,FC,HI,4.0,A,5.3,1.7,14.5,4.9,2.9,1.3,37.1,4.8,
+Universidade Federal de Uberlândia,Brazil,L,FC,HI,3.0,A,3.1,2.2,12.8,3.3,2.5,1.4,44.7,2.8,
+Universidade Federal de Viçosa (UFV),Brazil,L,FC,HI,5.0,A,4.5,2.1,14.6,8.6,3.3,2.0,25.2,4.1,
+Universidade Federal do Ceará (UFC),Brazil,XL,FC,HI,4.0,A,6.9,3.0,10.2,5.9,1.4,1.3,44.2,2.7,
+Universidade Federal do Estado do Rio de Janeiro - UNIRIO,Brazil,L,FC,MD,4.0,A,2.7,1.9,13.5,2.2,,,9.0,3.2,
+Universidade Federal do Parà - UFPA,Brazil,XL,FC,HI,4.0,A,2.8,1.9,8.0,2.5,3.2,1.0,28.8,2.6,
+Universidade Federal do Rio Grande Do Norte,Brazil,XL,FC,HI,4.0,A,3.8,2.2,8.1,2.7,,,35.4,5.3,
+Universidade Federal Fluminense ,Brazil,XL,FC,HI,4.0,A,8.9,3.2,10.9,3.6,6.0,1.6,54.5,7.5,
+Universidade Presbiteriana Mackenzie,Brazil,L,CO,MD,4.0,C,3.2,9.2,9.1,1.8,5.7,1.2,7.2,57.5,
+"Universita' degli Studi ""G. d'Annunzio"" Chieti Pescara",Italy,L,FO,VH,4.0,A,3.0,1.2,3.6,23.5,4.5,3.4,64.0,5.2,
+Università degli studi di Bergamo,Italy,L,FO,VH,3.0,A,4.7,2.4,3.2,5.2,19.8,7.5,19.6,4.9,
+Universitas Andalas,Indonesia,L,CO,HI,4.0,A,5.3,3.1,5.7,1.3,1.2,1.1,5.5,5.6,
+Universitas Muhammadiyah Surakarta,Indonesia,L,FO,HI,3.0,B,4.0,1.9,7.1,1.1,4.8,1.1,5.3,5.6,
+Universitas Sumatera Utara,Indonesia,XL,FC,HI,4.0,A,5.9,3.9,17.9,1.3,5.2,2.4,9.1,6.4,
+Universitatea de Vest din Timisoara / West University of Timisoara,Romania,L,FO,HI,4.0,A,8.8,6.2,5.3,2.8,1.8,5.8,22.0,16.9,
+Université de Caen Normandie,France,L,FC,HI,5.0,A,8.2,2.2,6.5,4.3,10.3,7.7,51.1,2.7,
+Université de Tunis,Tunisia,L,FO,VH,4.0,A,4.9,1.2,16.3,1.8,,,10.5,,
+Université de Tunis El Manar,Tunisia,L,FC,VH,2.0,A,6.2,1.4,16.9,4.3,6.9,2.3,79.5,19.7,
+Université Jean Moulin Lyon 3,France,L,SP,VH,5.0,A,7.9,4.5,1.9,2.0,28.6,31.4,5.3,4.4,
+Université Paris-Nanterre,France,XL,FO,VH,5.0,A,11.7,2.9,3.2,3.1,11.0,1.6,42.8,21.5,
+University of Babylon,Iraq,XL,FC,HI,3.0,A,3.3,5.0,13.8,1.9,1.1,1.0,15.1,42.9,
+University of Basrah,Iraq,XL,FC,MD,4.0,A,4.0,5.0,14.0,1.4,1.1,,17.4,41.4,
+University of Central Oklahoma,United States,L,CO,MD,,A,3.0,1.2,10.3,1.3,18.3,12.2,3.9,4.3,
+University of Colombo,Sri Lanka,L,CO,HI,5.0,A,10.2,8.6,3.4,2.9,1.2,1.2,14.7,69.6,
+University of Ghana,Ghana,XL,FC,HI,4.0,A,9.2,6.2,3.5,5.5,6.1,1.9,51.1,88.7,
+University of International Business and Economics,China (Mainland),L,FO,HI,4.0,A,3.2,1.8,11.1,2.4,8.3,35.2,8.6,15.7,
+University of Karachi,Pakistan,XL,CO,HI,4.0,A,10.3,15.7,1.6,4.4,4.2,1.1,36.4,13.6,
+University of Khartoum,Sudan,L,FC,MD,4.0,A,5.8,6.2,10.6,2.6,,1.7,34.2,,
+University of Kragujevac,Serbia,L,FO,VH,3.0,A,3.5,2.7,13.2,3.5,1.0,1.1,37.4,13.3,
+University of Memphis,United States,L,CO,VH,,A,3.0,6.2,14.3,10.5,3.1,3.3,41.4,10.6,
+University of Niš,Serbia,L,FC,HI,4.0,A,4.9,4.4,14.4,2.9,,7.0,50.6,12.1,
+University of North Carolina at Charlotte,United States,L,CO,VH,4.0,A,5.6,5.1,5.3,13.1,7.2,6.1,61.4,12.6,
+University of North Carolina at Greensboro,United States,L,CO,HI,5.0,A,3.2,5.2,8.9,10.9,8.1,2.6,40.2,4.0,
+University of Northern British Columbia,Canada,S,CO,,,A,3.4,15.1,3.0,,,,,12.8,
+University of Novi Sad,Serbia,XL,FC,HI,4.0,A,7.9,4.6,10.2,3.5,,,80.5,10.3,
+University of Rzeszów,Poland,L,FC,HI,3.0,A,3.9,1.1,19.4,2.4,,1.9,28.2,4.8,
+University of Sarajevo ,Bosnia and Herzegovina,XL,CO,HI,4.0,A,4.8,3.2,4.1,2.1,,3.3,38.9,,
+University of Silesia in Katowice,Poland,L,CO,VH,4.0,A,5.0,3.9,14.9,4.1,3.1,3.3,54.8,4.5,
+University of South Alabama (USA),United States,L,CO,HI,4.0,A,5.0,5.6,16.3,6.7,,2.0,19.7,4.3,
+University of Split,Croatia,L,FC,HI,3.0,A,5.4,2.1,3.7,3.9,1.6,2.5,42.7,67.1,
+University of Texas El Paso ,United States,L,FO,VH,5.0,A,4.6,2.4,5.4,17.2,8.5,6.7,45.4,4.8,
+University of West Bohemia ,Czech Republic,M,FO,VH,3.0,A,5.7,1.8,13.1,4.4,,,38.8,18.7,
+University POLITEHNICA of Bucharest,Romania,L,FO,VH,5.0,A,5.7,7.9,4.0,6.4,1.5,3.1,56.6,8.2,
+"University Politehnica of Timisoara, UPT",Romania,L,FO,VH,5.0,A,3.0,3.2,8.6,3.6,1.2,2.3,17.1,12.2,
+VSB - Technical University of Ostrava,Czech Republic,M,FO,VH,5.0,A,4.3,7.7,12.6,4.0,7.5,16.7,41.7,9.0,
+Western Washington University,United States,L,CO,HI,5.0,A,3.1,5.2,7.0,5.5,11.3,1.4,11.2,4.2,
+Yarmouk University,Jordan,XL,FC,MD,3.0,A,10.0,11.8,2.5,2.3,4.1,10.2,12.1,23.3,
+Youngsan University,South Korea,M,FO,MD,3.0,C,4.1,9.4,18.0,1.2,2.8,6.3,,5.1,
+Yuan Ze University,Taiwan,M,FO,VH,3.0,C,4.6,5.9,7.0,12.8,7.1,9.0,8.7,8.3,
+Zagazig University,Egypt,XL,FC,HI,3.0,A,5.0,3.1,3.2,2.3,1.2,2.1,46.3,4.8,
+Ataturk University,Turkey,XL,CO,HI,4.0,A,3.5,1.9,3.1,4.0,3.0,4.1,29.6,3.6,
+California State University Long Beach,United States,XL,CO,,4.0,A,3.3,4.2,7.6,,,,,9.6,
+Cukurova University,Turkey,XL,FC,MD,3.0,A,3.4,2.0,4.0,2.5,2.5,5.6,41.1,3.7,
+Damascus University,Syrian Arab Republic,XL,FC,MD,4.0,A,5.5,4.4,1.1,1.2,1.7,1.5,7.8,69.8,
+Erciyes Üniversitesi,Turkey,XL,FC,HI,3.0,A,2.9,2.0,2.1,4.9,4.4,6.2,38.1,3.6,
+Pontificia Universidade Católica do Minas Gerais - PUC Minas,Brazil,XL,FO,HI,4.0,C,3.7,4.6,1.9,1.5,,,5.4,8.7,
+Sakarya University,Turkey,XL,FC,MD,3.0,A,2.9,3.0,2.4,3.1,2.0,11.0,21.0,3.6,
+Sudan University of Science and Technology,Sudan,XL,CO,MD,3.0,A,3.3,2.8,4.0,1.2,2.0,1.6,7.7,,
+Universidad Autónoma de Guadalajara (UAG),Mexico,M,FC,LO,4.0,C,5.8,6.0,,,,,3.5,5.4,
+"Universidad Católica Boliviana ""San Pablo""",Bolivia,L,FO,LO,4.0,B,4.1,4.8,3.8,1.1,2.7,3.3,1.6,1.0,
+Universidad Católica de Santiago de Guayaquil,Ecuador,L,FO,MD,4.0,B,3.4,7.5,2.8,1.2,4.4,1.0,5.9,30.3,
+Universidad Católica de Temuco,Chile,M,CO,HI,4.0,B,3.1,1.4,2.1,4.1,,,10.6,4.6,
+Universidad de Tarapaca,Chile,M,FO,VH,3.0,A,3.3,3.0,1.9,6.3,,,30.2,4.9,
+Universidad Mayor de San Simón Cochabamba,Bolivia,XL,CO,LO,5.0,A,3.6,3.3,1.2,1.2,,,13.7,1.0,
+Universidad Michoacana de San Nicolás de Hidalgo,Mexico,XL,FC,MD,5.0,A,3.4,2.3,2.8,2.1,,,19.3,4.1,
+Universidad Nacional Autónoma de Honduras (UNAH),Honduras,XL,FC,LO,5.0,A,4.6,5.8,3.6,1.0,1.7,,8.1,,
+Universidad Tecnológica de Bolívar,Colombia,M,FO,HI,4.0,B,3.0,5.8,2.4,2.2,9.3,1.3,8.8,30.9,
+Université Mohammed V de Rabat,Morocco,XL,CO,VH,3.0,A,2.8,2.6,3.2,3.6,5.2,2.8,51.1,,
+University of Craiova,Romania,L,CO,HI,4.0,A,3.3,1.8,2.7,2.0,,,7.5,8.7,
+University of Oradea,Romania,L,FC,MD,4.0,A,4.0,2.1,3.3,1.5,1.7,7.9,16.6,9.7,
