@@ -19,13 +19,16 @@ df_sorted = df_dropped.sort_values(by="Global University Employability Rank 2020
 df_corrrect_index = df_sorted.set_index("Global University Employability Rank 2020")
 
 #Lists uni's per country
-df_grouped = df_corrrect_index.groupby(by="Country").value_counts()
+#df_grouped = df_corrrect_index.groupby(by="Country").value_counts()
 
-#print(df_grouped)   
+#List of country's
+df_grouped = df_corrrect_index.groupby(by="Country").count().value_counts()
+
+print(df_grouped)   
 
 #move data to new file
-move_to = "DATA1902\Selected\Employability\Cleaned_Employability.csv"
-df_corrrect_index.to_csv(move_to)
+#move_to = "DATA1902\Selected\Employability\Cleaned_Employability.csv"
+#df_corrrect_index.to_csv(move_to)
 
 
 
