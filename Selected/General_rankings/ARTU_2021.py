@@ -10,6 +10,6 @@ artu_ranks = df[["University Name", "Country",  "ARTU Rank"]]
 #print(artu_ranks.shape)
 artu_ranks.to_csv("ARTU/ARTU_Ranks.csv", index=False)
 
-df_grouped = df.groupby("Country")["ARTU Rank"].describe().sort_values("25%")
+df_grouped = df.groupby("Country")["ARTU Rank"].mean()
 #print(df_grouped.info())
 df_grouped.to_csv("ARTU/ARTU_Country.csv")
