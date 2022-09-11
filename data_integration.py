@@ -16,11 +16,12 @@ employability.replace({"US":"United States",
                      inplace=True)
 employability = employability.groupby("Country").min()
 
+academics = pd.read_csv("Selected/Academics/CWTS2020.csv")
+
 ## Combining Datasets
 combined = rankings.merge(expenditure, on="Country", how="left")
 combined = combined.merge(employability, on="Country", how="left")
-
-print(combined)
+combined = combined.merge(academics, on="Country", how="left")
 
 ## Writing Dataset
 combined.to_csv("integrated_dataset.csv", index=False)
