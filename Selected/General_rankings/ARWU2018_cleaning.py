@@ -16,5 +16,5 @@ df.to_csv("ARWU/arwu_cleaned.csv", index=False)
 
 df_2018 = df[df["Year"] == 2018].drop("Year", axis=1)
 print(df_2018)
-df.to_csv("ARWU/arwu2018.csv", index=False)
+df_2018.to_csv("ARWU/arwu2018.csv", index=False)
 
