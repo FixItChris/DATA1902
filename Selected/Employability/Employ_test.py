@@ -1,9 +1,10 @@
 #The purpose of this code is to remove the row's with invalid rows, and we remove universityies and remove 2020 data.
+import os
 import numpy as np
 import pandas as pd
 
 #read data
-xlsx = pd.ExcelFile("DATA1902\Selected\Employability\Times_Higher_Education_Employability.xlsx")
+xlsx = pd.ExcelFile(os.path.abspath("Times_Higher_Education_Employability.xlsx"))
 df = pd.read_excel(xlsx, "Sheet1")
 
 #Used to remove in specified columns
@@ -13,6 +14,7 @@ df_dropped = df.drop(columns=["University","Global University Employability Rank
 df_dropped.replace('(-)', np.NaN, inplace = True)
 
 df_dropped.dropna(how="any",inplace=True)
+df_dropped["Global University Employability Rank 2020"] = df_dropped["Global University Employability Rank 2020"].astype(int)
 
 #sort uni's country by 2020 rankings.
 df_sorted = df_dropped.sort_values(by="Global University Employability Rank 2020",ascending=True)
@@ -28,7 +30,7 @@ df_corrrect_index = df_sorted.set_index("Global University Employability Rank 20
 
 #move data to new file
 move_to = "DATA1902\Selected\Employability\Cleaned_Employability.csv"
-df_corrrect_index.to_csv(move_to)
+df_corrrect_index.to_csv("Cleaned_Employability.csv")
 
 
 
