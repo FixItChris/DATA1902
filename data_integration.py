@@ -14,7 +14,7 @@ employability = pd.read_csv("Selected/Employability/Cleaned_Employability.csv")
 employability.replace({"US":"United States",
                      "UK":"United Kingdom"}, 
                      inplace=True)
-employability = employability.groupby("Country").median()
+employability = employability.groupby("Country").min()
 
 ## Combining Datasets
 combined = rankings.merge(expenditure, on="Country", how="left")
