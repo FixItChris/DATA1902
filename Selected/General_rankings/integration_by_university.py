@@ -20,5 +20,4 @@ combined = combined.merge(arwu2018, how="left", left_on="institution", right_on=
             suffixes=["", "_2018"]).drop(["University","Country"], axis=1)
 
 # Writing Dataset:
-print(combined)
 combined.to_csv("university_rankings.csv", index=False)
