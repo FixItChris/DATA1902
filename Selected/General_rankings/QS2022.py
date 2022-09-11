@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 ## Importing / Removing unwanted columns
-df = pd.read_excel(os.path.abspath("QS/QS2022.xlsx"), header=3, index_col=2)
+df = pd.read_excel(os.path.abspath("QS/QS2022_original.xlsx"), header=3, index_col=2)
 df_dropped = df.drop(columns=['rank in country', 'rank in subregion', 'rank display2',
         'country code', 'ar rank', 'er rank', 'fsr rank', 'cpf rank', 'ifr rank', 'isr rank'])
 
