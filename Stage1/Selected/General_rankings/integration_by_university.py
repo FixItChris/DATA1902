@@ -4,7 +4,7 @@ import numpy as np
 
 ## Creating by university (extra analysis)
 # Reading Datasets:
-qs2023 = pd.read_csv("QS/QS2023_cleaned.csv").drop(["size", "focus", "research", "age band", "status"],axis=1)
+qs2023 = pd.read_csv("QS/QS2023_cleaned.csv")
 qs2022 = pd.read_csv("QS/QS2022_cleaned.csv").drop(["size", "focus", "research", "age band", "status"],axis=1)
 artu2021 = pd.read_csv("ARTU/ARTU_Ranks.csv")
 the2020 = pd.read_csv("THE/THE2020_bysubject_uni.csv")
