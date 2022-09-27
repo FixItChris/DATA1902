@@ -9,7 +9,6 @@ location against their relative prestige/notoriety as determined by their rankin
 '''
 import pandas as pd
 
-
 ## Reading the file
 df = pd.read_csv("university_rankings.csv")
 
@@ -47,25 +46,30 @@ df_cleaned["age band"].replace({1:"1-9 Years", 2:"10-24 Years", 3:"25-49 Years",
                                 4:"50-99 Years", 5:"100+ Years"}, inplace=True)
 
 
+## Writing cleaned file
+df_cleaned.to_csv("university_rankings_cleaned.csv", index=False)
+
+
 ## Creating aggregates
 # Overall aggregate
-#print(df_cleaned.mean(numeric_only=True))
+print(df_cleaned.mean(numeric_only=True))
 
 
 # Grouped by country - Must have at least 5 universities to be counted
-'''selected = df_cleaned["location"].value_counts()
+selected = df_cleaned["location"].value_counts()
 print(selected)
 df_country = df_cleaned.groupby("location")
-print(df_country.mean().loc[selected >= 5])'''
+print(df_country.mean().loc[selected >= 5])
+df_country.mean().to_csv("country_rankings.csv")
 
 
 # Grouped by size
-'''print(df_cleaned["size"].value_counts())
+print(df_cleaned["size"].value_counts())
 df_size = df_cleaned.groupby("size")
-print(df_size.mean())'''
+print(df_size.mean())
 
 
 # Grouped by age
-'''print(df_cleaned["age band"].value_counts())
+print(df_cleaned["age band"].value_counts())
 df_age = df_cleaned.groupby("age band")
-print(df_age.mean())'''
+print(df_age.mean())
