@@ -42,6 +42,10 @@ df_cleaned["size"] = df_cleaned["size"].astype("category")
 df_cleaned["size"] = df_cleaned["size"].cat.set_categories(["S","M","L","XL"], ordered=True)
 
 
+# Renaming age bins
+df_cleaned["age band"].replace({1:"1-9 Years", 2:"10-24 Years", 3:"25-49 Years", 
+                                4:"50-99 Years", 5:"100+ Years"}, inplace=True)
+
 
 ## Creating aggregates
 # Overall aggregate
@@ -56,9 +60,9 @@ print(df_country.mean().loc[selected >= 5])'''
 
 
 # Grouped by size
-print(df_cleaned["size"].value_counts())
+'''print(df_cleaned["size"].value_counts())
 df_size = df_cleaned.groupby("size")
-print(df_size.mean())
+print(df_size.mean())'''
 
 
 # Grouped by age
