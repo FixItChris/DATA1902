@@ -45,31 +45,38 @@ df_cleaned["size"] = df_cleaned["size"].cat.set_categories(["S","M","L","XL"], o
 df_cleaned["age band"].replace({1:"1-9 Years", 2:"10-24 Years", 3:"25-49 Years", 
                                 4:"50-99 Years", 5:"100+ Years"}, inplace=True)
 
-
 ## Writing cleaned file
 df_cleaned.to_csv("university_rankings_cleaned.csv", index=False)
 
 
 ## Creating aggregates
 # Overall aggregate
-print(df_cleaned.mean(numeric_only=True))
+overall_aggregate = df_cleaned.mean(numeric_only=True)
+overall_aggregate.to_csv("overall_aggregate.csv")
+#print(overall_aggregate)
 
 
-# Grouped by country - Must have at least 5 universities to be counted
-selected = df_cleaned["location"].value_counts()
-print(selected)
-df_country = df_cleaned.groupby("location")
-print(df_country.mean().loc[selected >= 5])
-df_country.mean().to_csv("country_rankings.csv")
+# Grouped-aggregate 1 - Most prominant countries featured in QS2023 top 500
+country_counts = df_cleaned.dropna(subset="QS2023 Score")["location"].value_counts()
+country_counts.to_csv("country_counts.csv")
+#print(country_counts)
 
 
-# Grouped by size
-print(df_cleaned["size"].value_counts())
-df_size = df_cleaned.groupby("size")
-print(df_size.mean())
+# Grouped-aggregate 2 - University age distribution and mean academic reputation
+age_counts = df_cleaned["age band"].value_counts()
+age_counts.to_csv("age_counts.csv")
+#print(age_counts)
+
+reputation_age = df_cleaned.groupby("age band").mean()["QS2023 Academic Reputation"]
+reputation_age.to_csv("academic_reputation_by_age.csv")
+#print(reputation_age)
 
 
-# Grouped by age
-print(df_cleaned["age band"].value_counts())
-df_age = df_cleaned.groupby("age band")
-print(df_age.mean())
+# Extra Grouped-aggregate - University size distribution and mean employer reputation
+size_counts = df_cleaned["size"].value_counts()
+size_counts.to_csv("size_counts.csv")
+#print(size_counts)
+
+reputation_size = df_cleaned.groupby("size").mean()["QS2023 Employer Reputation"]
+reputation_size.to_csv("employer_reputation_by_size.csv")
+#print(reputation_size)
