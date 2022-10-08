@@ -33,9 +33,11 @@ sns.set_palette("deep")
 
 
 ## Chart 1 - ARWU2018 PCP vs QS2023 Overall Score, coloured by university age, sized by no. students
-sns.jointplot(df_cleaned, x="QS2023 Score", y="ARWU2018 Academic Performance per Capita", hue="age band",
+c1 = sns.jointplot(df_cleaned, x="QS2023 Score", y="ARWU2018 Academic Performance per Capita", hue="age band",
         joint_kws={"alpha":0.75, "size":df_cleaned["size"], "sizes":[12.5, 42.5, 105, 150]},
         xlim=(0,100), ylim=(0,100), palette="CMRmap_r")
+c1.fig.subplots_adjust(top=0.9)
+c1.fig.suptitle("ARWU2018 Academic Performance vs QS2023 Score")
 
 
 
@@ -46,16 +48,25 @@ df_country = df_cleaned.groupby("location").mean().dropna().loc[country_counts >
 
 # Converting dataframe into wide form
 df_country_long = pd.melt(df_country.reset_index(), id_vars=["location"], value_vars=["QS2023 Academic Reputation", "QS2023 Employer Reputation"])
+df_country_long["Mean Score (/100)"] = df_country_long["value"]
+df_country_long["Score"] = df_country_long["variable"]
 
 # Graphing
-sns.catplot(df_country_long, x="location", y="value", hue="variable", kind="bar")
+c2 = sns.catplot(df_country_long,x="location",y="Mean Score (/100)",hue="variable",kind="bar",legend_out=False)
+c2._legend.set_title(None)
+c2.fig.subplots_adjust(top=0.9)
+c2.fig.suptitle("QS2023 Academic & Employer Reputation by Country")
 
 
-
-## Chart 3 - Mean THE2020 score vs QS2023 Academic Reputation, coloured by ???
+## Chart 3 (extra) - Mean THE2020 score vs QS2023 Academic Reputation, coloured by age
 # Creating new column
-df_cleaned["Mean THE2020 Score"] = (df_cleaned["THE2020 Medicine"] + df_cleaned["THE2020 Engineering"] + df_cleaned["THE2020 Law"])/3
+df_cleaned["Mean THE2020 Score"] = (df_cleaned["THE2020 Medicine"] + df_cleaned["THE2020 Engineering"]
+                                    + df_cleaned["THE2020 Law"])/3
 
 # Graphing
-sns.relplot(df_cleaned, x="Mean THE2020 Score", y="ARWU2018 Academic Performance per Capita", hue="age band", kind="scatter")
-plt.show()
+sns.relplot(df_cleaned, x="Mean THE2020 Score", y="ARWU2018 Academic Performance per Capita", 
+            hue="age band", kind="scatter")
+
+
+## Showing the charts
+#plt.show()
