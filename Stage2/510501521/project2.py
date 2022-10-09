@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 ## Importing / Removing unwanted columns, and producing an extracted dataset 
-df = pd.read_excel("/Users/johnnyc/Desktop/Project 2/QS2023.xlsx", header=3, index_col=0)
+df = pd.read_excel("QS2023.xlsx", header=3, index_col=0)
 df1 = df[['location code','size','ar score','isr score']]
 
 #Grouped aggregate 1: How great is the impact of the university size in terms of the academic performance of a university?

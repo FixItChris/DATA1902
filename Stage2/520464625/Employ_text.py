@@ -24,7 +24,7 @@ fig = plt.figure(figsize =(10, 7))
 ax = fig.add_subplot(111)
 
 #Stage 1
-xlsx = pd.ExcelFile(os.path.abspath("Selected/Employability/Times_Higher_Education_Employability.xlsx"))
+xlsx = pd.ExcelFile(os.path.abspath("Times_Higher_Education_Employability.xlsx"))
 df = pd.read_excel(xlsx, "Sheet1")
 df_dropped = df.drop(columns=["University","Global University Employability Rank 2021"])
 df_dropped.replace('(-)', np.NaN, inplace = True)
@@ -32,11 +32,11 @@ df_dropped.dropna(how="any",inplace=True)
 df_dropped["Global University Employability Rank 2020"] = df_dropped["Global University Employability Rank 2020"].astype(int)
 df_sorted = df_dropped.sort_values(by="Global University Employability Rank 2020",ascending=True)
 df_corrrect_index = df_sorted.set_index("Global University Employability Rank 2020")
-move_to = "Selected/Employability/Cleaned_Employability.csv"
+move_to = "Cleaned_Employability.csv"
 df_corrrect_index.to_csv("Cleaned_Employability.csv")
 
 #stage 2
-employability_rank = pd.read_csv("Selected/Employability/Cleaned_Employability.csv")
+employability_rank = pd.read_csv("Cleaned_Employability.csv")
 employability_rank.replace({"US":"United States",
                      "UK":"United Kingdom"}, 
                      inplace=True)

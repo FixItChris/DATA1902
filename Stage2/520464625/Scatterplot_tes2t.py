@@ -13,7 +13,7 @@ import seaborn as sns
 import matplotlib.cm as cm
 
 #read data
-xlsx = pd.ExcelFile(os.path.abspath("DATA1902\Selected\Employability\Times_Higher_Education_Employability.xlsx"))
+xlsx = pd.ExcelFile(os.path.abspath("Times_Higher_Education_Employability.xlsx"))
 df = pd.read_excel(xlsx, "Sheet1")
 
 #Used to remove in specified columns
@@ -38,11 +38,11 @@ df_corrrect_index = df_sorted.set_index("Global University Employability Rank 20
 #print(df_grouped)   
 
 #move data to new file
-move_to = "DATA1902\Selected\Employability\Cleaned_Employability.csv"
+move_to = "Cleaned_Employability.csv"
 df_corrrect_index.to_csv("Cleaned_Employability.csv")
 
 
-employability_rank = pd.read_csv("DATA1902\Selected\Employability\Cleaned_Employability.csv")
+employability_rank = pd.read_csv("Cleaned_Employability.csv")
 employability_rank.replace({"US":"United States",
                      "UK":"United Kingdom"}, 
                      inplace=True)
@@ -56,7 +56,7 @@ num_uni_per_country = employability_score["Country"].value_counts()
 df_country = employability_score.groupby("Country")
 monke = df_country.mean().loc[num_uni_per_country >= 9]
 mean_score_country = monke.reset_index()
-move_to = "DATA1902\Selected\Employability\Average_score.xlsx"
+move_to = "Average_score.xlsx"
 monke.to_excel(move_to)
 
 #print(mean_score_country.to_string())
