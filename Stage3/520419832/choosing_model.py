@@ -14,7 +14,6 @@ y = df["THE2020 Overall Score"]
 
 # Parameter grid
 param_grid = {
-    "bootstrap": [True],
     "max_depth": [60, 70, 80, 90, 100],
     "max_features": [2, 3, 4, 5],
     "min_samples_leaf": [2, 3, 4, 5],
