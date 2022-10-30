@@ -24,7 +24,7 @@ param_grid = {'learning_rate': [0.1, 0.2, 0.3,0.4,0.5],
               'min_samples_split': [2,3,4,5,6],
               'min_samples_leaf': [1,2,3,4],
               'alpha' :[0.7,0.8,0.9],
-              'max_depth':[3]                
+              'max_depth':[1,2,3,5,10,20,30,60,70,80,90]                
              }
 
 gbt = GradientBoostingRegressor()
