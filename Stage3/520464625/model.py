@@ -10,7 +10,7 @@ from sklearn.inspection import permutation_importance
 
 rankings = pd.read_csv("Stage3/520464625/integrated_dataset.csv")
 #do not drop QS2023 Academic Reputation QS2023 Citations per Faculty
-rankings_restricted = rankings.dropna()
+rankings_restricted = rankings.dropna() 
 x = rankings_restricted[["QS2023 Academic Reputation",
                         "QS2023 Citations per Faculty",
                         "QS2023 International Student Ratio",
@@ -43,6 +43,7 @@ reg = GradientBoostingRegressor(
 reg.fit(X_train, y_train)
 y_pred = reg.predict(X_test)
 print(reg.predict(X_test))
+print(reg.score(X_train, y_train))
 print(reg.score(X_test, y_test))
 
 mse = mean_squared_error(y_test, y_pred)
