@@ -3,7 +3,7 @@ from math import sqrt
 from sklearn import linear_model
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
-df = pd.read_csv('integrated_dataset.csv').dropna()
+df = pd.read_csv('../integrated_dataset.csv').dropna()
 
 # Making our predictive model (named as 'regression_model' <- this is the model)
 x = df[['QS2023 Academic Reputation','QS2023 Citations per Faculty']] 
