@@ -30,10 +30,10 @@ param_grid = {
 }
 
 ## Dividing the dataset into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state = 42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
 
 ## Running the 5-fold GridSearchCV
-rf = RandomForestRegressor()
+rf = RandomForestRegressor(random_state=42)
 grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1, verbose=10)
 grid_search.fit(X_train, y_train)
 
