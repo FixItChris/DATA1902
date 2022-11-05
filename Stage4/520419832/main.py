@@ -9,7 +9,6 @@ variables.
 
 '''
 import pandas as pd
-import numpy as np
 from bokeh.layouts import column, row
 from bokeh.plotting import figure, curdoc
 from bokeh.models import ColumnDataSource, Select
