@@ -1,0 +1,408 @@
+Country,Year,Expenditure (constant US$ millions)
+Italy,2015,14587.88118
+Italy,2016,14226.4794
+Italy,2017,14903.2685
+Italy,2018,15493.86388
+Burkina Faso,2015,63.93385
+Burkina Faso,2016,204.92641
+Nepal,2015,95.13757
+Romania,2015,1344.56955
+Romania,2016,1515.69764
+Romania,2017,1643.27398
+Romania,2018,1804.24811
+Dominica,2015,1.74959
+Latvia,2015,355.23719
+Latvia,2016,232.80498
+Latvia,2017,222.13041
+Latvia,2018,246.14396
+Israel,2015,3218.74653
+Israel,2016,3135.92582
+Israel,2017,3311.88689
+Israel,2018,3219.30537
+Mauritius,2015,40.64015
+Mauritius,2016,40.38943
+Mauritius,2017,38.76806
+Mauritius,2018,42.45106
+Mauritius,2019,47.11443
+Mauritius,2020,47.99508
+Sweden,2015,9095.67466
+Sweden,2016,9186.61005
+Sweden,2017,9216.70459
+Sweden,2018,9371.22195
+Croatia,2017,496.62024
+Croatia,2018,514.66623
+Denmark,2017,8120.52755
+Denmark,2018,7475.98807
+Maldives,2015,23.69121
+Maldives,2016,38.20473
+New Zealand,2015,2983.2866
+New Zealand,2016,2911.73552
+New Zealand,2017,2960.98265
+New Zealand,2018,3176.11128
+Barbados,2016,74.61191
+Barbados,2017,63.45631
+Barbados,2019,15.09617
+Barbados,2020,11.70773
+Armenia,2015,39.76943
+Armenia,2016,40.69854
+Armenia,2017,42.32526
+Armenia,2020,38.80025
+Uruguay,2015,724.29643
+Uruguay,2016,657.42602
+Uruguay,2017,666.45459
+Uruguay,2018,696.43801
+Uruguay,2019,665.24417
+South Africa,2015,2659.83489
+South Africa,2016,2426.90665
+South Africa,2017,3170.71368
+South Africa,2018,3433.78918
+South Africa,2019,4176.40431
+South Africa,2020,4701.33726
+Iran (Islamic Republic of),2015,2218.29498
+Iran (Islamic Republic of),2016,2672.64093
+Iran (Islamic Republic of),2017,3734.03602
+Iran (Islamic Republic of),2018,3498.72639
+Iran (Islamic Republic of),2019,2893.98105
+Iran (Islamic Republic of),2020,2598.2908
+Turkmenistan,2019,163.42857
+Belgium,2015,7140.03528
+Belgium,2016,7292.83053
+Belgium,2017,7484.0345
+Belgium,2018,7805.06808
+Kazakhstan,2015,675.06375
+Kazakhstan,2016,556.31985
+Kazakhstan,2017,485.18501
+Kazakhstan,2018,426.64463
+Kazakhstan,2019,564.27237
+Georgia,2016,60.34039
+Georgia,2017,57.2008
+Georgia,2018,68.62306
+Slovenia,2015,453.20916
+Slovenia,2016,453.57077
+Slovenia,2017,475.10722
+Slovenia,2018,531.27808
+Luxembourg,2015,309.23484
+Luxembourg,2017,299.42687
+Luxembourg,2018,270.99392
+Portugal,2015,1924.43914
+Portugal,2017,1820.02006
+Portugal,2018,1820.10746
+Lithuania,2015,554.04674
+Lithuania,2016,396.32179
+Lithuania,2017,378.59691
+Lithuania,2018,413.40774
+Iceland,2015,294.23881
+Iceland,2016,328.63081
+Iceland,2017,315.11141
+Iceland,2018,298.69047
+Andorra,2015,5.2537
+Andorra,2016,5.78958
+Andorra,2017,5.55824
+Andorra,2018,5.66432
+Andorra,2019,4.19471
+Sri Lanka,2015,317.47718
+Sri Lanka,2016,321.10297
+Sri Lanka,2017,288.63967
+Sri Lanka,2018,363.80923
+Brunei Darussalam,2016,114.74183
+Democratic Republic of the Congo,2015,202.70648
+Niger,2015,62.05394
+Niger,2016,68.83217
+Niger,2017,68.18841
+Niger,2018,80.54006
+Paraguay,2016,281.92359
+Paraguay,2020,286.50451
+Comoros,2015,2.79353
+Turks and Caicos Islands,2015,6.2804
+Turks and Caicos Islands,2018,7.06772
+Costa Rica,2015,860.56627
+Costa Rica,2016,927.70525
+Costa Rica,2017,1020.46436
+Costa Rica,2018,981.437
+Costa Rica,2019,969.74602
+Costa Rica,2020,890.02797
+Kenya,2015,476.6782
+Albania,2015,98.33217
+Albania,2016,105.69344
+Albania,2017,98.70944
+Albania,2019,113.03276
+Malawi,2015,117.29328
+Malawi,2016,97.43775
+Saint Kitts and Nevis,2015,3.83959
+Mexico,2015,13334.80565
+Mexico,2016,12611.40188
+Mexico,2017,11327.06492
+Mexico,2018,11753.63763
+Senegal,2015,322.35545
+Senegal,2016,280.90579
+Senegal,2018,356.16583
+Japan,2016,30457.6789
+Japan,2017,30844.63671
+Japan,2018,31428.36222
+Russian Federation,2015,12781.37539
+Russian Federation,2016,12837.33374
+Russian Federation,2017,12506.51923
+Russian Federation,2018,11922.72076
+Chile,2015,3246.69517
+Chile,2016,3578.02292
+Chile,2017,3652.17413
+Chile,2018,3793.03305
+India,2015,25527.37881
+India,2016,26999.12156
+India,2017,34239.01724
+India,2018,36111.43931
+India,2019,38538.27019
+India,2020,41670.55534
+Ukraine,2016,2147.93554
+Ukraine,2017,1950.56791
+Ukraine,2018,1923.37343
+Ukraine,2019,2069.80638
+Togo,2015,52.40999
+Togo,2016,41.32005
+Togo,2017,43.51271
+Jamaica,2015,141.72006
+Jamaica,2016,146.08757
+Jamaica,2017,154.84023
+Jamaica,2018,163.78357
+Jamaica,2019,144.70705
+Trinidad and Tobago,2020,280.20058
+Gambia,2015,3.64607
+Australia,2015,19339.40168
+Australia,2016,18368.39892
+Australia,2017,17094.63405
+Australia,2018,16031.0213
+United Kingdom of Great Britain and Northern Ireland,2015,33502.36065
+United Kingdom of Great Britain and Northern Ireland,2016,37620.74443
+United Kingdom of Great Britain and Northern Ireland,2017,40076.69735
+United Kingdom of Great Britain and Northern Ireland,2018,40866.74568
+Norway,2015,7539.16802
+Norway,2016,8340.07508
+Norway,2017,8394.4298
+Norway,2018,8348.33361
+Germany,2015,45555.48514
+Germany,2016,46616.21628
+Germany,2017,47319.77531
+Germany,2018,48728.84314
+Mali,2015,111.57561
+Mali,2016,100.63692
+Mali,2017,103.17312
+Sierra Leone,2016,57.33208
+Sierra Leone,2017,102.9769
+Sierra Leone,2018,125.49015
+Sierra Leone,2019,122.04243
+Sierra Leone,2020,142.90522
+Belize,2015,14.46479
+Belize,2016,13.4237
+Belize,2017,12.90375
+Belize,2018,13.11056
+Belize,2019,13.53649
+El Salvador,2015,75.27142
+El Salvador,2016,77.0174
+El Salvador,2017,89.53582
+El Salvador,2018,86.87604
+El Salvador,2019,90.46801
+Republic of Korea,2015,13183.88671
+Republic of Korea,2016,13480.24867
+Republic of Korea,2017,13290.80657
+Republic of Korea,2018,14055.59067
+Cabo Verde,2015,16.03426
+Cabo Verde,2016,16.1428
+Cabo Verde,2017,15.94593
+Cabo Verde,2019,9.3882
+Serbia,2015,510.6651
+Serbia,2016,486.24095
+Serbia,2017,524.70733
+Serbia,2018,488.22346
+Serbia,2019,535.63854
+Indonesia,2015,5198.4108
+Kyrgyzstan,2016,15.53613
+Kyrgyzstan,2017,14.93212
+"China, Macao Special Administrative Region",2015,616.89848
+"China, Macao Special Administrative Region",2016,588.69165
+"China, Macao Special Administrative Region",2017,534.37045
+"China, Macao Special Administrative Region",2018,594.51453
+"China, Macao Special Administrative Region",2019,674.07339
+Tunisia,2015,579.23582
+Canada,2015,26097.06935
+Canada,2016,26075.99117
+Canada,2017,26985.59448
+Canada,2018,27423.89766
+Benin,2015,81.23004
+United States of America,2015,254722.32603
+United States of America,2016,232561.23269
+United States of America,2017,285123.03906
+United States of America,2018,255126.81447
+Brazil,2015,24855.10191
+Brazil,2016,24865.68946
+Brazil,2017,27652.8573
+Brazil,2018,25488.89488
+Greece,2015,1432.43674
+Greece,2017,1251.8889
+Greece,2018,1348.03173
+Singapore,2016,3326.34268
+Singapore,2017,2841.06401
+Singapore,2018,3157.95579
+Singapore,2019,2969.04489
+Slovakia,2015,1293.49981
+Slovakia,2016,799.94511
+Slovakia,2017,777.67958
+Slovakia,2018,777.04031
+Ireland,2015,2754.18489
+Ireland,2016,2346.88823
+Ireland,2017,3397.67484
+Ireland,2018,3479.40843
+Honduras,2015,188.4166
+Guatemala,2015,283.3065
+Guatemala,2016,300.21701
+Guatemala,2017,279.9403
+Guatemala,2018,323.21776
+Guatemala,2019,331.1145
+Guatemala,2020,294.94448
+Peru,2015,1287.92993
+Peru,2016,1357.85921
+Peru,2017,1408.98343
+Peru,2018,1309.434
+Peru,2019,1579.81726
+Peru,2020,1473.57016
+Chad,2018,25.38948
+Chad,2020,52.19482
+Oman,2016,979.85624
+Switzerland,2015,8789.53496
+Switzerland,2016,8859.13244
+Switzerland,2017,9210.61427
+Switzerland,2018,9350.37791
+Côte d'Ivoire,2015,335.70596
+Côte d'Ivoire,2016,417.71483
+Côte d'Ivoire,2017,510.49286
+Côte d'Ivoire,2018,250.44896
+Finland,2015,4639.99584
+Finland,2016,4621.11378
+Finland,2017,4331.33933
+Finland,2018,4080.04121
+Mongolia,2015,56.30239
+Mongolia,2016,67.15296
+Mongolia,2017,32.55866
+Malaysia,2016,3504.12875
+Malaysia,2017,3274.08461
+Malaysia,2018,3343.81241
+Malaysia,2019,3452.23633
+Malaysia,2020,2066.19325
+Estonia,2015,365.09825
+Estonia,2016,378.643
+Estonia,2017,324.94481
+Estonia,2018,352.05769
+Belarus,2015,494.29691
+Belarus,2016,478.35073
+Belarus,2017,486.57496
+Belarus,2019,523.75578
+Belarus,2020,530.05874
+Argentina,2015,5580.64972
+Argentina,2016,5203.42114
+Argentina,2017,5704.62579
+Argentina,2018,5151.58676
+Argentina,2019,4376.94297
+Guinea,2015,96.88977
+Guinea,2016,101.77791
+Guinea,2017,102.37138
+Guinea,2018,52.75564
+Rwanda,2015,56.34168
+Rwanda,2018,54.0972
+Ecuador,2015,2295.71526
+Ecuador,2019,1274.34557
+Ecuador,2020,1136.57772
+Lesotho,2018,13.73646
+"China, Hong Kong Special Administrative Region",2015,3119.95928
+"China, Hong Kong Special Administrative Region",2016,3323.76551
+"China, Hong Kong Special Administrative Region",2017,3195.92511
+"China, Hong Kong Special Administrative Region",2018,3437.88398
+"China, Hong Kong Special Administrative Region",2019,4802.7046
+"China, Hong Kong Special Administrative Region",2020,6519.46807
+Pakistan,2015,1538.61967
+Pakistan,2016,1646.45545
+Pakistan,2017,1805.19586
+Turkey,2018,11251.72921
+Jordan,2016,184.5028
+Jordan,2017,171.57523
+Jordan,2018,116.83244
+Jordan,2019,113.69437
+Austria,2015,7303.70491
+Austria,2016,7447.24679
+Austria,2017,7322.27702
+Austria,2018,7447.18048
+Cyprus,2015,269.05541
+Cyprus,2016,279.27944
+Cyprus,2017,265.9776
+France,2017,32260.56827
+France,2018,32897.84815
+Poland,2015,6087.558
+Poland,2016,5464.58323
+Poland,2017,5823.14884
+Poland,2018,6042.84411
+Zambia,2015,112.53732
+Zambia,2016,98.651
+Zambia,2017,73.44538
+Seychelles,2016,14.03643
+Azerbaijan,2015,180.40921
+Azerbaijan,2016,229.20272
+Azerbaijan,2017,187.88604
+Azerbaijan,2018,211.38785
+Azerbaijan,2019,225.72959
+Ethiopia,2015,1351.33788
+Malta,2015,154.99876
+Malta,2016,173.70006
+Malta,2017,166.10513
+Bulgaria,2017,520.51989
+Vanuatu,2019,1.50322
+Vanuatu,2020,2.5994
+Tajikistan,2015,30.99718
+Colombia,2015,2820.40989
+Colombia,2016,3098.79036
+Colombia,2017,3114.76024
+Colombia,2018,3248.3248
+Colombia,2019,2385.55087
+Colombia,2020,2406.30502
+Spain,2015,12050.9814
+Spain,2016,11934.6102
+Spain,2017,12464.35875
+Spain,2018,12617.91074
+Afghanistan,2015,88.47385
+Czechia,2015,1688.18144
+Czechia,2016,1579.63042
+Czechia,2017,1652.18486
+Czechia,2018,2263.27916
+Republic of Moldova,2016,96.19479
+Republic of Moldova,2017,91.66158
+Republic of Moldova,2018,74.73794
+Republic of Moldova,2019,114.69464
+Republic of Moldova,2020,101.80559
+Hungary,2015,897.37809
+Hungary,2016,1056.35156
+Hungary,2017,1175.74846
+Hungary,2018,1265.36879
+Mauritania,2015,24.78714
+Mauritania,2016,23.15041
+Mauritania,2019,26.73104
+Mauritania,2020,27.04397
+Netherlands,2015,13361.53536
+Netherlands,2016,14825.63224
+Netherlands,2017,13848.85572
+Netherlands,2018,15235.59105
+Bangladesh,2016,1235.34509
+Bangladesh,2019,1250.8509
+Bangladesh,2020,1219.99068
+Myanmar,2017,156.58376
+Myanmar,2018,201.17054
+Myanmar,2019,215.05658
+San Marino,2017,3.57804
+San Marino,2018,3.69356
+San Marino,2019,3.60266
+Grenada,2017,4.97482
+Samoa,2016,2.90999
+Bermuda,2017,15.75937
+Bosnia and Herzegovina,2016,137.59959
+Bosnia and Herzegovina,2018,146.13415
+Marshall Islands,2019,0.49651
+United Arab Emirates,2019,2970.62727
+United Arab Emirates,2020,2459.5501
+Uzbekistan,2018,375.83467
+Uzbekistan,2020,172.07157
