@@ -11,7 +11,7 @@ output_file("520464625.html")
 
 
 #Gathering my data
-rankings = pd.read_csv("Stage3/520464625/integrated_dataset.csv")
+rankings = pd.read_csv("integrated_dataset.csv")
 #Important to make the lists/series/array the same size
 rankings_restricted = rankings.dropna()
 #I was unsure which data to takeout, and this system makes sure I can easily change the column extracted.
