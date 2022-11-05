@@ -6,3 +6,5 @@ Thus, to run CMOR5434's visualisation, the user needs to call
 bokeh serve 520419832.py
 
 from within the 520419832 folder and leave it running for the duration of viewing the website.
+
+The remaining html files do not use this and can be accessed by clicking on the links from the homepage.
