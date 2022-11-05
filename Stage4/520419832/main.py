@@ -11,8 +11,8 @@ variables.
 import pandas as pd
 import numpy as np
 from bokeh.layouts import column, row
-from bokeh.plotting import figure, show, curdoc
-from bokeh.models import ColumnDataSource, Select, CustomJS, Div
+from bokeh.plotting import figure, curdoc
+from bokeh.models import ColumnDataSource, Select, CustomJS, Button 
 from bokeh.palettes import Spectral5
 from bokeh.transform import factor_cmap
 
@@ -33,9 +33,7 @@ categorical_cols.remove("location")
 numerical_cols = [x for x in cols if df[x].dtype == "float64"]
 
 # Possible colours and sizes to use UPDATE
-SIZES = list(range(6, 22, 3))
 COLORS = Spectral5
-N_SIZES = len(SIZES)
 N_COLORS = len(COLORS)
 
 TOOLTIPS = [
@@ -69,14 +67,8 @@ def create_figure():
         p.xaxis.major_label_orientation = np.pi / 4
     
     # Update colours
-    c = "#31AADE"
     if color.value != 'None':
         colors = factor_cmap(color.value, palette=Spectral5, factors=df[color.value].unique())
-        '''if len(set(df[color.value])) > N_COLORS:
-            groups = pd.qcut(df[color.value].values, N_COLORS, duplicates='drop')
-        else:
-            groups = pd.Categorical(df[color.value])
-        c = [COLORS[xx] for xx in groups.codes]'''
     
     # Draw points
     if color.value != 'None':
@@ -103,7 +95,6 @@ y.on_change('value', update_figure)
 
 color = Select(title='Color', value='None', options=['None'] + categorical_cols)
 color.on_change('value', update_figure)
-
 
 # Placement of bokeh controls
 controls = row(x, y, color, width=200)
