@@ -3,11 +3,11 @@ Production of Interactive Visualisation
 SID: 520419832
 
 This code is uses the bokeh library to develop and generate the interactive visualisation required for 
-Stage 4 of the group project. The graph itself will compare the QS2023 overall scores against their
-corresponding THE2020 overall scores, allowing the user to subset the data with other categorical
-variables.
+Stage 4 of the group project. The graph itself allows the user to compare various QS2023 scores against
+THE2020 scores, as well as using colour to encode other categorical variables.
 
 '''
+## Imports
 import pandas as pd
 from bokeh.layouts import column, row
 from bokeh.plotting import figure, curdoc
@@ -23,16 +23,14 @@ df["QS2023 Overall Score"] = round(df["QS2023 Academic Reputation"]*0.4 + df["QS
 
 df["QS2023 Overall Score"] = round(df["QS2023 Overall Score"], 2)
 
-# Organising columns
+## Organising columns
 cols = sorted(df.columns)
 categorical_cols = [x for x in cols if df[x].dtype == object]
 categorical_cols.remove("institution")
 categorical_cols.remove("location")
 numerical_cols = [x for x in cols if df[x].dtype == "float64"]
 
-# Possible colours and sizes to use UPDATE
-COLOURS = Spectral5
-
+## Information shown when hovering over data
 TOOLTIPS = [
     ("Name", "@institution"),
     ("Country", "@location"),
@@ -64,7 +62,7 @@ def create_figure():
     
     # Update colours
     if colour.value != 'None':
-        colours = factor_cmap(colour.value, palette=COLOURS, factors=df[colour.value].unique())
+        colours = factor_cmap(colour.value, palette=Spectral5, factors=df[colour.value].unique())
 
     # Draw points
     if colour.value != 'None':
@@ -82,11 +80,12 @@ def create_figure():
     return p
 
 
+## Update figure function - called when user updates encoding settings
 def update_figure(attr, old, new):
     layout.children[1] = create_figure()
 
 
-# Menus for each option to change
+## Menus for each option to change
 x = Select(title='X-Axis', value='QS2023 Overall Score', options=numerical_cols)
 x.on_change('value', update_figure)
 
@@ -96,11 +95,11 @@ y.on_change('value', update_figure)
 colour = Select(title='Colour', value='None', options=['None'] + categorical_cols)
 colour.on_change('value', update_figure)
 
-# Placement of bokeh controls
-controls = row(x, y, colour, width=200)
+## Placement of bokeh controls
+controls = row(x, y, colour, width=700)
 layout = column(controls, create_figure())
 
-
+## Displaying the chart
 curdoc().theme = "dark_minimal"
 curdoc().add_root(layout)
 curdoc().title = "520419832 Visualisation"
