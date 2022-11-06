@@ -1,6 +1,6 @@
 # Importing / Removing unwanted columns, and producing an extracted dataset 
 import pandas as pd
-df = pd.read_excel("/Users/johnnyc/Desktop/QS2023.xlsx", header=3, index_col=0)
+df = pd.read_excel("QS2023.xlsx", header=3, index_col=0)
 df1 = df[['location code','size','ar score','isr score']].dropna()
 
 #Importing the relevant bokeh elements 
