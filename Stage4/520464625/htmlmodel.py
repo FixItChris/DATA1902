@@ -40,7 +40,7 @@ tools = [
         ResetTool(),
         #Allows the user to see the point, and their corresponding values
         # Unfortunately bokeh, unlike the boxselect tool, can not hover a point, and show it's repective other points
-        HoverTool(),
+        HoverTool(tooltips = [("(x,y)", "($x, $y)")]),
         #Allows the user to save the modified version of the data.
         SaveTool()
          ]
